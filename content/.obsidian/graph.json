@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "-file:_ -path:Templates/ -tag:#hide",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Puzzle",
+      "color": {
+        "a": 1,
+        "rgb": 3591772
+      }
+    },
+    {
+      "query": "tag:#quadro",
+      "color": {
+        "a": 1,
+        "rgb": 65471
+      }
+    },
+    {
+      "query": "tag:#persona",
+      "color": {
+        "a": 1,
+        "rgb": 16220898
+      }
+    },
+    {
+      "query": "tag:#stanza",
+      "color": {
+        "a": 1,
+        "rgb": 16756545
+      }
+    },
+    {
+      "query": "tag:#testo",
+      "color": {
+        "a": 1,
+        "rgb": 15410212
+      }
+    },
+    {
+      "query": "tag:#oggetto",
+      "color": {
+        "a": 1,
+        "rgb": 7152162
+      }
+    },
+    {
+      "query": "tag:#Giorno",
+      "color": {
+        "a": 1,
+        "rgb": 13107455
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.455729166666667,
+  "repelStrength": 10.8854166666667,
+  "linkStrength": 1,
+  "linkDistance": 168,
+  "scale": 0.47117340712996897,
+  "close": false
+}

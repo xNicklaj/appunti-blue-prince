@@ -1,0 +1,423 @@
+{
+  "debugEnabled": false,
+  "editorMenuAsToolbar": false,
+  "editorMenuToolbar": null,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "*",
+      "toolbar": "ad93933d-2ec3-4005-bf52-8050c98e18fb"
+    }
+  ],
+  "icon": "lucide-archive",
+  "keepPropsState": false,
+  "lockCallouts": false,
+  "obsidianUiVisibility": {},
+  "onboarding": {
+    "new-toolbar-mapping": true
+  },
+  "ribbonAction": "item-suggester",
+  "rules": [],
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "bases": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "textToolbar": null,
+  "textToolbarOnKeyboard": true,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "ad93933d-2ec3-4005-bf52-8050c98e18fb",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky",
+        "left"
+      ],
+      "items": [
+        {
+          "uuid": "82af0a3a-0471-4200-8d7a-7e48ac0b6d15",
+          "label": "Frontmatter",
+          "icon": "lucide-layout-template",
+          "link": "Templater: Insert Templates/NewNoteTemplate.md",
+          "linkAttr": {
+            "commandId": "templater-obsidian:Templates/NewNoteTemplate.md",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "inGallery": false
+        },
+        {
+          "uuid": "f1282c91-f37d-4689-8601-7122312d71e4",
+          "label": "Translate",
+          "icon": "lucide-languages",
+          "link": "Language Translator: Insert translation",
+          "linkAttr": {
+            "commandId": "language-translator:language-translator-editor-command",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "Translate Selected Text",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "inGallery": false
+        },
+        {
+          "uuid": "6a5f56dc-5bf5-48d8-b1ca-36ab87e676a0",
+          "label": "Edit Tasks",
+          "icon": "lucide-list-todo",
+          "link": "Tasks: Create or edit task",
+          "linkAttr": {
+            "commandId": "obsidian-tasks-plugin:edit-task",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "Create or edit tasks",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "inGallery": false
+        },
+        {
+          "uuid": "a539838a-7b59-4e26-8a30-628ed72f3880",
+          "label": "Youtube Embed",
+          "icon": "lucide-youtube",
+          "link": "Convert url to preview (iframe): URL to Preview/Iframe",
+          "linkAttr": {
+            "commandId": "convert-url-to-iframe:url-to-iframe",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "Create embed for youtube link",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "inGallery": false
+        },
+        {
+          "uuid": "8ee295f2-ff47-4bee-b697-b4869da2ba18",
+          "label": "Wikipedia",
+          "icon": "lucide-scan-search",
+          "link": "Wikipedia: Get Wikipedia for Active Note Title",
+          "linkAttr": {
+            "commandId": "obsidian-wikipedia:wikipedia-get-active-note-title",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "Get wikipedia for note title",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "inGallery": false
+        },
+        {
+          "uuid": "117190ce-1380-42a2-a903-76b60489e69f",
+          "label": "Clean Images",
+          "icon": "lucide-image-off",
+          "link": "Clear Unused Images: Clear Unused Images",
+          "linkAttr": {
+            "commandId": "oz-clear-unused-images:clear-images-obsidian",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "Clean unused images",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "inGallery": false
+        },
+        {
+          "uuid": "bbfffd53-c22c-440c-869c-c7a0f15c4439",
+          "hasCommand": false,
+          "icon": "lucide-pen",
+          "inGallery": false,
+          "label": "Ink",
+          "link": "Ink: New handwriting section",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "ink:create-handwritten-section",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "Add Handwriting",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Default",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2026-01-20T18:40:20.736Z"
+    },
+    {
+      "uuid": "3060ce78-bbf4-401c-8f86-6d317945666d",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [
+        {
+          "uuid": "861d4669-4cf4-4413-b925-d87470259e9f",
+          "label": "Realtà Virtuale",
+          "icon": "",
+          "link": "Materie/Realtà Virtuale/Realtà Virtuale.md",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          },
+          "inGallery": false
+        }
+      ],
+      "mobileStyles": [],
+      "name": "hub_nav",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "fabr"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "fabr"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "fabr"
+          }
+        }
+      },
+      "updated": "2024-11-21T10:24:20.936Z"
+    }
+  ],
+  "version": 20250313.1,
+  "whatsnew_version": "1.27"
+}

@@ -1,0 +1,78 @@
+{
+  "hideStrictPathFilters": true,
+  "pinFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "",
+        "patternType": "WILDCARD"
+      }
+    ]
+  },
+  "hideFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "index",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "_*",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "Taskido",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "Taskido",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "Asset",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "*assets*",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "README",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "README.md",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "tasksCalendar",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "tasksCalendar",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Templates",
+        "patternType": "STRICT"
+      }
+    ]
+  }
+}

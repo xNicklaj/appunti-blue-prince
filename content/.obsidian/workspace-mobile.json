@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "f623ca38b4be990b",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d69533e27101a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68f6741d76912825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Materie/Digital Strategy/Digital Strategy.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Strategy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9f06296552ef3c7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c77d5c5dee2b2b9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6d5637fd155135f6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9e20a93de9ff3831",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c75bc7c2429322f4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5fff0e0b5ac4eae4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "147b956cf2012851",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Materie/Realtà Virtuale/Appunti/Dispositivi di input.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e30b111a02945613",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Materie/Realtà Virtuale/Appunti/Dispositivi di input.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b04aec078a7c5429",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Materie/Realtà Virtuale/Appunti/Dispositivi di input.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "7f827aca0abbf1a0",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "git-view"
+        }
+      },
+      {
+        "id": "aa3aa984a7e3b652",
+        "type": "leaf",
+        "state": {
+          "type": "chronology-calendar-view",
+          "state": {},
+          "icon": "clock",
+          "title": "Chronology"
+        }
+      },
+      {
+        "id": "d6e6486d1c4c977f",
+        "type": "leaf",
+        "state": {
+          "type": "chronology-calendar-view",
+          "state": {},
+          "icon": "clock",
+          "title": "Chronology"
+        }
+      },
+      {
+        "id": "a4e47c38840c578f",
+        "type": "leaf",
+        "state": {
+          "type": "smtcmp-chat-view",
+          "state": {},
+          "icon": "wand-sparkles",
+          "title": "Smart composer chat"
+        }
+      }
+    ],
+    "currentTab": 6
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "tldraw:Create new tldrawing": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "chronology:Open Chronology": false,
+      "obsidian42-brat:BRAT": false,
+      "smart-composer:Open smart composer": false
+    }
+  },
+  "active": "68f6741d76912825",
+  "lastOpenFiles": [
+    "Materie/Digital Strategy/Appunti/Agile.md",
+    "Materie/Digital Strategy/Digital Strategy.md",
+    "Materie/Digital Strategy/Appunti/SOSTAC.md",
+    "Materie/Digital Strategy/Appunti/7P del Marketing.md",
+    "Materie/Digital Strategy/Appunti/Framework RACE.md",
+    "Materie/Digital Strategy/Appunti/Metriche SMART.md",
+    "Materie/Digital Strategy/Appunti/Domande per esame.md",
+    "Materie/Digital Strategy/Appunti/7D del Marketing.md",
+    "Materie/Digital Strategy/Appunti/Key Performance Indicators.md",
+    "Materie/Digital Strategy/Appunti/Pay Per Click.md",
+    "Materie/Digital Strategy/Appunti/Search Engine Marketing.md",
+    "Materie/Digital Strategy/Appunti/Search Engine Optimization.md",
+    "Materie/Digital Strategy/Appunti/SWOT.md",
+    "Daily Notes/Lead.md",
+    "Materie/Digital Strategy/Appunti/Regola 7-11-4.md",
+    "Materie/Digital Strategy/Appunti/Zero moment of truth.md",
+    "Materie/Digital Strategy/Appunti/Second Moment of Truth.md",
+    "Daily Notes/Modello delle 7S.md",
+    "Materie/Digital Strategy/Appunti/Modelli di ricavo.md",
+    "Materie/Digital Strategy/Appunti/PESTLE.md",
+    "Materie/Digital Strategy/Appunti/Media a pagamento.md",
+    "Materie/Digital Strategy/Appunti/Canali.md",
+    "Daily Notes/TLDraw DS 1.sync-conflict-20260122-191101-SWMP2VK.md",
+    "Daily Notes/TLDraw DS 1.md",
+    "Daily Notes/Tldraw 2026-01-22 6.35PM.md",
+    "Daily Notes/Untitled.base",
+    "Excalidraw/Drawing 2026-01-22 18.27.06.excalidraw.md",
+    "Excalidraw",
+    "Dump/assets/Pasted image 20241109002242.png",
+    "Dump/assets/Pasted image 20241108235342.png",
+    "Dump/assets/april-fools-joke.gif",
+    "Dump/assets/Pasted image 20241109001608.png",
+    "Dump/assets",
+    "Dump",
+    "Knowledge/Realtà Virtuale/assets/Pasted image 20241104094043.png",
+    "Knowledge/Cinema Immersivo/assets/Pasted image 20241104095114.png",
+    "Knowledge/Cinema Immersivo/assets/Pasted image 20241104091715.png",
+    "Knowledge/Informatica/Hardware/assets/Pasted image 20241104084424.png",
+    "Knowledge/Cinema Immersivo/assets/Pasted image 20241104100058.png",
+    "Knowledge/Cinema Immersivo/assets",
+    "Knowledge/Informatica/Hardware/assets/Pasted image 20241104084051.png",
+    "Knowledge/Informatica/Hardware/assets",
+    "Knowledge/Informatica/Hardware",
+    "Knowledge/Cinema Immersivo"
+  ]
+}

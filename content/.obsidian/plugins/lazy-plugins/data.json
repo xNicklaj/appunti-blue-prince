@@ -1,0 +1,137 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": null,
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "obsidian-admonition": {
+        "startupType": "instant"
+      },
+      "obsidian42-brat": {
+        "startupType": "instant"
+      },
+      "canvas-mindmap": {
+        "startupType": "instant"
+      },
+      "chronology": {
+        "startupType": "instant"
+      },
+      "oz-clear-unused-images": {
+        "startupType": "instant"
+      },
+      "obsidian-clipper": {
+        "startupType": "instant"
+      },
+      "code-emitter": {
+        "startupType": "instant"
+      },
+      "cmdr": {
+        "startupType": "instant"
+      },
+      "convert-url-to-iframe": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "dataview-publisher": {
+        "startupType": "instant"
+      },
+      "editing-toolbar": {
+        "startupType": "instant"
+      },
+      "file-explorer-plus": {
+        "startupType": "instant"
+      },
+      "obsidian-footnotes": {
+        "startupType": "instant"
+      },
+      "obsidian-git": {
+        "startupType": "instant"
+      },
+      "obsidian-icon-folder": {
+        "startupType": "instant"
+      },
+      "image-captions": {
+        "startupType": "instant"
+      },
+      "language-translator": {
+        "startupType": "instant"
+      },
+      "obsidian-linter": {
+        "startupType": "instant"
+      },
+      "multi-properties": {
+        "startupType": "instant"
+      },
+      "nldates-obsidian": {
+        "startupType": "instant"
+      },
+      "note-toolbar": {
+        "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "instant"
+      },
+      "url-into-selection": {
+        "startupType": "instant"
+      },
+      "recent-files-obsidian": {
+        "startupType": "instant"
+      },
+      "short-internal-links-to-headings": {
+        "startupType": "instant"
+      },
+      "smart-composer": {
+        "startupType": "instant"
+      },
+      "obsidian-style-settings": {
+        "startupType": "instant"
+      },
+      "tag-wrangler": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "instant"
+      },
+      "templater-obsidian": {
+        "startupType": "instant"
+      },
+      "various-complements": {
+        "startupType": "instant"
+      },
+      "obsidian-wikipedia": {
+        "startupType": "instant"
+      },
+      "zoottelkeeper-obsidian-plugin": {
+        "startupType": "instant"
+      },
+      "smart-connections": {
+        "startupType": "instant"
+      },
+      "aloud-tts": {
+        "startupType": "disabled"
+      },
+      "ink": {
+        "startupType": "instant"
+      },
+      "note-refactor-obsidian": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      },
+      "tldraw": {
+        "startupType": "instant"
+      },
+      "obsidian-frontmatter-tag-suggest": {
+        "startupType": "instant"
+      }
+    }
+  }
+}

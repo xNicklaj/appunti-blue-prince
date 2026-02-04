@@ -1,0 +1,107 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasPen",
+      "LiInstagram",
+      "FabUikit",
+      "FabDeploydog",
+      "FabInstagram"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Materie/Realtà Virtuale": {
+    "iconName": "FasVrCardboard",
+    "iconColor": "#363bce"
+  },
+  "Materie/Cinema Immersivo": {
+    "iconName": "FasVideo",
+    "iconColor": "#e1af41"
+  },
+  "Materie/Elaborazione Audio Digitale": {
+    "iconName": "FasFileAudio",
+    "iconColor": "#d846bd"
+  },
+  "Materie/Future Storytelling": "FabTwitter",
+  "Knowledge/Clippings": "FasClipboard",
+  "Knowledge": "FasBrain",
+  "Templates": "LiLayoutTemplate",
+  "Materie": "FasBook",
+  "Calendario.md": "FasCalendar",
+  "Events": "FasCalendarDays",
+  "Dump": "FasDumpster",
+  "Materie/Campionamento": {
+    "iconName": "LiAudioLines",
+    "iconColor": "#af49df"
+  },
+  "Daily Notes": "LiNotebookPen",
+  "Materie/Game Design & Game Thinking": "🎮",
+  "Materie/Sistemi Elettronici": {
+    "iconName": "FasMicrochip",
+    "iconColor": "#00a329"
+  },
+  "Materie/Computer Animation": {
+    "iconName": "FasBlender",
+    "iconColor": "#ff6600"
+  },
+  "Materie/Ingegneria del suono": {
+    "iconName": "LiSpeaker",
+    "iconColor": "#ff00ea"
+  },
+  "Knowledge/Audio & Sound": {
+    "iconName": "LiAudioLines",
+    "iconColor": "#af49df"
+  },
+  "Knowledge/Virtual Reality & Game Design": "🎮",
+  "Knowledge/Video & Computer Graphics": {
+    "iconName": "FasVideo",
+    "iconColor": "#e1af41"
+  },
+  "Knowledge/Fisica & Scienze": {
+    "iconName": "FasAtom",
+    "iconColor": "#00ffbf"
+  },
+  "Knowledge/Ingegneria, Informatica & Elettronica": {
+    "iconName": "FasComputer",
+    "iconColor": "#8abee5"
+  },
+  "Materie/User Experience Design": {
+    "iconName": "LiUserSearch",
+    "iconColor": "#00ffbf"
+  },
+  "Materie/VFX & Cinema di Animazione": {
+    "iconName": "FabGripfire",
+    "iconColor": "#dd3308"
+  },
+  "Materie/Digital Strategy": "LiInstagram",
+  "Materie/Digital Interaction Design": "FabDeploydog",
+  "Knowledge/UIUX": {
+    "iconName": "FabUikit",
+    "iconColor": "#ff57e0"
+  },
+  "TLDraw": "FasPen"
+}

@@ -1,0 +1,1 @@
+Disco che consente di migliorare permanentemente una stanza, se portato ad un terminale a [[Security]] o nel [[Laboratorio]].
