@@ -22,6 +22,7 @@
  [[Stanze/Salotto|Salotto]]
  [[Stanze/Security|Security]]
  [[Stanze/Sgabuzzino|Sgabuzzino]]
+ [[Stanze/Shelter|Shelter]]
  [[Stanze/Stanza da disegno|Stanza da disegno]]
  [[Stanze/Stanza da giorno|Stanza da giorno]]
  [[Stanze/Stanza da letto|Stanza da letto]]
