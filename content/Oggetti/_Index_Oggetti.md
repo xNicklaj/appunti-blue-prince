@@ -5,6 +5,8 @@
  [[Oggetti/Chiave semplice|Chiave semplice]]
  [[Oggetti/Disco di miglioramento per pianimetria|Disco di miglioramento per pianimetria]]
  [[Oggetti/Gemme|Gemme]]
+ [[Oggetti/Leva rotta|Leva rotta]]
+ [[Oggetti/Leva|Leva]]
  [[Oggetti/Martello|Martello]]
  [[Oggetti/Mela|Mela]]
  [[Oggetti/Microchip|Microchip]]
