@@ -8,6 +8,7 @@
  [[Oggetti/Disco di miglioramento per pianimetria|Disco di miglioramento per pianimetria]]
  [[Oggetti/Gemme|Gemme]]
  [[Oggetti/Kit da scassinatura|Kit da scassinatura]]
+ [[Oggetti/Lente d'ingrandimento|Lente d'ingrandimento]]
  [[Oggetti/Leva rotta|Leva rotta]]
  [[Oggetti/Leva|Leva]]
  [[Oggetti/Martello|Martello]]
