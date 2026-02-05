@@ -55,12 +55,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oggetti/Leva.md",
+                "file": "Testi/Synka Company Customer's Copy..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leva"
+              "title": "Synka Company Customer's Copy."
+            }
+          },
+          {
+            "id": "572e45999175e86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testi/Nota con email in fondo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nota con email in fondo"
+            }
+          },
+          {
+            "id": "daa1a735fb5f0de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stanze/Cucina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cucina"
             }
           },
           {
@@ -78,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oggetti/Leva.md",
+                "file": "Stanze/Cucina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Leva"
+              "title": "Outgoing links from Cucina"
             }
           }
         ],
@@ -230,10 +258,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43b483eb05671e30",
+  "active": "daa1a735fb5f0de3",
   "lastOpenFiles": [
-    "Oggetti/Leva rotta.md",
+    "Testi/Nota della dispensa.md",
+    "Testi/assets/Pasted image 20260205225251.png",
+    "Stanze/Cortile.md",
+    "Oggetti/Battery Pack.md",
+    "Quadri/Quadro 'Costellazione'.md",
+    "Quadri/assets/Pasted image 20260205224437.png",
+    "Testi/Nota con email in fondo.md",
+    "Testi/assets/Pasted image 20260205224242.png",
+    "Stanze/Mail room.md",
+    "Testi/assets/Pasted image 20260205224031.png",
+    "Testi/Nota 'Utility Room'.md",
+    "Testi/assets/Pasted image 20260205223923.png",
+    "Oggetti/Kit da scassinatura.md",
+    "Testi/Synka Company Customer's Copy..md",
+    "Testi/assets/Pasted image 20260205223621.png",
+    "Testi/assets",
     "Oggetti/Leva.md",
+    "Oggetti/Leva rotta.md",
     "Stanze/Acquario.md",
     "Stanze/Passaggio Segreto.md",
     "Stanze/assets/Pasted image 20260205222935.png",
@@ -252,32 +296,16 @@
     "Quadri/Quadro 'Rosario'.md",
     "Quadri/assets/Pasted image 20260205221839.png",
     "Quadri/Quadro 'Spilla'.md",
-    "Quadri/assets/Pasted image 20260205221750.png",
     "Quadri/Disegno 'Pulcino'.md",
-    "Quadri/assets/Pasted image 20260205221720.png",
     "Stanze/Magazzino.md",
     "Quadri/Quadro 'Regina di quadri'.md",
-    "Quadri/assets/Pasted image 20260205221528.png",
-    "Quadri/Quadro 'Asso di picche'.md",
-    "Quadri/assets/Pasted image 20260205221455.png",
-    "Oggetti/Martello.md",
-    "Oggetti/Microchip.md",
-    "Quadri/Quadro 'Città'.md",
-    "Quadri/assets/Pasted image 20260205221310.png",
     "Quadri/assets",
-    "Stanze/Toolshed.md",
-    "Interagibili/Cassa.md",
-    "index.md",
     "Untitled.base",
-    "Giorni/Giorno 14.md",
-    "Giorni/Giorno 13.md",
     "Giorni",
     "Testi",
     "Quadri",
     "Interagibili",
     "Templates",
-    "Puzzle",
-    "Daily Notes/assets/Pasted image 20260128180306.png",
     "TMPTutorialCanvas.canvas",
     "Materie/Game Design & Game Thinking/Appunti Visivi.canvas",
     "Materie/Game Design & Game Thinking/Untitled.canvas",

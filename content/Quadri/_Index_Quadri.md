@@ -6,6 +6,7 @@
  [[Quadri/Fotografia 'Boudoir natalizio'|Fotografia 'Boudoir natalizio']]
  [[Quadri/Quadro 'Asso di picche'|Quadro 'Asso di picche']]
  [[Quadri/Quadro 'Città'|Quadro 'Città']]
+ [[Quadri/Quadro 'Costellazione'|Quadro 'Costellazione']]
  [[Quadri/Quadro 'Lucchetto'|Quadro 'Lucchetto']]
  [[Quadri/Quadro 'Piede di porco'|Quadro 'Piede di porco']]
  [[Quadri/Quadro 'Regina di cuori'|Quadro 'Regina di cuori']]

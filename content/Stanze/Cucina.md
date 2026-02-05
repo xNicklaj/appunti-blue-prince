@@ -9,5 +9,6 @@ Possibili oggetti:
 - 2x [[Banana]]
 - 8x [[Sandwitch]]
 - 8x [[Uova e bacon]]
+Si può interagire col rubinetto, ma non eroga acqua.
 ## Estetica
 Presenta un pendolo che segna l'una e mezza.

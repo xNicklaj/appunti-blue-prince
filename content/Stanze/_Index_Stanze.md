@@ -12,6 +12,7 @@
  [[Stanze/Entrata|Entrata]]
  [[Stanze/Garage|Garage]]
  [[Stanze/Magazzino|Magazzino]]
+ [[Stanze/Mail room|Mail room]]
  [[Stanze/Nook|Nook]]
  [[Stanze/Osservatorio|Osservatorio]]
  [[Stanze/Passaggio Segreto|Passaggio Segreto]]
