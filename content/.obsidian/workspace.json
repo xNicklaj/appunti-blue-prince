@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testi/Nota dello shelter.md",
+                "file": "Testi/Lettera di terminazione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota dello shelter"
+              "title": "Lettera di terminazione"
             }
           },
           {
@@ -242,12 +242,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testi/Nota dello shelter.md",
+                "file": "Testi/Lettera di terminazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nota dello shelter"
+              "title": "Outgoing links from Lettera di terminazione"
             }
           }
         ],
@@ -274,13 +274,26 @@
   },
   "active": "8fbe2d50357a3425",
   "lastOpenFiles": [
+    "Testi/assets/Pasted image 20260206001933.png",
+    "Testi/Nota con email in fondo.md",
+    "Testi/Lettera di terminazione.md",
+    "Oggetti/Pala.md",
+    "Oggetti/Salt Shaker.md",
+    "Stanze/Commissariato.md",
+    "Stanze/assets/Pasted image 20260206000852.png",
+    "Giorni/Giorno 14.md",
+    "Giorni/Giorno 16.md",
+    "Giorni/Giorno 15.md",
+    "Giorni/Giorno 13.md",
+    "Giorni/Giorno 12.md",
+    "Stanze/Corridoio.md",
+    "Stanze/Antro.md",
+    "Testi/Nota dello shelter.md",
     "Testi/assets/Pasted image 20260205235525.png",
     "Stanze/Shelter.md",
-    "Testi/Nota dello shelter.md",
     "Testi/Lettera da Daniel Jones.md",
     "Testi/assets/Pasted image 20260205234434.png",
     "Stanze/Salotto.md",
-    "Testi/Nota con email in fondo.md",
     "Testi/Nota del laboratorio.md",
     "Testi/Nota del corridoio.md",
     "Testi/Nota della dispensa.md",
@@ -290,26 +303,13 @@
     "Testi/Synka Company Customer's Copy..md",
     "Testi/Tavola Periodica.md",
     "Oggetti/Lente d'ingrandimento.md",
-    "Stanze/Laboratorio.md",
     "Testi/assets/Pasted image 20260205232513.png",
     "Testi/assets/Pasted image 20260205232449.png",
     "Stanze/assets/Pasted image 20260205232438.png",
     "Stanze/assets/Pasted image 20260205232422.png",
-    "Stanze/Osservatorio.md",
     "Testi/assets/Pasted image 20260205232005.png",
-    "Stanze/Camera Oscura.md",
-    "Stanze/Stanza dei Giochi.md",
-    "Stanze/Security.md",
-    "Oggetti/Chiave del deposito 149.md",
-    "Testi/Lettera dell'ospite.md",
-    "Stanze/Stanza da disegno.md",
     "Stanze/assets/Pasted image 20260205230235.png",
-    "Quadri/Cartolina 'Greetings from Reddington'.md",
     "Quadri/assets/Pasted image 20260205230030.png",
-    "Quadri/Quadro 'Fiammifero'.md",
-    "Quadri/assets/Pasted image 20260205230012.png",
-    "Quadri/Ritratto di una donna.md",
-    "Quadri/assets/Pasted image 20260205225939.png",
     "Testi/assets",
     "Stanze/assets",
     "Persone/assets",
