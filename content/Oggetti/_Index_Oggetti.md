@@ -2,6 +2,7 @@
  [[Oggetti/Banana|Banana]]
  [[Oggetti/Battery Pack|Battery Pack]]
  [[Oggetti/Chiave argentata|Chiave argentata]]
+ [[Oggetti/Chiave del deposito 149|Chiave del deposito 149]]
  [[Oggetti/Chiave del deposito 233|Chiave del deposito 233]]
  [[Oggetti/Chiave semplice|Chiave semplice]]
  [[Oggetti/Disco di miglioramento per pianimetria|Disco di miglioramento per pianimetria]]

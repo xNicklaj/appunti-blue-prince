@@ -11,3 +11,4 @@ Consente di impostare lo stato delle porte chiuse tramite keycard quando si stac
 ## Oggetti e interagibili
 - [[Nota per il personale]]
 - [[Nota sui post-it colorati]]
+- [[Chiave del deposito 149]]
