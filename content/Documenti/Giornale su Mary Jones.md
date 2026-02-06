@@ -7,7 +7,7 @@ Cut-out di giornali trovati nell'[[Archivio]].
 
 > AUG 22 - '85
 >
-> [[Mary Jones|Marigold]] WINS HERALD LITERARY HONOR
+> [[Mary Matthew Jones|Marigold]] WINS HERALD LITERARY HONOR
 > Popular children's writer Marion Marigold adds yet another feather to her scholastic cap when she discovered on Thursday that her picture book "Sim Bird" had been chosen as the Herald Literary Medal illustrated book of the year.
 > This is Marigold's second time winning this prestigious honor, the previous medal was of course for her debut effort,
 >
@@ -20,7 +20,7 @@ Cut-out di giornali trovati nell'[[Archivio]].
 >
 >She confided "My [[Simon P. Jones|son]] was the one actually got me to start writing, I had always challenged myself to never tell me the same story twice at bedtime, and so as we ran out of books we owned, my imagination had to take over from there."
 >
->[[Mary Jones|Marigold]] has elaborated in previous interviews that her debut book "[[Red Prince]]" is based on her son and his inflexible love of the color red. A statement that has been held with much skepticism by the many pundits that viewed that book as a rather thinly veiled political critique of the royalist party and their unwavering blind loyalty to the throne.
+>[[Mary Matthew Jones|Marigold]] has elaborated in previous interviews that her debut book "[[Red Prince]]" is based on her son and his inflexible love of the color red. A statement that has been held with much skepticism by the many pundits that viewed that book as a rather thinly veiled political critique of the royalist party and their unwavering blind loyalty to the throne.
 
 > NOV 11 - '86
 > 
@@ -36,7 +36,7 @@ Cut-out di giornali trovati nell'[[Archivio]].
 > 
 > MARIGOLD DROPS PUBLISHER
 > 
-> Local author and popular personality, [[Mary Jones|Marion Marigold]] has announced a split with her long term publishing partner, Ruffington Press, citing personal reasons. 
+> Local author and popular personality, [[Mary Matthew Jones|Marion Marigold]] has announced a split with her long term publishing partner, Ruffington Press, citing personal reasons. 
 > The announcement came after the arrest last week of fellow author and colleague, [[Caleb Manning]], whom Marigold has past referred to as her mentor, friend and confidant.
 > Marigold is the third prominent writer to distance themselves from the Publisher this week.
 > 
@@ -51,7 +51,28 @@ Cut-out di giornali trovati nell'[[Archivio]].
 > expected to last up to s-
 > with grand treason.-
 
+>   FEB 22 - '87
+> 
+>   NO TRACE IS DISCOVERED OF SYNKA HEIRESS BUT SEARCH CONTINUES
+>
+>[[Mary Matthew Jones]], the author and illustrator whose fanciful stories are written under the pen name Marion Marigold, was last seen by a close friend around 3:45pm Friday getting into a carriage after a late luncheon date at the Hundred Bells Tea Room in [[Trinsdale]]. 
+>   Mrs. Jones never arrived home and the carriage driver cannot be located. Family and local authorities are very concerned but have not deemed the case foul play. 
+>   "*It's an out-of-character incident at this point and we are seeking information*
 
+> SEP 2 - '87
+> 
+> PRICELESS JEWEL STOLEN IN DRAMATIC ROYAL MUSEUM HEIST
+>
+> Thieves in the royal capital of [[Monarchia di Fenn Aries|Fenn Aries]] have broken into one of the Crown's fabled 'closed' exhibits. 
+> These lavish rooms have historically been reserved exclusively for the use of the aristocracy and high peerage, and access has never been granted to those outside noble circles. 
+> At least not until today, as local police and forensic experts have been spotted in virtually every corner of the Museum grounds dredging for clues.
+>
+> The museum authorities said they were alerted in the middle of night by reports of several masked intruders seen breaching the south wall and brandishing firearms.
+> The intruders broke into the museum, subdued the Royal Guard and disabled the security system. 
+> By the time the militia arrived on the scene, the burglars had simply vanished.
+>
+> Although an official registry of the lost jewels has not been publicly announced, among the treasured artifacts rumored to be stolen is the renowned Ruby Crown of Orinda Aries, the priceless crown jewel whose material worth pales in comparison to the historic value. 
+> If these rumors are true, the evidence may suggest that the theft was politically motivated.
 ## Galleria
 ![[Pasted image 20260206011045.png|525]]
 ![[Pasted image 20260206011327.png|525]]
