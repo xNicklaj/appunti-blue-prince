@@ -1,5 +1,0 @@
----
-tags:
-  - persona
-aliases:
----

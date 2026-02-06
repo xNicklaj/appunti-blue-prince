@@ -3,6 +3,6 @@ tags:
   - persona
 aliases:
 ---
-Fotografia che ritrae [[Caleb Manning]] e [[Mr. White]].
+Fotografia che ritrae [[Caleb Manning]] e [[Phillip White]].
 ## Galleria
 ![[Fotografia 'Manning e White']]
