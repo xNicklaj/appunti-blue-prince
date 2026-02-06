@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Giorni/7 Novembre.md",
-                "mode": "source",
+                "file": "Testi/Giornale su Mary Jones.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Novembre"
+              "title": "Giornale su Mary Jones"
             }
           },
           {
@@ -256,12 +256,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Giorni/7 Novembre.md",
+                "file": "Testi/Giornale su Mary Jones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 Novembre"
+              "title": "Outgoing links from Giornale su Mary Jones"
             }
           }
         ],
@@ -288,14 +288,28 @@
   },
   "active": "989232f306f40587",
   "lastOpenFiles": [
+    "Testi/assets/Pasted image 20260206012113.png",
+    "Testi/assets/Pasted image 20260206012055.png",
+    "Testi/assets/Pasted image 20260206011945.png",
+    "Testi/assets/Pasted image 20260206011859.png",
+    "Testi/assets/Pasted image 20260206011711.png",
+    "Testi/assets/Pasted image 20260206011704.png",
+    "Testi/assets/Pasted image 20260206011425.png",
+    "Testi/assets/Pasted image 20260206011414.png",
+    "Testi/assets/Pasted image 20260206011327.png",
+    "Persone/Mary Jones.md",
+    "Testi/Giornale su Mary Jones.md",
+    "Testi/assets/Pasted image 20260206011045.png",
+    "Untitled.base",
+    "Untitled.md",
+    "Testi/Nota con email in fondo.md",
+    "Testi/Nota 'Utility Room'.md",
+    "Stanze/Ufficio.md",
+    "Giorni/7 Novembre.md",
     "Giorni/assets/Pasted image 20260206005950.png",
     "Giorni/4 Novembre.md",
-    "Giorni/7 Novembre.md",
-    "Giorni/assets/Pasted image 20260206005800.png",
     "Giorni/assets",
-    "Untitled.md",
     "Testi/Nota per il personale.md",
-    "Testi/assets/Pasted image 20260206005525.png",
     "Testi/Nota sui post-it colorati.md",
     "Stanze/Security.md",
     "Stanze/Stanza dei Giochi.md",
@@ -307,29 +321,15 @@
     "Testi/Lettera dell'ospite.md",
     "Testi/Lettera per Christoph.md",
     "Testi/Lettera di terminazione.md",
-    "Testi/Nota 'Utility Room'.md",
     "Testi/Nota del corridoio.md",
     "Testi/Nota del laboratorio.md",
     "Testi/Nota su Christopher.md",
     "Testi/Nota dello shelter.md",
     "Testi/Nota della dispensa.md",
-    "Stanze/Cappella.md",
-    "Stanze/Commissariato.md",
-    "Stanze/Stanza da disegno.md",
-    "Stanze/Stanza da giorno.md",
-    "Testi/assets/Pasted image 20260206003838.png",
-    "Testi/assets/Pasted image 20260206002115.png",
-    "Testi/assets/Pasted image 20260206001933.png",
-    "Stanze/assets/Pasted image 20260206000852.png",
-    "Testi/assets/Pasted image 20260205235525.png",
-    "Testi/assets/Pasted image 20260205234434.png",
-    "Testi/assets/Pasted image 20260205232513.png",
-    "Testi/assets/Pasted image 20260205232449.png",
     "Testi/assets",
     "Stanze/assets",
     "Persone/assets",
     "Quadri/assets",
-    "Untitled.base",
     "Giorni",
     "Testi",
     "Quadri",
