@@ -10,4 +10,6 @@ Nota che discute di come fare clock-in per lavorare nella villa tramite uno dei 
 
 Infine presenta una password censurata, di cui si leggono soltanto iniziale S e si intravede come finale ONU.
 
-S ---- ONU
+SWANSONG
+
+![[Pasted image 20260206005525.png|450]]
