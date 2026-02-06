@@ -4,6 +4,7 @@ tags:
 aliases:
 ---
 ![[_Index_Stanze]]
+![[_Index_Documenti]]
 ![[_Index_Giorni]]
 ![[_Index_Fazioni]]
 ![[_Index_Eventi]]
