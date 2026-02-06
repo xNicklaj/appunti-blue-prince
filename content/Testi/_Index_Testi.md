@@ -16,6 +16,7 @@
  [[Testi/Nota del laboratorio|Nota del laboratorio]]
  [[Testi/Nota della dispensa|Nota della dispensa]]
  [[Testi/Nota dello shelter|Nota dello shelter]]
+ [[Testi/Nota per il personale II|Nota per il personale II]]
  [[Testi/Nota per il personale|Nota per il personale]]
  [[Testi/Nota su Christopher|Nota su Christopher]]
  [[Testi/Nota sui post-it colorati|Nota sui post-it colorati]]
