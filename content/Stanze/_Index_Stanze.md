@@ -25,6 +25,7 @@
  [[Stanze/Security|Security]]
  [[Stanze/Sgabuzzino|Sgabuzzino]]
  [[Stanze/Shelter|Shelter]]
+ [[Stanze/Stanza 46|Stanza 46]]
  [[Stanze/Stanza da disegno|Stanza da disegno]]
  [[Stanze/Stanza da giorno|Stanza da giorno]]
  [[Stanze/Stanza da letto|Stanza da letto]]

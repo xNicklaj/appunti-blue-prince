@@ -1,5 +1,5 @@
 ---
 tags:
-  - Oggetto
+  - persona
 aliases:
 ---
