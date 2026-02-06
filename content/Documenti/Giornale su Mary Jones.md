@@ -15,8 +15,20 @@ Cut-out di giornali trovati nell'[[Archivio]].
 
 > JAN 27 - '86
 >
-> 
+> "SWIM BIRD" AUTHOR NEVER CONSIDERED HERSELF SUCCESS
+> BY GALE HERMES HERALD STAFF WRITER
+>
+>She confided "My [[Simon P. Jones|son]] was the one actually got me to start writing, I had always challenged myself to never tell me the same story twice at bedtime, and so as we ran out of books we owned, my imagination had to take over from there."
+>
+>[[Mary Jones|Marigold]] has elaborated in previous interviews that her debut book "[[Red Prince]]" is based on her son and his inflexible love of the color red. A statement that has been held with much skepticism by the many pundits that viewed that book as a rather thinly veiled political critique of the royalist party and their unwavering blind loyalty to the throne.
 
+> NOV 11 - '86
+> 
+> PUBLISHER & AUTHOR DETAINED BY [[Red Guard|RED GUARD]], QUESTIONED
+>
+> Caleb Manning and his publisher Phillip White were two of three dozen names that appeared on a leaked dossier naming them a "person of interest" in the [[Trinsdale]] booming that killed four people last Tuesday.
+> Although no group has come forth to officially take responsibility of the attack, it is widely believed by authorities to be the work of insurgent group [[The Children of Black Water|RLCF]] who also call themselves "[[The Children of Black Water]]".
+## Galleria
 ![[Pasted image 20260206011045.png|525]]
 ![[Pasted image 20260206011327.png|525]]
 ![[Pasted image 20260206011414.png|575]]
