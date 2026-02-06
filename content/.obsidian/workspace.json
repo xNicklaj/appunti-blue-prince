@@ -13,16 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "Eventi/Disattivazione del servizio di servitù.md",
-=======
-                "file": "Documenti/Nota con email in fondo.md",
->>>>>>> origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "Disattivazione del servizio di servitù"
             }
           },
@@ -52,9 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "Anne Babbage"
-=======
-              "title": "Nota con email in fondo"
->>>>>>> origin/main
             }
           }
         ],
@@ -213,7 +205,8 @@
   },
   "active": "261e008ad0a1150c",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "conflict-files-obsidian-git.md",
+    "Persone/Anne Babbage.md",
     "Persone/Christoph.md",
     "Eventi/Disattivazione del servizio di servitù.md",
     "Documenti/Tavola Periodica.md",
@@ -234,43 +227,14 @@
     "Documenti/Nota del corridoio.md",
     "Documenti/Nota 'Utility Room'.md",
     "Documenti/Lettera per Christoph.md",
-    "Persone/Anne Babbage.md",
-=======
-    "Documenti/Nota 'Utility Room'.md",
-    "Documenti/Lettera per Christoph.md",
->>>>>>> origin/main
     "Documenti/Lettera di terminazione.md",
     "Documenti/Lettera dell'ospite.md",
-    "Documenti/Giornale su Mary Jones.md",
-    "Persone/Anne Babbage.md",
     "Documenti/Lettera da Daniel Jones.md",
     "Documenti/Lettera 'Greetings From Reddington'.md",
-<<<<<<< HEAD
-    "Documenti/Giornale su Mary Jones.md",
-=======
-    "Documenti/Email 'settimana prossima'.md",
-    "Documenti/Email 'riparazione del fusibile'.md",
-    "Documenti/Email 'cambiamenti della villa'.md",
-    "Documenti/Disegno di Revane.md",
-    "Documenti/Nota per il personale II.md",
->>>>>>> origin/main
     "Documenti/assets/Pasted image 20260206110418.png",
     "Quadri/assets/Pasted image 20260206110001.png",
     "Persone/assets/Pasted image 20260206105935.png",
     "Documenti/assets/Pasted image 20260206011711.png",
-<<<<<<< HEAD
-=======
-    "Persone/Mary Matthew Jones.md",
-    "Fazioni/Red Guard.md",
-    "Oggetti/Leva rotta.md",
-    "Stanze/Shelter.md",
-    "Fazioni/The Children of Black Water.md",
-    "Luoghi/Trinsdale.md",
-    "Documenti/Nota per il personale.md",
-    "Documenti/Nota su Christopher.md",
-    "Documenti/Nota sui post-it colorati.md",
-    "Documenti/Synka Company Customer's Copy..md",
->>>>>>> origin/main
     "Untitled.base",
     "Eventi",
     "Fazioni",
