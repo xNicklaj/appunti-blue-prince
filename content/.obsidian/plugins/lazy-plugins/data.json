@@ -131,6 +131,9 @@
       },
       "obsidian-frontmatter-tag-suggest": {
         "startupType": "instant"
+      },
+      "mousewheel-image-zoom": {
+        "startupType": "instant"
       }
     }
   }
