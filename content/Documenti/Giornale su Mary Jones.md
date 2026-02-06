@@ -26,8 +26,32 @@ Cut-out di giornali trovati nell'[[Archivio]].
 > 
 > PUBLISHER & AUTHOR DETAINED BY [[Red Guard|RED GUARD]], QUESTIONED
 >
-> Caleb Manning and his publisher Phillip White were two of three dozen names that appeared on a leaked dossier naming them a "person of interest" in the [[Trinsdale]] booming that killed four people last Tuesday.
+> [[Caleb Manning]] and his publisher Phillip White were two of three dozen names that appeared on a leaked dossier naming them a "person of interest" in the [[Trinsdale]] booming that killed four people last Tuesday.
 > Although no group has come forth to officially take responsibility of the attack, it is widely believed by authorities to be the work of insurgent group [[The Children of Black Water|RLCF]] who also call themselves "[[The Children of Black Water]]".
+>
+> Ruffington Press was quick to dismiss the rumors in a statement released on Friday, maintaining that the popular author \[and Mr. White] were simply "*victims of an unfortunate happenstance*", whatever that means.
+> This would not be the first time that the Publishing House has defended a rogue employee. Three years ago, an associate editor with the company was arrested for criminal conspiracy, though the charges were later dropped.
+
+> NOV 17 - '86
+> 
+> MARIGOLD DROPS PUBLISHER
+> 
+> Local author and popular personality, [[Mary Jones|Marion Marigold]] has announced a split with her long term publishing partner, Ruffington Press, citing personal reasons. 
+> The announcement came after the arrest last week of fellow author and colleague, [[Caleb Manning]], whom Marigold has past referred to as her mentor, friend and confidant.
+> Marigold is the third prominent writer to distance themselves from the Publisher this week.
+> 
+> Was seen at the corner-
+> suspicious bag under th-
+> waved down a local ma-
+> This is the third major-
+> last year. It is anticipa-
+> charged by the crown-
+> [[Caleb Manning|Manning]] was the last p-
+> The trial begins on Tu-
+> expected to last up to s-
+> with grand treason.-
+
+
 ## Galleria
 ![[Pasted image 20260206011045.png|525]]
 ![[Pasted image 20260206011327.png|525]]

@@ -5,6 +5,7 @@
  [[Quadri/Disegno 'Lampada'|Disegno 'Lampada']]
  [[Quadri/Disegno 'Pulcino'|Disegno 'Pulcino']]
  [[Quadri/Fotografia 'Boudoir natalizio'|Fotografia 'Boudoir natalizio']]
+ [[Quadri/Fotografia 'Manning e White'|Fotografia 'Manning e White']]
  [[Quadri/Quadro 'Asso di picche'|Quadro 'Asso di picche']]
  [[Quadri/Quadro 'Città'|Quadro 'Città']]
  [[Quadri/Quadro 'Costellazione'|Quadro 'Costellazione']]
