@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Den
 ---
 ## Gameplay
 Questa stanza contiene una sola uscita ad L.

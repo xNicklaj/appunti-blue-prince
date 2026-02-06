@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Chapel
 ---
 ## Gameplay
 Presenta due uscite.

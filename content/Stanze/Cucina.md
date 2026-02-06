@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Kitchen
 ---
 ## Gameplay
 Consente di spendere [[Monete]] per acquistare uno tra tre oggetti.

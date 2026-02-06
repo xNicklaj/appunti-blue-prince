@@ -8,145 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99f2920ce0c36269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Acquario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acquario"
-            }
-          },
-          {
-            "id": "bf0b225f529242d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oggetti/Leva rotta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leva rotta"
-            }
-          },
-          {
-            "id": "9b0cb48cb7cf00bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oggetti/Leva rotta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leva rotta"
-            }
-          },
-          {
-            "id": "e588f89250d43605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testi/Synka Company Customer's Copy..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Synka Company Customer's Copy."
-            }
-          },
-          {
-            "id": "572e45999175e86e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testi/Nota con email in fondo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nota con email in fondo"
-            }
-          },
-          {
-            "id": "64c2ba51b7895a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Shelter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shelter"
-            }
-          },
-          {
-            "id": "8fbe2d50357a3425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Security"
-            }
-          },
-          {
             "id": "989232f306f40587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testi/Nota per il personale II.md",
+                "file": "Documenti/Lettera per Christoph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota per il personale II"
-            }
-          },
-          {
-            "id": "16dd6dd9c87858a0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
-            "id": "535f5f32668c8138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oggetti/Martello.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Martello"
+              "title": "Lettera per Christoph"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,54 +173,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "535f5f32668c8138",
+  "active": "989232f306f40587",
   "lastOpenFiles": [
-    "Testi/assets/Pasted image 20260206014547.png",
-    "Testi/Nota sulle leve dell'anticamera.md",
-    "Testi/Nota per il personale II.md",
-    "Testi/assets/Pasted image 20260206013344.png",
-    "Testi/Email sulla riparazione del fusibile.md",
-    "Testi/assets/Pasted image 20260206013007.png",
-    "Testi/Email sui cambiamenti della villa.md",
-    "Testi/assets/Pasted image 20260206012920.png",
-    "Testi/assets/Pasted image 20260206012829.png",
-    "Testi/Email da Anne Babbage.md",
-    "Testi/assets/Pasted image 20260206012729.png",
-    "Stanze/Archivio.md",
-    "Testi/Lettera 'Greetings From Reddington'.md",
-    "Testi/Giornale su Mary Jones.md",
-    "Testi/Disegno di Revane.md",
-    "Testi/assets/Pasted image 20260206012113.png",
-    "Testi/assets/Pasted image 20260206012055.png",
-    "Testi/assets/Pasted image 20260206011945.png",
-    "Testi/assets/Pasted image 20260206011859.png",
-    "Testi/assets/Pasted image 20260206011711.png",
-    "Persone/Mary Jones.md",
+    "Documenti/Lettera di terminazione.md",
+    "Persone/Anne Babbage.md",
+    "Documenti/Lettera dell'ospite.md",
+    "Documenti/Lettera da Daniel Jones.md",
+    "Documenti/Lettera 'Greetings From Reddington'.md",
+    "Documenti/Giornale su Mary Jones.md",
+    "Documenti/Email 'settimana prossima'.md",
+    "Documenti/Email 'riparazione del fusibile'.md",
+    "Documenti/Email 'cambiamenti della villa'.md",
+    "Documenti/Disegno di Revane.md",
+    "Documenti/Nota per il personale II.md",
+    "Documenti/assets/Pasted image 20260206110418.png",
+    "Persone/Caleb Manning.md",
+    "Quadri/Fotografia 'Manning e White'.md",
+    "Documenti/Nota con email in fondo.md",
+    "Quadri/assets/Pasted image 20260206110001.png",
+    "Persone/assets/Pasted image 20260206105935.png",
+    "Documenti/assets/Pasted image 20260206011711.png",
+    "Persone/Mary Matthew Jones.md",
+    "Fazioni/Red Guard.md",
+    "Oggetti/Leva rotta.md",
+    "Stanze/Shelter.md",
+    "Fazioni/The Children of Black Water.md",
+    "Luoghi/Trinsdale.md",
+    "Documenti/Nota per il personale.md",
+    "Documenti/Nota su Christopher.md",
+    "Documenti/Nota sui post-it colorati.md",
+    "Documenti/Synka Company Customer's Copy..md",
+    "Documenti/Tavola Periodica.md",
+    "Documenti/Nota dello shelter.md",
     "Untitled.base",
-    "Untitled.md",
-    "Testi/Nota con email in fondo.md",
-    "Testi/Nota 'Utility Room'.md",
-    "Stanze/Ufficio.md",
-    "Giorni/7 Novembre.md",
-    "Giorni/4 Novembre.md",
+    "Eventi",
+    "Fazioni",
+    "Luoghi",
+    "Documenti/assets/Pasted image 20260206012729.png",
+    "Documenti/assets/Pasted image 20260206014547.png",
+    "Documenti/assets/Pasted image 20260206013344.png",
+    "Documenti/assets/Pasted image 20260206013007.png",
+    "Documenti/assets/Pasted image 20260206012920.png",
+    "Documenti/assets/Pasted image 20260206012829.png",
     "Giorni/assets",
-    "Testi/Nota per il personale.md",
-    "Testi/Nota sui post-it colorati.md",
-    "Stanze/Security.md",
-    "Stanze/Stanza dei Giochi.md",
-    "Stanze/Stanza degli ospiti.md",
-    "Testi/Tavola Periodica.md",
-    "Testi/Synka Company Customer's Copy..md",
-    "Testi/Lettera da Daniel Jones.md",
-    "Testi/Lettera dell'ospite.md",
-    "Testi/assets",
+    "Documenti/assets",
     "Stanze/assets",
     "Persone/assets",
     "Quadri/assets",
     "Giorni",
-    "Testi",
-    "Quadri",
-    "Interagibili",
     "TMPTutorialCanvas.canvas",
     "Materie/Game Design & Game Thinking/Appunti Visivi.canvas",
     "Materie/Game Design & Game Thinking/Untitled.canvas",

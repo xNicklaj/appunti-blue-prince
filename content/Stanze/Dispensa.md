@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Pantry
 ---
 ## Gameplay
 Presenta una sola uscita.
