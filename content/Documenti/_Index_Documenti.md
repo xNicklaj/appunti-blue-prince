@@ -17,7 +17,6 @@
  [[Documenti/Nota dello shelter|Nota dello shelter]]
  [[Documenti/Nota per il personale II|Nota per il personale II]]
  [[Documenti/Nota per il personale|Nota per il personale]]
- [[Documenti/Nota su Christopher|Nota su Christopher]]
  [[Documenti/Nota sui post-it colorati|Nota sui post-it colorati]]
  [[Documenti/Nota sulle leve dell'anticamera|Nota sulle leve dell'anticamera]]
  [[Documenti/Red Prince|Red Prince]]
