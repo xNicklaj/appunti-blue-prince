@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "tag:#testo",
+      "query": "tag:#Documento",
       "color": {
         "a": 1,
         "rgb": 15410212
@@ -57,16 +57,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.2568115234375,
+  "lineSizeMultiplier": 2.99222819010417,
   "collapse-forces": true,
   "centerStrength": 0.455729166666667,
   "repelStrength": 10.8854166666667,
   "linkStrength": 1,
   "linkDistance": 168,
-  "scale": 0.38732006478616166,
+  "scale": 0.5375395584438643,
   "close": false
 }

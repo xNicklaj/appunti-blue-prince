@@ -3,7 +3,7 @@ tags:
   - Documento
 aliases:
 ---
-Cut-out di giornali trovati nell'[[Archivio]].
+Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Revane]] durante le sue investigazioni.
 
 > AUG 22 - '85
 >
