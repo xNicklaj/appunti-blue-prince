@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Toolshed
 ---
 ## Gameplay
 Trovi due oggetti.

@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Commissary
 ---
 ## Gameplay
 Questa stanza presenta un negozio.

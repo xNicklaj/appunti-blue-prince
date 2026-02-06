@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Hallway
 ---
 ## Gameplay
 Presenta due uscite.

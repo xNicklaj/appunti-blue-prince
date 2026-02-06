@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Laboratory
 ---
 Richiede 1x [[Gemme]]
 ## Gameplay

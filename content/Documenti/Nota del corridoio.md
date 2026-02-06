@@ -1,6 +1,6 @@
 ---
 tags:
-  - Testo
+  - Documento
   - Falso
 aliases:
 ---

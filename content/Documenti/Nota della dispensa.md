@@ -1,6 +1,6 @@
 ---
 tags:
-  - Testo
+  - Documento
 aliases:
 ---
 Nota che parla di come dal [[Giorno 8]] al [[Giorno 14]] potrebbe esserci un ulteriore ospite per la casa.

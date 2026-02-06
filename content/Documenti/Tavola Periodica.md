@@ -1,6 +1,6 @@
 ---
 tags:
-  - Testo
+  - Documento
 aliases:
 ---
 Nota: "**Push Three Up After Nine**"
