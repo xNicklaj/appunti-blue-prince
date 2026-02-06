@@ -120,6 +120,18 @@
             }
           },
           {
+            "id": "16dd6dd9c87858a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "535f5f32668c8138",
             "type": "leaf",
             "state": {
@@ -134,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -286,7 +298,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "989232f306f40587",
+  "active": "535f5f32668c8138",
   "lastOpenFiles": [
     "Testi/assets/Pasted image 20260206014547.png",
     "Testi/Nota sulle leve dell'anticamera.md",
