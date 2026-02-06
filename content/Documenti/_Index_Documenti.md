@@ -12,7 +12,6 @@
  [[Documenti/Lettera per Christoph|Lettera per Christoph]]
  [[Documenti/Nota 'Utility Room'|Nota 'Utility Room']]
  [[Documenti/Nota con email in fondo|Nota con email in fondo]]
- [[Documenti/Nota del corridoio|Nota del corridoio]]
  [[Documenti/Nota del laboratorio|Nota del laboratorio]]
  [[Documenti/Nota della dispensa|Nota della dispensa]]
  [[Documenti/Nota dello shelter|Nota dello shelter]]
