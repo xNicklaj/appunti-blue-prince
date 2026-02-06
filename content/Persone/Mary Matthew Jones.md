@@ -5,8 +5,9 @@ aliases:
   - Mary Matthew
   - Marion Marigold
 ---
-Moglie di [[Daniel Jones]], madre di [[Simon P. Jones]]. Scrittrice per bambini, scomparsa insieme al marito.
+Moglie di [[Daniel Jones]], madre di [[Simon P. Jones]]. 
+Era l'erede di [[Herbert S. Sinclair|H.S. Sinclair]] prima della sua scomparsa insieme al marito.
+Scriveva libri per bambini sotto il nome di penna "Marion Marigold".
 Considera [[Caleb Manning]] come suo mentore.
-Il nome di penna è Marion Marygold.
 
-Il suo libro di debutto è [[Red Prince]], scritto basandosi sul figlio.
+Il suo libro di debutto è [[Red Prince]], scritto basandosi sul figlio. Il suo secondo libro è [[Swim Bird]].

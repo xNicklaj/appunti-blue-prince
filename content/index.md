@@ -5,6 +5,7 @@ aliases:
 ---
 ![[_Index_Stanze]]
 ![[_Index_Giorni]]
+![[_Index_Fazioni]]
 ![[_Index_Oggetti]]
 ![[_Index_Puzzle]]
 ![[_Index_Testi]]
