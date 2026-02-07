@@ -6,6 +6,7 @@
  [[Persone/Daniel Jones|Daniel Jones]]
  [[Persone/Denny Revane|Denny Revane]]
  [[Persone/Herbert S. Sinclair|Herbert S. Sinclair]]
+ [[Persone/Herbie Jones|Herbie Jones]]
  [[Persone/Lady Clara Epsen|Lady Clara Epsen]]
  [[Persone/Mary Matthew Jones|Mary Matthew Jones]]
  [[Persone/Phillip White|Phillip White]]

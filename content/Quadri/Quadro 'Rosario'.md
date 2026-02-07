@@ -3,5 +3,5 @@ tags:
   - Quadro
 aliases:
 ---
-![[Pasted image 20260205221839.png]]
+![[Pasted image 20260208001257.png]]
 Quadro raffigurante una mano che tiene un rosario.
