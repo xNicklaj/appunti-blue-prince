@@ -1,6 +1,6 @@
 ---
 tags:
-  - Quadro
+  - Immagine
 aliases:
 ---
 Disegno raffigurante una cravatta.

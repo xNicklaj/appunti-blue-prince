@@ -1,6 +1,6 @@
 ---
 tags:
-  - Quadro
+  - Immagine
 aliases:
 ---
 ![[Pasted image 20260206110001.png]]

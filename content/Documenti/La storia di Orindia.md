@@ -16,7 +16,7 @@ La prima pagina appare molto censurata, il testo non censurato forma la frase:
 
 **PRIMA ERA**
 
-La seconda pagina, meno censurata della prima parla dell'era chiamata [[Ajera]], denotata dalla presenza di un ré il cui nome originario è censurato. Sappiamo però che si faceva chiamare [[Ré Oris]], che diede poi il nome alla città che diventò capitale del regno, [[Oris]]. Sembra che Oris, a un certo punto, regnasse sopra tutti i regni dell'est, in quanto il suo scopo espansionistico riuscì ad un certo punto ad inglobare le regioni a nord di [[Eraja]], fino a quella che ora è conosciuta come [[Arch Aries]].
+La seconda pagina, meno censurata della prima parla dell'era chiamata [[Regno di Eraja|Eraja]], denotata dalla presenza di un ré il cui nome originario è censurato. Sappiamo però che si faceva chiamare [[Ré Oris]], che diede poi il nome alla città che diventò capitale del regno, [[Oris]]. Sembra che Oris, a un certo punto, regnasse sopra tutti i regni dell'est, in quanto il suo scopo espansionistico riuscì ad un certo punto ad inglobare le regioni a nord di [[Eraja]], fino a quella che ora è conosciuta come [[Arch Aries]].
 
 Un evento alla fine della prima era viene censurato, ma ha portato alla formazione di un nuovo regno. Non chiaro se si parli del regno di Oris o no.
 
@@ -24,9 +24,9 @@ Un evento alla fine della prima era viene censurato, ma ha portato alla formazio
 
 Tre monarchi intercorrono prima di un evento importante. Il quarto ré di Oris, il cui nome è censurato divise il regno in tre parti, una per ogni figlio.
 
-Al primogenito diede la parte centrale del suo regno,  [[Orinda Aries]]. Specifico che parte del testo è censurata, il ché implica che all'interno di Orinda Aries vi erano interessi che l'attuale governo non vuol divulgare. Un esempio calzante è il nome del regno che non viene mai citato, anche nelle pagine successive sempre censurato, probabilmente cambiato alla fine della quinta era.
+Al primogenito diede la parte centrale del suo regno,  [[Regno di Orinda Aries|Orinda Aries]]. Specifico che parte del testo è censurata, il ché implica che all'interno di Orinda Aries vi erano interessi che l'attuale governo non vuol divulgare. Un esempio calzante è il nome del regno che non viene mai citato, anche nelle pagine successive sempre censurato, probabilmente cambiato alla fine della quinta era.
 
-Alla secondogenita, la sua unica figlia, diede la regione di [[Eraja]], anche qui con molte censure.
+Alla secondogenita, la sua unica figlia, diede la regione di [[Regno di Eraja|Eraja]], anche qui con molte censure.
 
 Al terzogenito diete la terra di [[Arch Aries]], la terra più a nord delle tre, poco sviluppata ma molto più grande delle altre.
 
@@ -36,13 +36,13 @@ I tre regni ormai divisi entrarono in uno stato di collaborazione pieno di progr
 
 **QUARTA ERA**
 
-Nella quarta era [[Orinda Aries]] conobbe un nuovo regnante, [[Ré Desilets III]]. Molto su di lui è censurato, è possibilmente descritto come un ré avvezzo al bere molto. Deduco dalla seconda pagina che "a sopresa di nessuno" ha spostato la capitale del regno da un posto fortificato, realisticamente [[Oris]], a un secondo posto, molto probabilmente la città di [[Fenn]]. Questo sembra spaccare a metà l'opinione della corte e del popolo.
+Nella quarta era [[Regno di Orinda Aries]] conobbe un nuovo regnante, [[Ré Desilets III]]. Molto su di lui è censurato, è possibilmente descritto come un ré avvezzo al bere molto. Deduco dalla seconda pagina che "a sopresa di nessuno" ha spostato la capitale del regno da un posto fortificato, realisticamente [[Oris]], a un secondo posto, molto probabilmente la città di [[Fenn]]. Questo sembra spaccare a metà l'opinione della corte e del popolo.
 
 **QUINTA ERA - L'era delle rovine**
 
 La quinta era inizia con la morte di [[Ré Desilets III]], morte il cui motivo viene censurato. Il giorno successivo il principe [[Leerson di Fenn]] si dichiarò il vero ré, cercando di spodestare [[Ré Desilets IV]], che sembra che condividesse poche virtù del padre.
 
-Questa guerra civile, detta anche la [[Fennsurrection]] mise a fuoco e fiamme la città di [[Fenn]]. Questa si trasformò in una vera e propria guerra dove il regno di [[Arch Aries]] e il regno di [[Nuance]] mostrarono supporto al principe [[Leerson di Fenn|Leerson]]. Questa guerra durò 22 anni, e persino il principe il principe vi perse la vita. Tuttavia la fazione di Fenn vinse contro la stirpe di Deilets, la cui resistenza probabilmente si concentrava nella città di [[Oris]]. Oris stessa venne distrutta, e le bandiere nere del regno di [[Orinda Aries]] si trasformarono nelle bandiere rosse del regno di [[Fenn Aries]].
+Questa guerra civile, detta anche la [[Fennsurrection]] mise a fuoco e fiamme la città di [[Fenn]]. Questa si trasformò in una vera e propria guerra dove il regno di [[Arch Aries]] e il regno di [[Regno di Nuance]] mostrarono supporto al principe [[Leerson di Fenn|Leerson]]. Questa guerra durò 22 anni, e persino il principe il principe vi perse la vita. Tuttavia la fazione di Fenn vinse contro la stirpe di Deilets, la cui resistenza probabilmente si concentrava nella città di [[Oris]]. Oris stessa venne distrutta, e le bandiere nere del regno di [[Regno di Orinda Aries]] si trasformarono nelle bandiere rosse del regno di [[Regno di Fenn Aries|Fenn Aries]].
 ## Galleria
 ![[Pasted image 20260208092613.png]]
 ![[Pasted image 20260208092621.png]]

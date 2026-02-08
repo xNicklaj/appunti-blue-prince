@@ -8,31 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01b72e8008eba46e",
+            "id": "261af3441ce4e133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fazioni/Regno di Fenn Aries.md",
+                "file": "Documenti/La storia di Orindia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regno di Fenn Aries"
+              "title": "La storia di Orindia"
             }
           },
           {
-            "id": "973d5dcf442cccec",
+            "id": "9f0369304c5e9a59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orinda Aries.md",
+                "file": "Luoghi/Orindia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orinda Aries"
+              "title": "Orindia"
+            }
+          },
+          {
+            "id": "0a2facb236bfd590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazioni/Regno di Nuance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regno di Nuance"
+            }
+          },
+          {
+            "id": "44dc39d8ea04c206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazioni/Regno di Eraja.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regno di Eraja"
+            }
+          },
+          {
+            "id": "5f3947934e7a362b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazioni/Regno di Orinda Aries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regno di Orinda Aries"
+            }
+          },
+          {
+            "id": "56e18e3124ba122f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti/Giornale su Mary Jones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Giornale su Mary Jones"
             }
           }
         ]
@@ -138,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fazioni/Regno di Fenn Aries.md",
+                "file": "Documenti/La storia di Orindia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +204,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Regno di Fenn Aries"
+              "title": "Backlinks for La storia di Orindia"
             }
           },
           {
@@ -186,24 +242,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01b72e8008eba46e",
+  "active": "261af3441ce4e133",
   "lastOpenFiles": [
-    "Orinda Aries.md",
-    "Fazioni/Regno di Fenn Aries.md",
-    "Fazioni/Red Guard.md",
-    "Immagini/Ritratto 'Vecchio'.md",
-    "Immagini/Ritratto di una donna.md",
-    "Quadri/Quadro 'Fiammifero'.md",
-    "Quadri/Quadro 'Spilla'.md",
-    "Immagini/Cartolina 'Greetings from Reddington'.md",
-    "Immagini/_Index_Immagini.md",
-    "Immagini/Disegno 'Cravatta'.md",
+    "Luoghi/Orindia.md",
     "Documenti/La storia di Orindia.md",
-    "Immagini",
+    "Fazioni/Regno di Eraja.md",
+    "Fazioni/Regno di Orinda Aries.md",
     "Documenti/Giornale su Mary Jones.md",
-    "Luoghi/Mt. Holly.md",
-    "Luoghi/Oris.md",
-    "Luoghi/Fenn.md",
+    "Fazioni/Regno di Nuance.md",
+    "assets/Pasted image 20260208105525.png",
+    "assets",
+    "Documenti/Lettera 'Greetings From Reddington'.md",
+    "Documenti/Lettera dell'ospite.md",
+    "Documenti/Lettera da Daniel Jones.md",
+    "Fazioni/Regno di Fenn Aries.md",
+    "Immagini/Disegno 'Cravatta'.md",
+    "Immagini/Francobollo di Fenn Aries.md",
+    "Immagini/assets/Pasted image 20260208105032.png",
+    "Immagini/assets",
+    "Immagini/Cartolina 'Greetings from Reddington'.md",
+    "Immagini/Disegno 'Lampada'.md",
+    "Immagini/Disegno 'Pulcino'.md",
+    "Immagini/Fotografia 'Boudoir natalizio'.md",
+    "Immagini/Fotografia 'Manning e White'.md",
+    "Immagini/Ritratto di una donna.md",
+    "Immagini/Ritratto 'Vecchio'.md",
+    "Documenti/Lettera di terminazione.md",
+    "Documenti/Lettera per Christoph.md",
+    "Documenti/Nota 'Utility Room'.md",
+    "Documenti/Nota con email in fondo.md",
+    "Documenti/Nota del laboratorio.md",
+    "Documenti/Nota della dispensa.md",
+    "Documenti/Nota dello shelter.md",
+    "Immagini",
     "Documenti/assets/Pasted image 20260208092621.png",
     "Documenti/assets/Pasted image 20260208092733.png",
     "Documenti/assets/Pasted image 20260208092728.png",
@@ -212,19 +283,6 @@
     "Documenti/assets/Pasted image 20260208092703.png",
     "Documenti/assets/Pasted image 20260208092646.png",
     "Documenti/assets/Pasted image 20260208092637.png",
-    "Documenti/assets/Pasted image 20260208092627.png",
-    "Documenti/assets/Pasted image 20260208092613.png",
-    "Documenti/Disegno di Revane.md",
-    "Quadri/Quadro 'Rosario'.md",
-    "Stanze/Nuova miniera.md",
-    "Stanze/Schoolhouse.md",
-    "index.md",
-    "Interagibili/Valvola per fuoco blu.md",
-    "Documenti/Documento della classe.md",
-    "Persone/Lady Clara Epsen.md",
-    "Documenti/Nota per il personale II.md",
-    "Persone/Herbie Jones.md",
-    "Documenti/Documento della miniera di gemme.md",
     "Puzzle/assets",
     "Mappa Visiva.canvas",
     "Untitled.base",
@@ -233,8 +291,6 @@
     "Luoghi",
     "Giorni/assets",
     "Documenti/assets",
-    "Stanze/assets",
-    "Persone/assets",
     "TMPTutorialCanvas.canvas",
     "Materie/Game Design & Game Thinking/Appunti Visivi.canvas",
     "Materie/Game Design & Game Thinking/Untitled.canvas",

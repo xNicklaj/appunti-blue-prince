@@ -1,0 +1,6 @@
+---
+tags:
+  - Fazione
+aliases:
+  - Eraja
+---

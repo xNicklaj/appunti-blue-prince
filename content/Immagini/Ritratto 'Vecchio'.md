@@ -1,6 +1,6 @@
 ---
 tags:
-  - Quadro
+  - Immagine
 aliases:
 ---
 Questo quadro raffigura un signore anziano, sebbene altezzoso.

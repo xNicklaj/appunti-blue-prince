@@ -71,7 +71,7 @@ Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Re
 > The intruders broke into the museum, subdued the [[Red Guard|Royal Guard]] and disabled the security system. 
 > By the time the militia arrived on the scene, the burglars had simply vanished.
 >
-> Although an official registry of the lost jewels has not been publicly announced, among the treasured artifacts rumored to be stolen is the renowned **Ruby Crown of [[Orinda Aries]]**, the priceless crown jewel whose material worth pales in comparison to the historic value. 
+> Although an official registry of the lost jewels has not been publicly announced, among the treasured artifacts rumored to be stolen is the renowned **Ruby Crown of [[Regno di Orinda Aries|Orinda Aries]]**, the priceless crown jewel whose material worth pales in comparison to the historic value. 
 > If these rumors are true, the evidence may suggest that the theft was **politically motivated**.
 ## Galleria
 ![[Pasted image 20260206011045.png|525]]
