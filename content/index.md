@@ -9,12 +9,14 @@ aliases:
 | [[Giornale su Mary Jones]] |
 | [[Note di Revane]]         |
 ## Fazioni importanti
-| [[Regno di Fenn Aries]]   |
-| ------------------------- |
-| [[Regno di Orinda Aries]] |
-| [[Regno di Eraja]]        |
-| [[Regno di Arch Aries]]   |
-| [[Regno di Nuance]]       |
+| [[Regno di Fenn Aries]]         |
+| ------------------------------- |
+| [[Regno di Orinda Aries]]       |
+| [[Regno di Eraja]]              |
+| [[Regno di Arch Aries]]         |
+| [[Regno di Nuance]]             |
+| [[Red Guard]]                   |
+| [[The Children of Black Water]] |
 ## Personaggi importanti
 | [[Herbert S. Sinclair\|H.S. Sinclair]] |
 | -------------------------------------- |
@@ -22,9 +24,11 @@ aliases:
 | [[Bon Margle]]                         |
 | [[Anne Babbage]]                       |
 | [[Denny Revane]]                       |
-
-
-## Indice Autogenerato
+## Documenti per puzzle
+| Puzzle         | Documento               |
+| -------------- | ----------------------- |
+| [[Sala Pompe]] | [[Pump Room Schematic]] |
+## Indice Autogenerato 
 ![[_Index_Stanze]]
 ![[_Index_Documenti]]
 ![[_Index_Giorni]]

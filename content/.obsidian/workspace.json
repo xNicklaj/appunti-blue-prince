@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Bon Margle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Bon Margle"
+            }
+          },
+          {
+            "id": "f5864b5685df4e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persone/Herbert S. Sinclair.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Herbert S. Sinclair"
             }
           }
         ]
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Bon Margle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Bon Margle"
             }
           },
           {
@@ -174,8 +188,13 @@
   },
   "active": "bbbf52feee1db241",
   "lastOpenFiles": [
-    "Documenti/Lettera di terminazione.md",
     "index.md",
+    "Bon Margle.md",
+    "Persone/Herbert S. Sinclair.md",
+    "Documenti/Nota per il personale.md",
+    "Documenti/Nota per il personale II.md",
+    "Puzzle/Cassaforte Synca del Boudoir.md",
+    "Documenti/Lettera di terminazione.md",
     "Persone/Denny Revane.md",
     "Fazioni/Regno di Orinda Aries.md",
     "Persone/Re Desilets III.md",
@@ -201,11 +220,6 @@
     "Stanze/Stanza degli ospiti.md",
     "Stanze/Stanza da letto.md",
     "Stanze/Stanza da giorno.md",
-    "Stanze/Stanza da disegno.md",
-    "Stanze/Sala da biliardo.md",
-    "Stanze/Magazzino.md",
-    "Stanze/Cucina.md",
-    "Stanze/Cortile.md",
     "Puzzle/assets/Pasted image 20260208192621.png",
     "Immagini/assets/Pasted image 20260208110616.png",
     "assets/Pasted image 20260208105525.png",
