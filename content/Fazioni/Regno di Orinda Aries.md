@@ -4,7 +4,7 @@ tags:
 aliases:
   - Orinda Aries
 ---
-Regno fondato nella prima era da [[Ré Oris]] e portato avanti fino alla quarta era, dove viene rimpiazzato col [[Regno di Fenn Aries]].
+Regno fondato nella prima era da [[Re Oris]] e portato avanti fino alla quarta era, dove viene rimpiazzato col [[Regno di Fenn Aries]].
 
 Originariamente questo regno inglobava tutta la regione continentale di [[Orindia]], ma fu poi diviso nella seconda era in tre regni, con Orinda Aries come regno centrale.
 ## Araldica
