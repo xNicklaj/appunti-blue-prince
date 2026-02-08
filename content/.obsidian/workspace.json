@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/La storia di Orindia.md",
+                "file": "Immagini/Ritratto 'Vecchio'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La storia di Orindia"
+              "title": "Ritratto 'Vecchio'"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/La storia di Orindia.md",
+                "file": "Immagini/Ritratto 'Vecchio'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for La storia di Orindia"
+              "title": "Backlinks for Ritratto 'Vecchio'"
             }
           },
           {
@@ -174,9 +174,16 @@
   },
   "active": "43b483eb05671e30",
   "lastOpenFiles": [
-    "Untitled",
-    "Fazioni/Red Guard 1.md",
+    "Immagini/Ritratto di una donna.md",
+    "Immagini/Ritratto 'Vecchio'.md",
+    "Quadri/Quadro 'Fiammifero'.md",
+    "Quadri/Quadro 'Spilla'.md",
+    "Immagini/Cartolina 'Greetings from Reddington'.md",
+    "Immagini/_Index_Immagini.md",
+    "Immagini/Disegno 'Cravatta'.md",
     "Documenti/La storia di Orindia.md",
+    "Immagini",
+    "Fazioni/Red Guard 1.md",
     "Documenti/Giornale su Mary Jones.md",
     "Luoghi/Mt. Holly.md",
     "Luoghi/Oris.md",
@@ -204,13 +211,7 @@
     "Documenti/Documento della miniera di gemme.md",
     "Stanze/Acquario.md",
     "Puzzle/Pump Room Schematic.md",
-    "Stanze/Sala Pompe.md",
-    "Stanze/Piscina.md",
-    "Eventi/Trinsdale Bombing.md",
-    "Fazioni/The Children of Black Water.md",
     "Puzzle/assets",
-    "Documenti/Lettera da Daniel Jones.md",
-    "Documenti/Lettera 'Greetings From Reddington'.md",
     "Mappa Visiva.canvas",
     "Untitled.base",
     "Eventi",
@@ -220,7 +221,6 @@
     "Documenti/assets",
     "Stanze/assets",
     "Persone/assets",
-    "Quadri/assets",
     "TMPTutorialCanvas.canvas",
     "Materie/Game Design & Game Thinking/Appunti Visivi.canvas",
     "Materie/Game Design & Game Thinking/Untitled.canvas",

@@ -28,9 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      filterFn: (node) => {
-        return !node.name.startsWith("_") && !node.name.startsWith("Templates") && !node.name.startsWith("Dump")
-      },
+      title: "Contenuti"
     })),
   ],
   right: [
@@ -48,7 +46,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+		title: "Contenuti"
+	})),
   ],
   right: [],
 }
