@@ -16,7 +16,7 @@ La prima pagina appare molto censurata, il testo non censurato forma la frase:
 
 **PRIMA ERA**
 
-La seconda pagina, meno censurata della prima parla dell'era chiamata [[Regno di Eraja|Eraja]], denotata dalla presenza di un ré il cui nome originario è censurato. Sappiamo però che si faceva chiamare [[Ré Oris]], che diede poi il nome alla città che diventò capitale del regno, [[Oris]]. Sembra che Oris, a un certo punto, regnasse sopra tutti i regni dell'est, in quanto il suo scopo espansionistico riuscì ad un certo punto ad inglobare le regioni a nord di [[Regno di Eraja|Eraja]], fino a quella che ora è conosciuta come [[Regno di Arch Aries|Arch Aries]]. (Vedi [[Mappa del mondo]])
+La seconda pagina, meno censurata della prima parla dell'era chiamata [[Regno di Eraja|Eraja]], denotata dalla presenza di un ré il cui nome originario è censurato. Sappiamo però che si faceva chiamare [[Re Oris]], che diede poi il nome alla città che diventò capitale del regno, [[Oris]]. Sembra che Oris, a un certo punto, regnasse sopra tutti i regni dell'est, in quanto il suo scopo espansionistico riuscì ad un certo punto ad inglobare le regioni a nord di [[Regno di Eraja|Eraja]], fino a quella che ora è conosciuta come [[Regno di Arch Aries|Arch Aries]]. (Vedi [[Mappa del mondo]])
 
 Un evento alla fine della prima era viene censurato, ma ha portato alla formazione di un nuovo regno. Non chiaro se si parli del regno di Oris o no.
 
@@ -36,11 +36,11 @@ I tre regni ormai divisi entrarono in uno stato di collaborazione pieno di progr
 
 **QUARTA ERA**
 
-Nella quarta era [[Regno di Orinda Aries]] conobbe un nuovo regnante, [[Ré Desilets III]]. Molto su di lui è censurato, è possibilmente descritto come un ré avvezzo al bere molto. Deduco dalla seconda pagina che "a sopresa di nessuno" ha spostato la capitale del regno da un posto fortificato, realisticamente [[Oris]], a un secondo posto, molto probabilmente la città di [[Fenn]]. Questo sembra spaccare a metà l'opinione della corte e del popolo.
+Nella quarta era [[Regno di Orinda Aries]] conobbe un nuovo regnante, [[Re Desilets III]]. Molto su di lui è censurato, è possibilmente descritto come un ré avvezzo al bere molto. Deduco dalla seconda pagina che "a sopresa di nessuno" ha spostato la capitale del regno da un posto fortificato, realisticamente [[Oris]], a un secondo posto, molto probabilmente la città di [[Fenn]]. Questo sembra spaccare a metà l'opinione della corte e del popolo.
 
 **QUINTA ERA - L'era delle rovine**
 
-La quinta era inizia con la morte di [[Ré Desilets III]], morte il cui motivo viene censurato. Il giorno successivo il principe [[Leerson di Fenn]] si dichiarò il vero ré, cercando di spodestare [[Ré Desilets IV]], che sembra che condividesse poche virtù del padre.
+La quinta era inizia con la morte di [[Re Desilets III]], morte il cui motivo viene censurato. Il giorno successivo il principe [[Leerson di Fenn]] si dichiarò il vero ré, cercando di spodestare [[Ré Desilets IV]], che sembra che condividesse poche virtù del padre.
 
 Questa guerra civile, detta anche la [[Fennsurrection]] mise a fuoco e fiamme la città di [[Fenn]]. Questa si trasformò in una vera e propria guerra dove il regno di [[Regno di Arch Aries|Arch Aries]] e il regno di [[Regno di Nuance|Nuance]] mostrarono supporto al principe [[Leerson di Fenn|Leerson]]. Questa guerra durò 22 anni, e persino il principe il principe vi perse la vita. Tuttavia la fazione di Fenn vinse contro la stirpe di Deilets, la cui resistenza probabilmente si concentrava nella città di [[Oris]]. Oris stessa venne distrutta, e le bandiere nere del regno di [[Regno di Orinda Aries|Orinda Aries]] si trasformarono nelle bandiere rosse del regno di [[Regno di Fenn Aries|Fenn Aries]].
 ## Galleria

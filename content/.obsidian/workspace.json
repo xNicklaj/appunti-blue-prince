@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luoghi/Mt. Holly.md",
+                "file": "Luoghi/Fenn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mt. Holly"
+              "title": "Fenn"
+            }
+          },
+          {
+            "id": "73e8f37f1750c403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persone/Re Desilets III.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Re Desilets III"
             }
           },
           {
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luoghi/Mt. Holly.md",
+                "file": "Luoghi/Fenn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +176,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mt. Holly"
+              "title": "Backlinks for Fenn"
             }
           },
           {
@@ -202,6 +216,24 @@
   },
   "active": "44dc39d8ea04c206",
   "lastOpenFiles": [
+    "Luoghi/assets/Pasted image 20260208200247.png",
+    "Luoghi/Trinsdale.md",
+    "Luoghi/Reddington.md",
+    "Luoghi/Regione di Orinda Aries.md",
+    "Luoghi/Fenn.md",
+    "Luoghi/Oris.md",
+    "Luoghi/assets/Pasted image 20260208195728.png",
+    "Fazioni/Reddington Herald.md",
+    "Luoghi/Mt. Holly.md",
+    "Documenti/Giornale su Mary Jones.md",
+    "Luoghi/assets/Pasted image 20260208195442.png",
+    "Fazioni/Regno di Fenn Aries.md",
+    "Luoghi/Orindia.md",
+    "Persone/Re Desilets III.md",
+    "Persone/Re Oris.md",
+    "Luoghi/assets/Pasted image 20260208194714.png",
+    "Luoghi/assets/Pasted image 20260208194512.png",
+    "Luoghi/assets",
     "Stanze/Ufficio.md",
     "Stanze/Stanza dei Giochi.md",
     "Stanze/Stanza degli ospiti.md",
@@ -215,20 +247,7 @@
     "Stanze/Dispensa.md",
     "Stanze/Corridoio.md",
     "Stanze/Commissariato.md",
-    "Stanze/Cappella.md",
-    "Stanze/Capanna degli attrezzi.md",
-    "Stanze/Camera Oscura.md",
-    "Stanze/Boudoir.md",
-    "Stanze/Archivio.md",
-    "Stanze/Antro.md",
-    "Stanze/Acquario.md",
-    "Fazioni/Regno di Orinda Aries.md",
-    "Persone/Denny Revane.md",
-    "Documenti/Nota per il corriere.md",
-    "Documenti/Note di Revane.md",
-    "Puzzle/Matematica dei colori.md",
     "Puzzle/assets/Pasted image 20260208192621.png",
-    "Documenti/Giornale su Mary Jones.md",
     "Immagini/assets/Pasted image 20260208110616.png",
     "assets/Pasted image 20260208105525.png",
     "assets",
@@ -237,10 +256,6 @@
     "Immagini",
     "Documenti/assets/Pasted image 20260208092621.png",
     "Documenti/assets/Pasted image 20260208092733.png",
-    "Documenti/assets/Pasted image 20260208092728.png",
-    "Documenti/assets/Pasted image 20260208092720.png",
-    "Documenti/assets/Pasted image 20260208092710.png",
-    "Documenti/assets/Pasted image 20260208092703.png",
     "Puzzle/assets",
     "Mappa Visiva.canvas",
     "Untitled.base",
@@ -248,7 +263,6 @@
     "Fazioni",
     "Luoghi",
     "Giorni/assets",
-    "Documenti/assets",
     "TMPTutorialCanvas.canvas",
     "Materie/Game Design & Game Thinking/Appunti Visivi.canvas",
     "Materie/Game Design & Game Thinking/Untitled.canvas",
