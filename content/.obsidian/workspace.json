@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7192af182562e094",
+        "id": "1e2005c994cc43ee",
         "type": "tabs",
         "children": [
           {
-            "id": "0564858b13586726",
+            "id": "01b72e8008eba46e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,12 +172,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0564858b13586726",
+  "active": "01b72e8008eba46e",
   "lastOpenFiles": [
+    "Red Guard.md",
+    "Documenti/La storia di Orindia.md",
+    "Documenti/Giornale su Mary Jones.md",
     "Luoghi/Mt. Holly.md",
     "Luoghi/Oris.md",
     "Luoghi/Fenn.md",
-    "Documenti/La storia di Orindia.md",
     "Documenti/assets/Pasted image 20260208092621.png",
     "Documenti/assets/Pasted image 20260208092733.png",
     "Documenti/assets/Pasted image 20260208092728.png",
@@ -209,8 +211,6 @@
     "Documenti/Lettera da Daniel Jones.md",
     "Documenti/Lettera 'Greetings From Reddington'.md",
     "Documenti/Email 'cambiamenti della villa'.md",
-    "Documenti/Email 'riparazione del fusibile'.md",
-    "Documenti/Email 'settimana prossima'.md",
     "Mappa Visiva.canvas",
     "Untitled.base",
     "Eventi",

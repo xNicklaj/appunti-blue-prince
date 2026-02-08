@@ -24,7 +24,7 @@ Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Re
 
 > NOV 11 - '86
 > 
-> PUBLISHER & AUTHOR DETAINED BY [[Red Guard|RED GUARD]], QUESTIONED
+> PUBLISHER & AUTHOR DETAINED BY [[Fazioni/Red Guard|RED GUARD]], QUESTIONED
 >
 > [[Caleb Manning]] and his publisher [[Phillip White]] were two of three dozen names that appeared on a **leaked dossier** naming them a "person of interest" in the **[[Trinsdale]] bombing** that killed four people last Tuesday.
 > Although no group has come forth to officially take responsibility of the attack, it is widely believed by authorities to be the work of insurgent group [[The Children of Black Water|RLCF]] who also call themselves "[[The Children of Black Water]]".
@@ -68,10 +68,10 @@ Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Re
 > At least not until today, as local police and forensic experts have been spotted in virtually every corner of the Museum grounds dredging for clues.
 >
 > The museum authorities said they were alerted in the middle of night by reports of several **masked intruders** seen breaching the south wall and brandishing firearms.
-> The intruders broke into the museum, subdued the [[Royal Guard]] and disabled the security system. 
+> The intruders broke into the museum, subdued the [[Red Guard|Royal Guard]] and disabled the security system. 
 > By the time the militia arrived on the scene, the burglars had simply vanished.
 >
-> Although an official registry of the lost jewels has not been publicly announced, among the treasured artifacts rumored to be stolen is the renowned **Ruby Crown of Orinda Aries**, the priceless crown jewel whose material worth pales in comparison to the historic value. 
+> Although an official registry of the lost jewels has not been publicly announced, among the treasured artifacts rumored to be stolen is the renowned **Ruby Crown of [[Orinda Aries]]**, the priceless crown jewel whose material worth pales in comparison to the historic value. 
 > If these rumors are true, the evidence may suggest that the theft was **politically motivated**.
 ## Galleria
 ![[Pasted image 20260206011045.png|525]]
