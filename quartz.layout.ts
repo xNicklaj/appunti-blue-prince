@@ -30,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       title: "Contenuti",
 	  filterFn: (node) => {
-        return !node.name.startsWith("_")
+        return node.name.startsWith("_")
       },
     })),
   ],
