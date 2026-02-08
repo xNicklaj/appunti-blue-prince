@@ -45,7 +45,8 @@
               "title": "Giornale su Mary Jones"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documenti/Giornale su Mary Jones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Giornale su Mary Jones"
             }
           },
           {
@@ -195,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44dc39d8ea04c206",
+  "active": "56e18e3124ba122f",
   "lastOpenFiles": [
+    "Fazioni/Regno di Orinda Aries.md",
     "Documenti/Nota dello shelter.md",
     "Fazioni/Red Guard.md",
     "Quadri/Quadro 'Regina di quadri'.md",
@@ -217,7 +220,6 @@
     "Immagini/assets/Pasted image 20260208110616.png",
     "Documenti/Lettera 'Greetings From Reddington'.md",
     "Fazioni/Regno di Arch Aries.md",
-    "Fazioni/Regno di Orinda Aries.md",
     "Documenti/Giornale su Mary Jones.md",
     "assets/Pasted image 20260208105525.png",
     "assets",
