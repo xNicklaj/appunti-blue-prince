@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luoghi/Fenn.md",
+                "file": "Luoghi/Regione di Orinda Aries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fenn"
+              "title": "Regione di Orinda Aries"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luoghi/Fenn.md",
+                "file": "Luoghi/Regione di Orinda Aries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fenn"
+              "title": "Backlinks for Regione di Orinda Aries"
             }
           },
           {
@@ -216,11 +216,13 @@
   },
   "active": "44dc39d8ea04c206",
   "lastOpenFiles": [
+    "Fazioni/Synka Company.md",
+    "Luoghi/Reddington.md",
+    "Luoghi/Orindia.md",
+    "Luoghi/Fenn.md",
     "Luoghi/assets/Pasted image 20260208200247.png",
     "Luoghi/Trinsdale.md",
-    "Luoghi/Reddington.md",
     "Luoghi/Regione di Orinda Aries.md",
-    "Luoghi/Fenn.md",
     "Luoghi/Oris.md",
     "Luoghi/assets/Pasted image 20260208195728.png",
     "Fazioni/Reddington Herald.md",
@@ -228,7 +230,6 @@
     "Documenti/Giornale su Mary Jones.md",
     "Luoghi/assets/Pasted image 20260208195442.png",
     "Fazioni/Regno di Fenn Aries.md",
-    "Luoghi/Orindia.md",
     "Persone/Re Desilets III.md",
     "Persone/Re Oris.md",
     "Luoghi/assets/Pasted image 20260208194714.png",
@@ -255,7 +256,6 @@
     "Immagini/assets",
     "Immagini",
     "Documenti/assets/Pasted image 20260208092621.png",
-    "Documenti/assets/Pasted image 20260208092733.png",
     "Puzzle/assets",
     "Mappa Visiva.canvas",
     "Untitled.base",
