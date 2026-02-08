@@ -16,6 +16,7 @@
  [[Documenti/Nota del laboratorio|Nota del laboratorio]]
  [[Documenti/Nota della dispensa|Nota della dispensa]]
  [[Documenti/Nota dello shelter|Nota dello shelter]]
+ [[Documenti/Nota per Christoph|Nota per Christoph]]
  [[Documenti/Nota per il corriere|Nota per il corriere]]
  [[Documenti/Nota per il personale II|Nota per il personale II]]
  [[Documenti/Nota per il personale|Nota per il personale]]

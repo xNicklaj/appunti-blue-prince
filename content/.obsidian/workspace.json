@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Giorni/Giorno 13.md",
+                "file": "Documenti/Nota per Christoph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Giorno 13"
+              "title": "Nota per Christoph"
             }
           },
           {
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Giorni/Giorno 13.md",
+                "file": "Documenti/Nota per Christoph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Giorno 13"
+              "title": "Backlinks for Nota per Christoph"
             }
           },
           {
@@ -188,6 +188,10 @@
   },
   "active": "bbbf52feee1db241",
   "lastOpenFiles": [
+    "Documenti/Lettera di terminazione.md",
+    "Documenti/Nota per Christoph.md",
+    "Documenti/assets/Pasted image 20260208231841.png",
+    "Giorni/Giorno 13.md",
     "Giorni/Giorno 11.md",
     "Giorni/Giorno 9.md",
     "Giorni/Giorno 8.md",
@@ -197,7 +201,6 @@
     "Documenti/Nota per il personale.md",
     "Documenti/Nota per il personale II.md",
     "Puzzle/Cassaforte Synca del Boudoir.md",
-    "Documenti/Lettera di terminazione.md",
     "Persone/Denny Revane.md",
     "Fazioni/Regno di Orinda Aries.md",
     "Persone/Re Desilets III.md",
@@ -214,12 +217,9 @@
     "Luoghi/assets/Pasted image 20260208195442.png",
     "Fazioni/Regno di Fenn Aries.md",
     "Luoghi/Orindia.md",
-    "Persone/Re Oris.md",
     "Luoghi/assets/Pasted image 20260208194714.png",
     "Luoghi/assets/Pasted image 20260208194512.png",
     "Luoghi/assets",
-    "Stanze/Ufficio.md",
-    "Stanze/Stanza dei Giochi.md",
     "Puzzle/assets/Pasted image 20260208192621.png",
     "Immagini/assets/Pasted image 20260208110616.png",
     "assets/Pasted image 20260208105525.png",
@@ -227,7 +227,6 @@
     "Immagini/assets/Pasted image 20260208105032.png",
     "Immagini/assets",
     "Immagini",
-    "Documenti/assets/Pasted image 20260208092621.png",
     "Puzzle/assets",
     "Mappa Visiva.canvas",
     "Untitled.base",
