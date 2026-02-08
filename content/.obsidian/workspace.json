@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Nota per Christoph.md",
+                "file": "Documenti/Documento della miniera di gemme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota per Christoph"
+              "title": "Documento della miniera di gemme"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persone/Herbert S. Sinclair.md",
+                "file": "Documenti/La storia di Orindia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Herbert S. Sinclair"
+              "title": "La storia di Orindia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Nota per Christoph.md",
+                "file": "Documenti/La storia di Orindia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nota per Christoph"
+              "title": "Backlinks for La storia di Orindia"
             }
           },
           {
@@ -186,18 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbbf52feee1db241",
+  "active": "f5864b5685df4e61",
   "lastOpenFiles": [
-    "Documenti/Lettera di terminazione.md",
-    "Documenti/Nota per Christoph.md",
-    "Documenti/assets/Pasted image 20260208231841.png",
-    "Giorni/Giorno 13.md",
+    "index.md",
+    "Persone/Herbert S. Sinclair.md",
+    "Documenti/Documento della miniera di gemme.md",
+    "Documenti/Documento della classe.md",
     "Giorni/Giorno 11.md",
+    "Giorni/Giorno 13.md",
+    "Documenti/Nota per Christoph.md",
+    "Documenti/Lettera di terminazione.md",
+    "Documenti/assets/Pasted image 20260208231841.png",
     "Giorni/Giorno 9.md",
     "Giorni/Giorno 8.md",
-    "index.md",
     "Bon Margle.md",
-    "Persone/Herbert S. Sinclair.md",
     "Documenti/Nota per il personale.md",
     "Documenti/Nota per il personale II.md",
     "Puzzle/Cassaforte Synca del Boudoir.md",
@@ -216,7 +219,6 @@
     "Documenti/Giornale su Mary Jones.md",
     "Luoghi/assets/Pasted image 20260208195442.png",
     "Fazioni/Regno di Fenn Aries.md",
-    "Luoghi/Orindia.md",
     "Luoghi/assets/Pasted image 20260208194714.png",
     "Luoghi/assets/Pasted image 20260208194512.png",
     "Luoghi/assets",
