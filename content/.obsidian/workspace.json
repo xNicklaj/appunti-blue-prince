@@ -11,10 +11,14 @@
             "id": "44dc39d8ea04c206",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Stanze/Ufficio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ufficio"
             }
           },
           {
@@ -37,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Note di Revane.md",
+                "file": "Persone/Denny Revane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note di Revane"
+              "title": "Denny Revane"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Note di Revane.md",
+                "file": "Stanze/Ufficio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Note di Revane"
+              "title": "Backlinks for Ufficio"
             }
           },
           {
@@ -181,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 405
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,38 +200,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56e18e3124ba122f",
+  "active": "44dc39d8ea04c206",
   "lastOpenFiles": [
-    "Puzzle/Matematica dei colori.md",
+    "Stanze/Stanza dei Giochi.md",
+    "Stanze/Stanza degli ospiti.md",
+    "Stanze/Stanza da letto.md",
+    "Stanze/Stanza da giorno.md",
+    "Stanze/Stanza da disegno.md",
+    "Stanze/Sala da biliardo.md",
+    "Stanze/Magazzino.md",
+    "Stanze/Cucina.md",
+    "Stanze/Cortile.md",
+    "Stanze/Dispensa.md",
+    "Stanze/Corridoio.md",
+    "Stanze/Commissariato.md",
+    "Stanze/Cappella.md",
+    "Stanze/Capanna degli attrezzi.md",
+    "Stanze/Camera Oscura.md",
+    "Stanze/Boudoir.md",
+    "Stanze/Archivio.md",
+    "Stanze/Antro.md",
+    "Stanze/Acquario.md",
+    "Fazioni/Regno di Orinda Aries.md",
+    "Persone/Denny Revane.md",
+    "Documenti/Nota per il corriere.md",
     "Documenti/Note di Revane.md",
+    "Puzzle/Matematica dei colori.md",
     "Puzzle/assets/Pasted image 20260208192621.png",
     "Documenti/Giornale su Mary Jones.md",
-    "Fazioni/Regno di Orinda Aries.md",
     "Documenti/Nota dello shelter.md",
-    "Fazioni/Red Guard.md",
-    "Quadri/Quadro 'Regina di quadri'.md",
-    "Immagini/Cartolina 'Greetings from Reddington'.md",
-    "Documenti/Email 'cambiamenti della villa'.md",
-    "Interagibili/Cassa.md",
-    "Fazioni/Regno di Eraja.md",
-    "Fazioni/Regno di Nuance.md",
-    "Luoghi/Orindia.md",
-    "Luoghi/Reddington.md",
-    "Luoghi/Trinsdale.md",
-    "Luoghi/Oris.md",
-    "Luoghi/Mt. Holly.md",
-    "Luoghi/Fenn.md",
-    "Documenti/La storia di Orindia.md",
-    "Eventi/Fennsurrection.md",
-    "Immagini/Mappa del mondo.md",
     "Immagini/assets/Pasted image 20260208110616.png",
-    "Documenti/Lettera 'Greetings From Reddington'.md",
-    "Fazioni/Regno di Arch Aries.md",
     "assets/Pasted image 20260208105525.png",
     "assets",
-    "Documenti/Lettera dell'ospite.md",
-    "Documenti/Lettera da Daniel Jones.md",
-    "Fazioni/Regno di Fenn Aries.md",
     "Immagini/assets/Pasted image 20260208105032.png",
     "Immagini/assets",
     "Immagini",

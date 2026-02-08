@@ -5,4 +5,4 @@ aliases:
   - Dark Room
 ---
 ## Gameplay
-Non puoi vedere le stanze che drawi.
+Stanza che non consente di vedere le stanze draftate nelle uscite adiacenti.
