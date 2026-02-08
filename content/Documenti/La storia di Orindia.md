@@ -4,11 +4,12 @@ tags:
 aliases:
 ---
 Libro di [[Caleb Manning]] richiesto alla [[Libreria]] della villa.
-Contiene una descrizione estremamente censurata della geopolitica locale.
-Secondo il detectve [[Bon Margle]] all'interno della libreria del [[Herbert S. Sinclair|Barone]] ne esiste una copia non censurata.
+Contiene una descrizione estremamente censurata della geopolitica locale. I regni ad est dell'oceano vengono definiti nella regione di [[Orindia]], da cui il nome del libro.
 
+Secondo il detective [[Bon Margle]] all'interno della libreria del [[Herbert S. Sinclair|Barone]] ne esiste una copia non censurata.
 Chiaramente l'attuale stato di [[Fenn Aries]] sta cercando di cancellare dai registri il passato prima del nuovo dominio.
 
+## Testo
 La prima pagina appare molto censurata, il testo non censurato forma la frase:
 
 > The name used to designate the realms of the eastern waters is no longer known to the average citizen of the elder generation. We must permit our leaders to enjoin us to abandon our past.
@@ -23,9 +24,9 @@ Un evento alla fine della prima era viene censurato, ma ha portato alla formazio
 
 Tre monarchi intercorrono prima di un evento importante. Il quarto ré di Oris, il cui nome è censurato divise il regno in tre parti, una per ogni figlio.
 
-Al primogenito diede la parte centrale del suo regno, ora conosciuta come [[Orinda Aries]]. Specifico che parte del testo è censurata, il ché implica che all'interno di Orinda Aries vi erano interessi che l'attuale governo non vuol divulgare. Un esempio calzante è il nome del regno che non viene mai citato, anche nelle pagine successive sempre censurato. Ritengo probabile che il nome all'epoca non fosse Orinda Aries, ma che sia stato cambiato a seguito di eventi della sesta era.
+Al primogenito diede la parte centrale del suo regno,  [[Orinda Aries]]. Specifico che parte del testo è censurata, il ché implica che all'interno di Orinda Aries vi erano interessi che l'attuale governo non vuol divulgare. Un esempio calzante è il nome del regno che non viene mai citato, anche nelle pagine successive sempre censurato, probabilmente cambiato alla fine della quinta era.
 
-Alla secondogenita, la sua unica figlia, diete la regione di [[Eraja]], anche qui con molte censure.
+Alla secondogenita, la sua unica figlia, diede la regione di [[Eraja]], anche qui con molte censure.
 
 Al terzogenito diete la terra di [[Arch Aries]], la terra più a nord delle tre, poco sviluppata ma molto più grande delle altre.
 
@@ -35,7 +36,13 @@ I tre regni ormai divisi entrarono in uno stato di collaborazione pieno di progr
 
 **QUARTA ERA**
 
-Nella quarta era [[Orind]]
+Nella quarta era [[Orinda Aries]] conobbe un nuovo regnante, [[Ré Desilets III]]. Molto su di lui è censurato, è possibilmente descritto come un ré avvezzo al bere molto. Deduco dalla seconda pagina che "a sopresa di nessuno" ha spostato la capitale del regno da un posto fortificato, realisticamente [[Oris]], a un secondo posto, molto probabilmente la città di [[Fenn]]. Questo sembra spaccare a metà l'opinione della corte e del popolo.
+
+**QUINTA ERA - L'era delle rovine**
+
+La quinta era inizia con la morte di [[Ré Desilets III]], morte il cui motivo viene censurato. Il giorno successivo il principe [[Leerson di Fenn]] si dichiarò il vero ré, cercando di spodestare [[Ré Desilets IV]], che sembra che condividesse poche virtù del padre.
+
+Questa guerra civile, detta anche la [[Fennsurrection]] mise a fuoco e fiamme la città di [[Fenn]]. Questa si trasformò in una vera e propria guerra dove il regno di [[Arch Aries]] e il regno di [[Nuance]] mostrarono supporto al principe [[Leerson di Fenn|Leerson]]. Questa guerra durò 22 anni, e persino il principe il principe vi perse la vita. Tuttavia la fazione di Fenn vinse contro la stirpe di Deilets, la cui resistenza probabilmente si concentrava nella città di [[Oris]]. Oris stessa venne distrutta, e le bandiere nere del regno di [[Orinda Aries]] si trasformarono nelle bandiere rosse del regno di [[Fenn Aries]].
 ## Galleria
 ![[Pasted image 20260208092613.png]]
 ![[Pasted image 20260208092621.png]]
