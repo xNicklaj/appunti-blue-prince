@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quadri/Quadro 'Rosario'.md",
+                "file": "Documenti/Disegno di Revane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quadro 'Rosario'"
+              "title": "Disegno di Revane"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quadri/Quadro 'Rosario'.md",
+                "file": "Documenti/Disegno di Revane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quadro 'Rosario'"
+              "title": "Backlinks for Disegno di Revane"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quadri/Quadro 'Rosario'.md",
+                "file": "Documenti/Disegno di Revane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quadro 'Rosario'"
+              "title": "Outgoing links from Disegno di Revane"
             }
           }
         ],
@@ -174,6 +174,7 @@
   },
   "active": "0564858b13586726",
   "lastOpenFiles": [
+    "Quadri/Quadro 'Rosario'.md",
     "Quadri/assets/Pasted image 20260208001257.png",
     "Stanze/Nuova miniera.md",
     "Stanze/Schoolhouse.md",
@@ -212,7 +213,6 @@
     "Documenti/assets/Pasted image 20260206110418.png",
     "Quadri/assets/Pasted image 20260206110001.png",
     "Persone/assets/Pasted image 20260206105935.png",
-    "Documenti/assets/Pasted image 20260206011711.png",
     "Eventi",
     "Fazioni",
     "Luoghi",
