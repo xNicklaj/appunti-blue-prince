@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Giorni/Giorno 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Giorno 13"
             }
           },
           {
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Giorni/Giorno 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Giorno 13"
             }
           },
           {
@@ -188,8 +188,11 @@
   },
   "active": "bbbf52feee1db241",
   "lastOpenFiles": [
-    "Bon Margle.md",
+    "Giorni/Giorno 11.md",
+    "Giorni/Giorno 9.md",
+    "Giorni/Giorno 8.md",
     "index.md",
+    "Bon Margle.md",
     "Persone/Herbert S. Sinclair.md",
     "Documenti/Nota per il personale.md",
     "Documenti/Nota per il personale II.md",
@@ -217,9 +220,6 @@
     "Luoghi/assets",
     "Stanze/Ufficio.md",
     "Stanze/Stanza dei Giochi.md",
-    "Stanze/Stanza degli ospiti.md",
-    "Stanze/Stanza da letto.md",
-    "Stanze/Stanza da giorno.md",
     "Puzzle/assets/Pasted image 20260208192621.png",
     "Immagini/assets/Pasted image 20260208110616.png",
     "assets/Pasted image 20260208105525.png",
