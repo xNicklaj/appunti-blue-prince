@@ -68,7 +68,7 @@ Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Re
 > At least not until today, as local police and forensic experts have been spotted in virtually every corner of the Museum grounds dredging for clues.
 >
 > The museum authorities said they were alerted in the middle of night by reports of several **masked intruders** seen breaching the south wall and brandishing firearms.
-> The intruders broke into the museum, subdued the [[Red Guard|Royal Guard]] and disabled the security system. 
+> The intruders broke into the museum, subdued the [[Red Guard 1|Royal Guard]] and disabled the security system. 
 > By the time the militia arrived on the scene, the burglars had simply vanished.
 >
 > Although an official registry of the lost jewels has not been publicly announced, among the treasured artifacts rumored to be stolen is the renowned **Ruby Crown of [[Orinda Aries]]**, the priceless crown jewel whose material worth pales in comparison to the historic value. 
