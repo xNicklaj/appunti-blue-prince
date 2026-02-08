@@ -1,3 +1,8 @@
+---
+tags:
+  - Documento
+aliases:
+---
 
 > DATE: OCT. 7 1993
 >

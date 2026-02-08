@@ -4,4 +4,4 @@ tags:
 aliases:
   - Royal Guard
 ---
-Guardia nazionale del regno di [[Fenn Aries]].
+Guardia nazionale del regno di [[Regno di Fenn Aries|Fenn Aries]].
