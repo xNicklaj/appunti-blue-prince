@@ -7,6 +7,7 @@
  [[Documenti/Email 'riparazione del fusibile'|Email 'riparazione del fusibile']]
  [[Documenti/Email 'settimana prossima'|Email 'settimana prossima']]
  [[Documenti/Giornale su Mary Jones|Giornale su Mary Jones]]
+ [[Documenti/La storia di Orindia|La storia di Orindia]]
  [[Documenti/Lettera 'Greetings From Reddington'|Lettera 'Greetings From Reddington']]
  [[Documenti/Lettera da Daniel Jones|Lettera da Daniel Jones]]
  [[Documenti/Lettera dell'ospite|Lettera dell'ospite]]
