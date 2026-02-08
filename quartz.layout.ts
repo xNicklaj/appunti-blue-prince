@@ -28,10 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      title: "Contenuti",
-	  filterFn: (node) => {
-        return !node.name.includes("_Index")
-      },
+      title: "Contenuti"
     })),
   ],
   right: [
