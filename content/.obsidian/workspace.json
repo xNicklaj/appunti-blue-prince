@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Ufficio.md",
+                "file": "Luoghi/Mt. Holly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ufficio"
+              "title": "Mt. Holly"
             }
           },
           {
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Ufficio.md",
+                "file": "Luoghi/Mt. Holly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ufficio"
+              "title": "Backlinks for Mt. Holly"
             }
           },
           {
@@ -202,6 +202,7 @@
   },
   "active": "44dc39d8ea04c206",
   "lastOpenFiles": [
+    "Stanze/Ufficio.md",
     "Stanze/Stanza dei Giochi.md",
     "Stanze/Stanza degli ospiti.md",
     "Stanze/Stanza da letto.md",
@@ -228,7 +229,6 @@
     "Puzzle/Matematica dei colori.md",
     "Puzzle/assets/Pasted image 20260208192621.png",
     "Documenti/Giornale su Mary Jones.md",
-    "Documenti/Nota dello shelter.md",
     "Immagini/assets/Pasted image 20260208110616.png",
     "assets/Pasted image 20260208105525.png",
     "assets",
