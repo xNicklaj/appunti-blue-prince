@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasPen",
-      "LiInstagram",
-      "FabUikit",
-      "FabDeploydog",
-      "FabInstagram"
+      "FasPaintbrush",
+      "LiSquareFunction",
+      "LiImage",
+      "LiCalendar",
+      "FasPersonMilitaryRifle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -103,5 +103,17 @@
     "iconName": "FabUikit",
     "iconColor": "#ff57e0"
   },
-  "TLDraw": "FasPen"
+  "TLDraw": "FasPen",
+  "Documenti": "LiNewspaper",
+  "Luoghi": "OcLocation16",
+  "Persone": "OcPerson16",
+  "Puzzle": "LiPuzzle",
+  "Oggetti": "FasMagnifyingGlass",
+  "Stanze": "LiHouse",
+  "Eventi": "FasFire",
+  "Fazioni": "FasPersonMilitaryRifle",
+  "Giorni": "LiCalendar",
+  "Immagini": "LiImage",
+  "Interagibili": "LiSquareFunction",
+  "Quadri": "FasPaintbrush"
 }

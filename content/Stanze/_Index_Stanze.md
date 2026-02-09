@@ -16,6 +16,7 @@
  [[Stanze/Garage|Garage]]
  [[Stanze/Laboratorio|Laboratorio]]
  [[Stanze/Magazzino|Magazzino]]
+ [[Stanze/Maid's Chamber|Maid's Chamber]]
  [[Stanze/Nook|Nook]]
  [[Stanze/Nuova miniera|Nuova miniera]]
  [[Stanze/Osservatorio|Osservatorio]]

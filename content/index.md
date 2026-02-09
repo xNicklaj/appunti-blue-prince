@@ -25,9 +25,11 @@ aliases:
 | [[Anne Babbage]]                       |
 | [[Denny Revane]]                       |
 ## Documenti per puzzle
-| Puzzle         | Documento               |
-| -------------- | ----------------------- |
-| [[Sala Pompe]] | [[Pump Room Schematic]] |
+| Puzzle         | Documento                                 |
+| -------------- | ----------------------------------------- |
+| [[Sala Pompe]] | [[Pump Room Schematic]]                   |
+| Quadri         | [[Lavagna dello studio]]                  |
+| Quadri         | [[Documento di commissione per i quadri]] |
 ## Indice Autogenerato 
 ![[_Index_Stanze]]
 ![[_Index_Documenti]]
