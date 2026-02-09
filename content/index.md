@@ -39,7 +39,7 @@ aliases:
 ![[_Index_Eventi]]
 ![[_Index_Oggetti]]
 ![[_Index_Puzzle]]
-![[_Index_Testi]]
 ![[_Index_Persone]]
 ![[_Index_Interagibili]]
 ![[_Index_Quadri]]
+![[_Index_Immagini]]

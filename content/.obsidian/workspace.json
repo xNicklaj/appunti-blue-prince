@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persone/Lady Clara Epsen.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lady Clara Epsen"
+              "title": "index"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Persone/Lady Clara Epsen.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lady Clara Epsen"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -189,6 +189,7 @@
   },
   "active": "792c6e4670ad4bf4",
   "lastOpenFiles": [
+    "Persone/Lady Clara Epsen.md",
     "Persone/Herbert S. Sinclair.md",
     "Documenti/Email 'settimana prossima'.md",
     "Documenti/Giornale su Mary Jones.md",
@@ -220,7 +221,6 @@
     "Persone/Re Desilets III.md",
     "Luoghi/Regione di Orinda Aries.md",
     "Fazioni/Synka Company.md",
-    "Luoghi/Reddington.md",
     "Luoghi/assets/Pasted image 20260208200247.png",
     "Luoghi/assets/Pasted image 20260208195728.png",
     "Luoghi/assets/Pasted image 20260208195442.png",
