@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Lettera per Simon sulle tradizioni.md",
+                "file": "Stanze/Tomba.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lettera per Simon sulle tradizioni"
+              "title": "Tomba"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Lettera per Simon sulle tradizioni.md",
+                "file": "Stanze/Tomba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lettera per Simon sulle tradizioni"
+              "title": "Backlinks for Tomba"
             }
           },
           {
@@ -172,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ccafbe53df23c7f",
+  "active": "43b483eb05671e30",
   "lastOpenFiles": [
-    "Immagini/Cartolina 'Greetings from Reddington'.md",
     "Documenti/Lettera per Simon sulle tradizioni.md",
+    "Stanze/Tomba.md",
+    "Immagini/Cartolina 'Greetings from Reddington'.md",
     "index.md",
     "Stanze/Sala da biliardo.md",
     "Puzzle/Puzzle 'Sala da Biliardo'.md",
@@ -208,7 +209,6 @@
     "Luoghi/assets/Pasted image 20260208194512.png",
     "Luoghi/assets",
     "Stanze/Ufficio.md",
-    "Stanze/Stanza dei Giochi.md",
     "Puzzle/assets/Pasted image 20260208192621.png",
     "Immagini/assets/Pasted image 20260208110616.png",
     "assets",
