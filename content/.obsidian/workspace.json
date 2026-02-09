@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immagini/Mappa dell'underground.md",
+                "file": "Puzzle/Puzzle 'Six or zero'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mappa dell'underground"
+              "title": "Puzzle 'Six or zero'"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immagini/Mappa dell'underground.md",
+                "file": "Puzzle/Puzzle 'Six or zero'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mappa dell'underground"
+              "title": "Backlinks for Puzzle 'Six or zero'"
             }
           },
           {
@@ -174,10 +174,12 @@
   },
   "active": "1ccafbe53df23c7f",
   "lastOpenFiles": [
+    "Puzzle/assets/Pasted image 20260209221645.png",
+    "Immagini/Mappa dell'underground.md",
+    "Puzzle/Puzzle 'Six or zero'.md",
     "Immagini/assets/Underground 1.png",
     "Immagini/assets/Underground.png",
     "Stanze/Tomba.md",
-    "Immagini/Mappa dell'underground.md",
     "Documenti/Lettera per Simon sulle tradizioni.md",
     "Immagini/Cartolina 'Greetings from Reddington'.md",
     "index.md",
@@ -206,11 +208,9 @@
     "Luoghi/Mt. Holly.md",
     "Documenti/Giornale su Mary Jones.md",
     "Luoghi/assets/Pasted image 20260208195442.png",
-    "Fazioni/Regno di Fenn Aries.md",
     "Luoghi/assets/Pasted image 20260208194714.png",
     "Luoghi/assets/Pasted image 20260208194512.png",
     "Luoghi/assets",
-    "Puzzle/assets/Pasted image 20260208192621.png",
     "assets",
     "Immagini/assets",
     "Immagini",
