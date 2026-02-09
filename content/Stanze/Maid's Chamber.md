@@ -3,4 +3,4 @@ tags:
   - stanza
 aliases:
 ---
-Contiene [[Fotografia 'Famiglia']].
+Contiene [[Fotografia 'Servitù']].
