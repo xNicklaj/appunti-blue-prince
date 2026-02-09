@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Tomba.md",
+                "file": "Immagini/Mappa dell'underground.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tomba"
+              "title": "Mappa dell'underground"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Tomba.md",
+                "file": "Immagini/Mappa dell'underground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tomba"
+              "title": "Backlinks for Mappa dell'underground"
             }
           },
           {
@@ -172,10 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43b483eb05671e30",
+  "active": "1ccafbe53df23c7f",
   "lastOpenFiles": [
-    "Documenti/Lettera per Simon sulle tradizioni.md",
+    "Immagini/assets/Underground 1.png",
+    "Immagini/assets/Underground.png",
     "Stanze/Tomba.md",
+    "Immagini/Mappa dell'underground.md",
+    "Documenti/Lettera per Simon sulle tradizioni.md",
     "Immagini/Cartolina 'Greetings from Reddington'.md",
     "index.md",
     "Stanze/Sala da biliardo.md",
@@ -204,13 +207,10 @@
     "Documenti/Giornale su Mary Jones.md",
     "Luoghi/assets/Pasted image 20260208195442.png",
     "Fazioni/Regno di Fenn Aries.md",
-    "Persone/Re Oris.md",
     "Luoghi/assets/Pasted image 20260208194714.png",
     "Luoghi/assets/Pasted image 20260208194512.png",
     "Luoghi/assets",
-    "Stanze/Ufficio.md",
     "Puzzle/assets/Pasted image 20260208192621.png",
-    "Immagini/assets/Pasted image 20260208110616.png",
     "assets",
     "Immagini/assets",
     "Immagini",
