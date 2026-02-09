@@ -63,7 +63,8 @@
               "title": "Denny Revane"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luoghi/Regione di Orinda Aries.md",
+                "file": "Fazioni/Regno di Orinda Aries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Regione di Orinda Aries"
+              "title": "Backlinks for Regno di Orinda Aries"
             }
           },
           {
@@ -214,15 +215,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44dc39d8ea04c206",
+  "active": "5f3947934e7a362b",
   "lastOpenFiles": [
+    "Persone/Re Desilets III.md",
+    "Luoghi/Regione di Orinda Aries.md",
     "Fazioni/Synka Company.md",
     "Luoghi/Reddington.md",
     "Luoghi/Orindia.md",
     "Luoghi/Fenn.md",
     "Luoghi/assets/Pasted image 20260208200247.png",
     "Luoghi/Trinsdale.md",
-    "Luoghi/Regione di Orinda Aries.md",
     "Luoghi/Oris.md",
     "Luoghi/assets/Pasted image 20260208195728.png",
     "Fazioni/Reddington Herald.md",
@@ -230,7 +232,6 @@
     "Documenti/Giornale su Mary Jones.md",
     "Luoghi/assets/Pasted image 20260208195442.png",
     "Fazioni/Regno di Fenn Aries.md",
-    "Persone/Re Desilets III.md",
     "Persone/Re Oris.md",
     "Luoghi/assets/Pasted image 20260208194714.png",
     "Luoghi/assets/Pasted image 20260208194512.png",
