@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fazioni/Regno di Orinda Aries.md",
+                "file": "Persone/Denny Revane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Regno di Orinda Aries"
+              "title": "Backlinks for Denny Revane"
             }
           },
           {
@@ -215,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f3947934e7a362b",
+  "active": "56e18e3124ba122f",
   "lastOpenFiles": [
+    "Fazioni/Regno di Orinda Aries.md",
     "Persone/Re Desilets III.md",
     "Luoghi/Regione di Orinda Aries.md",
     "Fazioni/Synka Company.md",
@@ -248,7 +249,6 @@
     "Stanze/Cortile.md",
     "Stanze/Dispensa.md",
     "Stanze/Corridoio.md",
-    "Stanze/Commissariato.md",
     "Puzzle/assets/Pasted image 20260208192621.png",
     "Immagini/assets/Pasted image 20260208110616.png",
     "assets/Pasted image 20260208105525.png",
