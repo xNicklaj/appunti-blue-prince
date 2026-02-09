@@ -8,6 +8,7 @@ aliases:
 | -------------------------- |
 | [[Giornale su Mary Jones]] |
 | [[Note di Revane]]         |
+| [[Mappa dell'underground]] |
 ## Fazioni importanti
 | [[Regno di Fenn Aries]]         |
 | ------------------------------- |
