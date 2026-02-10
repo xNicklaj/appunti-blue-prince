@@ -13,3 +13,5 @@ Documento che parla dei dintorni di [[Reddington]].
 ![[Pasted image 20260211000752.png]]
 ![[Pasted image 20260211000805.png]]
 ![[Pasted image 20260211000810.png]]
+![[Pasted image 20260211000823.png]]
+![[Pasted image 20260211000827.png]]

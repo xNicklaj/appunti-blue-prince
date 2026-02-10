@@ -4,11 +4,12 @@ tags:
 aliases:
 ---
 ## Documenti importanti
-| [[La storia di Orindia]]   |
-| -------------------------- |
-| [[Giornale su Mary Jones]] |
-| [[Note di Revane]]         |
-| [[Mappa dell'underground]] |
+| [[La storia di Orindia]]              |
+| ------------------------------------- |
+| [[Giornale su Mary Jones]]            |
+| [[Note di Revane]]                    |
+| [[Mappa dell'underground]]            |
+| [[A Sightseer's Guide To Reddington]] |
 ## Fazioni importanti
 | [[Regno di Fenn Aries]]         |
 | ------------------------------- |

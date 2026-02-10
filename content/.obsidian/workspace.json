@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "158a4d8f7e726ac6",
+        "id": "42f77ec231bf8eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ce2500f4205c44",
+            "id": "bf45ab5a38f1b01c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persone/Herbert S. Sinclair.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Herbert S. Sinclair"
-            }
-          },
-          {
-            "id": "792c6e4670ad4bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti/Lettera per Christoph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lettera per Christoph"
-            }
-          },
-          {
-            "id": "98a79301c7ccfc7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti/A Sightseer's Guide To Reddington.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Sightseer's Guide To Reddington"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/A Sightseer's Guide To Reddington.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Sightseer's Guide To Reddington"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -201,8 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98a79301c7ccfc7d",
+  "active": "bf45ab5a38f1b01c",
   "lastOpenFiles": [
+    "Documenti/Lettera per Christoph.md",
+    "Documenti/A Sightseer's Guide To Reddington.md",
+    "Documenti/assets/Pasted image 20260211000827.png",
+    "Documenti/assets/Pasted image 20260211000823.png",
     "Documenti/assets/Pasted image 20260211000810.png",
     "Documenti/assets/Pasted image 20260211000805.png",
     "Documenti/assets/Pasted image 20260211000757.png",
@@ -211,16 +186,13 @@
     "Documenti/assets/Pasted image 20260211000731.png",
     "Documenti/assets/Pasted image 20260211000727.png",
     "Documenti/assets/Pasted image 20260211000723.png",
-    "Documenti/assets/Pasted image 20260211000715.png",
     "Documenti/Giornale su Mary Jones.md",
-    "Documenti/A Sightseer's Guide To Reddington.md",
     "Immagini/Cartolina 'Greetings from Reddington'.md",
     "Immagini/Fotografia 'Servitù'.md",
     "Persone/Mary Matthew Epsen Jones.md",
     "Oggetti/Salt Shaker.md",
     "Documenti/Nota per Christoph.md",
     "Persone/Christoph.md",
-    "Documenti/Lettera per Christoph.md",
     "Documenti/Nota della dispensa.md",
     "index.md",
     "Persone/Herbert S. Sinclair.md",
@@ -231,8 +203,6 @@
     "Documenti/Nota del laboratorio.md",
     "Immagini/Mappa dell'underground.md",
     "Puzzle/Puzzle 'Six or zero'.md",
-    "Puzzle/assets/Pasted image 20260209221645.png",
-    "Immagini/assets/Underground 1.png",
     "Stanze/Tomba.md",
     "Documenti/Lettera per Simon sulle tradizioni.md",
     "Stanze/Sala da biliardo.md",
