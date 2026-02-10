@@ -21,7 +21,7 @@ aliases:
 ## Personaggi importanti
 | [[Herbert S. Sinclair\|H.S. Sinclair]] |
 | -------------------------------------- |
-| [[Mary Matthew Jones]]                 |
+| [[Mary Matthew Epsen Jones]]                 |
 | [[Bon Margle]]                         |
 | [[Anne Babbage]]                       |
 | [[Denny Revane]]                       |

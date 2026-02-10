@@ -7,7 +7,7 @@ Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Re
 
 > AUG 22 - '85
 >
-> [[Mary Matthew Jones|Marigold]] WINS HERALD LITERARY HONOR
+> [[Mary Matthew Epsen Jones|Marigold]] WINS HERALD LITERARY HONOR
 > Popular children's writer Marion Marigold adds yet another feather to her scholastic cap when she discovered on Thursday that **her picture book "Swim Bird"** had been chosen as the **Herald Literary Medal** illustrated book of the year.
 > This is **Marigold's second time** winning this prestigious honor, the previous medal was of course for her [[Red Prince|debut effort]],
 >
@@ -20,7 +20,7 @@ Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Re
 >
 >She confided "My [[Simon P. Jones|son]] was the one actually got me to start writing, I had always challenged myself to never tell me the same story twice at bedtime, and so as we ran out of books we owned, my imagination had to take over from there."
 >
->[[Mary Matthew Jones|Marigold]] has elaborated in previous interviews that her debut book "[[Red Prince]]" is based on her son and his inflexible love of the color red. A statement that has been held with much skepticism by the many pundits that viewed that book as a rather thinly veiled **political critique of the royalist party** and their **unwavering blind loyalty to the throne**.
+>[[Mary Matthew Epsen Jones|Marigold]] has elaborated in previous interviews that her debut book "[[Red Prince]]" is based on her son and his inflexible love of the color red. A statement that has been held with much skepticism by the many pundits that viewed that book as a rather thinly veiled **political critique of the royalist party** and their **unwavering blind loyalty to the throne**.
 
 > NOV 11 - '86
 > 
@@ -36,7 +36,7 @@ Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Re
 > 
 > MARIGOLD DROPS PUBLISHER
 > 
-> Local author and popular personality, [[Mary Matthew Jones|Marion Marigold]] has announced a split with her long term publishing partner, [[Ruffington Press]], citing personal reasons. 
+> Local author and popular personality, [[Mary Matthew Epsen Jones|Marion Marigold]] has announced a split with her long term publishing partner, [[Ruffington Press]], citing personal reasons. 
 > The announcement came after the arrest last week of fellow author and colleague, [[Caleb Manning]], whom Marigold has past referred to as her mentor, friend and confidant.
 > Marigold is the third prominent writer to distance themselves from the Publisher this week.
 > 
@@ -55,7 +55,7 @@ Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Re
 > 
 >   NO TRACE IS DISCOVERED OF SYNKA HEIRESS BUT SEARCH CONTINUES
 >
->[[Mary Matthew Jones]], the author and illustrator whose fanciful stories are written under the pen name Marion Marigold, was last seen by a close friend around 3:45pm Friday getting into a carriage after a late luncheon date at the Hundred Bells Tea Room in [[Trinsdale]]. 
+>[[Mary Matthew Epsen Jones]], the author and illustrator whose fanciful stories are written under the pen name Marion Marigold, was last seen by a close friend around 3:45pm Friday getting into a carriage after a late luncheon date at the Hundred Bells Tea Room in [[Trinsdale]]. 
 >   Mrs. Jones never arrived home and the carriage driver cannot be located. Family and local authorities are very concerned but have not deemed the case foul play. 
 >   "*It's an out-of-character incident at this point and we are seeking information*
 

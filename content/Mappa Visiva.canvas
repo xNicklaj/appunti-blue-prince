@@ -3,7 +3,7 @@
 		{"id":"8c09305128bacd85","type":"file","file":"Persone/Daniel Jones.md","x":720,"y":120,"width":400,"height":712},
 		{"id":"1c0c6263c21dfef0","type":"file","file":"Persone/Simon P. Jones.md","x":317,"y":1100,"width":400,"height":540},
 		{"id":"57b927cedc863c28","type":"file","file":"Persone/Herbert S. Sinclair.md","x":-760,"y":-720,"width":400,"height":712},
-		{"id":"8f04ce0170549dc7","type":"file","file":"Persone/Mary Matthew Jones.md","x":-60,"y":39,"width":377,"height":874}
+		{"id":"8f04ce0170549dc7","type":"file","file":"Persone/Mary Matthew Epsen Jones.md","x":-60,"y":39,"width":377,"height":874}
 	],
 	"edges":[
 		{"id":"cda6fe502abecabd","fromNode":"8f04ce0170549dc7","fromSide":"right","toNode":"1c0c6263c21dfef0","toSide":"top","label":"Madre"},

@@ -9,7 +9,7 @@
  [[Persone/Herbert S. Sinclair|Herbert S. Sinclair]]
  [[Persone/Herbie Jones|Herbie Jones]]
  [[Persone/Lady Clara Epsen|Lady Clara Epsen]]
- [[Persone/Mary Matthew Jones|Mary Matthew Jones]]
+ [[Persone/Mary Matthew Epsen Jones|Mary Matthew Epsen Jones]]
  [[Persone/Phillip White|Phillip White]]
  [[Persone/Re Desilets III|Re Desilets III]]
  [[Persone/Re Oris|Re Oris]]
