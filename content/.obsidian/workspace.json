@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Interagibili/Cabinet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Cabinet"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Interagibili/Cabinet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Cabinet"
             }
           },
           {
@@ -174,6 +174,8 @@
   },
   "active": "bf45ab5a38f1b01c",
   "lastOpenFiles": [
+    "index.md",
+    "Interagibili/Cabinet.md",
     "Documenti/Lettera per Christoph.md",
     "Documenti/A Sightseer's Guide To Reddington.md",
     "Documenti/assets/Pasted image 20260211000827.png",
@@ -194,7 +196,6 @@
     "Documenti/Nota per Christoph.md",
     "Persone/Christoph.md",
     "Documenti/Nota della dispensa.md",
-    "index.md",
     "Persone/Herbert S. Sinclair.md",
     "Persone/Lady Clara Epsen.md",
     "Documenti/Email 'settimana prossima'.md",
