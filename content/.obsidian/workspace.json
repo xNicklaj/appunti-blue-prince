@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42f77ec231bf8eb6",
+        "id": "eaad31b2dcb4bc63",
         "type": "tabs",
         "children": [
           {
-            "id": "bf45ab5a38f1b01c",
+            "id": "06519162e395fd44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Drafting Strategy Vol. 1.md",
+                "file": "Persone/Orinda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drafting Strategy Vol. 1"
+              "title": "Orinda"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Drafting Strategy Vol. 1.md",
+                "file": "Persone/Orinda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drafting Strategy Vol. 1"
+              "title": "Backlinks for Orinda"
             }
           },
           {
@@ -172,8 +172,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf45ab5a38f1b01c",
+  "active": "06519162e395fd44",
   "lastOpenFiles": [
+    "Stanze/Cappella.md",
+    "Persone/Orinda.md",
+    "Persone/assets/Pasted image 20260212225623.png",
+    "Documenti/Calendario del drafting study.md",
+    "Documenti/assets/Pasted image 20260212225440.png",
+    "Documenti/Biglietto 'The Great Hall'.md",
+    "Documenti/assets/Pasted image 20260212225256.png",
+    "Documenti/Drafting Strategy Vol. 1.md",
     "Documenti/assets/Pasted image 20260211234337.png",
     "Documenti/assets/Pasted image 20260211234330.png",
     "Documenti/assets/Pasted image 20260211234321.png",
@@ -181,12 +189,7 @@
     "Documenti/assets/Pasted image 20260211234250.png",
     "Documenti/assets/Pasted image 20260211234247.png",
     "Documenti/assets/Pasted image 20260211234210.png",
-    "Documenti/assets/Pasted image 20260211234202.png",
-    "Documenti/assets/Pasted image 20260211234149.png",
     "Documenti/Swim Bird.md",
-    "Documenti/Drafting Strategy Vol. 1.md",
-    "Documenti/assets/Pasted image 20260211233802.png",
-    "Documenti/assets/Pasted image 20260211233756.png",
     "Documenti/Untitled.md",
     "Interagibili/Cabinet.md",
     "index.md",
@@ -207,9 +210,6 @@
     "Documenti/Nota dello shelter.md",
     "Documenti/Nota del laboratorio.md",
     "Immagini/Mappa dell'underground.md",
-    "Puzzle/Puzzle 'Six or zero'.md",
-    "Stanze/Tomba.md",
-    "Documenti/Lettera per Simon sulle tradizioni.md",
     "Luoghi/assets",
     "assets",
     "Immagini/assets",
