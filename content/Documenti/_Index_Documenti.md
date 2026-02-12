@@ -18,6 +18,7 @@
  [[Documenti/Lettera di terminazione|Lettera di terminazione]]
  [[Documenti/Lettera per Christoph|Lettera per Christoph]]
  [[Documenti/Lettera per Simon sulle tradizioni|Lettera per Simon sulle tradizioni]]
+ [[Documenti/Mappa con X|Mappa con X]]
  [[Documenti/Nota 'Utility Room'|Nota 'Utility Room']]
  [[Documenti/Nota del laboratorio|Nota del laboratorio]]
  [[Documenti/Nota della dispensa|Nota della dispensa]]
