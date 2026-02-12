@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fazioni/Regno di Fenn Aries.md",
+                "file": "Documenti/La storia di Orindia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regno di Fenn Aries"
+              "title": "La storia di Orindia"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fazioni/Regno di Fenn Aries.md",
+                "file": "Documenti/La storia di Orindia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Regno di Fenn Aries"
+              "title": "Backlinks for La storia di Orindia"
             }
           },
           {
@@ -203,11 +203,14 @@
   },
   "active": "560f5197c0e2d17c",
   "lastOpenFiles": [
+    "Documenti/Drafting Strategy Vol. 1.md",
+    "Fazioni/Regno di Fenn Aries.md",
+    "Fazioni/assets/Pasted image 20260212231349.png",
+    "Fazioni/assets",
     "Fazioni/Reddington Herald.md",
     "Fazioni/Red Guard.md",
     "Fazioni/Regno di Arch Aries.md",
     "Fazioni/Regno di Eraja.md",
-    "Fazioni/Regno di Fenn Aries.md",
     "Fazioni/Regno di Nuance.md",
     "Fazioni/Regno di Orinda Aries.md",
     "Fazioni/Ruffington Press.md",
@@ -224,13 +227,11 @@
     "Documenti/assets/Pasted image 20260212225440.png",
     "Documenti/Biglietto 'The Great Hall'.md",
     "Documenti/assets/Pasted image 20260212225256.png",
-    "Documenti/Drafting Strategy Vol. 1.md",
     "Documenti/assets/Pasted image 20260211234337.png",
     "Documenti/assets/Pasted image 20260211234330.png",
     "Documenti/assets/Pasted image 20260211234321.png",
     "Documenti/assets/Pasted image 20260211234314.png",
     "Documenti/assets/Pasted image 20260211234250.png",
-    "Documenti/assets/Pasted image 20260211234247.png",
     "Documenti/Swim Bird.md",
     "Documenti/Untitled.md",
     "Interagibili/Cabinet.md",
@@ -238,7 +239,6 @@
     "Documenti/Lettera per Christoph.md",
     "Documenti/A Sightseer's Guide To Reddington.md",
     "Documenti/Giornale su Mary Jones.md",
-    "Immagini/Cartolina 'Greetings from Reddington'.md",
     "Luoghi/assets",
     "assets",
     "Immagini/assets",
@@ -249,7 +249,6 @@
     "Eventi",
     "Fazioni",
     "Luoghi",
-    "Giorni/assets",
     "TMPTutorialCanvas.canvas",
     "Materie/Game Design & Game Thinking/Appunti Visivi.canvas",
     "Materie/Game Design & Game Thinking/Untitled.canvas",
