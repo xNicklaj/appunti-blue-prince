@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Mappa con X.md",
+                "file": "Documenti/Lettera dell'ospite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mappa con X"
+              "title": "Lettera dell'ospite"
+            }
+          },
+          {
+            "id": "c27c1b944faa19c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immagini/Mappa del mondo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mappa del mondo"
+            }
+          },
+          {
+            "id": "560f5197c0e2d17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazioni/Regno di Fenn Aries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regno di Fenn Aries"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Mappa con X.md",
+                "file": "Fazioni/Regno di Fenn Aries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mappa con X"
+              "title": "Backlinks for Regno di Fenn Aries"
             }
           },
           {
@@ -172,11 +201,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06519162e395fd44",
+  "active": "560f5197c0e2d17c",
   "lastOpenFiles": [
+    "Fazioni/Reddington Herald.md",
+    "Fazioni/Red Guard.md",
+    "Fazioni/Regno di Arch Aries.md",
+    "Fazioni/Regno di Eraja.md",
+    "Fazioni/Regno di Fenn Aries.md",
+    "Fazioni/Regno di Nuance.md",
+    "Fazioni/Regno di Orinda Aries.md",
+    "Fazioni/Ruffington Press.md",
+    "Fazioni/Synka Company.md",
+    "Fazioni/The Children of Black Water.md",
+    "Immagini/Mappa del mondo.md",
+    "Documenti/Lettera dell'ospite.md",
+    "Documenti/Mappa con X.md",
     "Documenti/assets/Pasted image 20260212225932.png",
     "Persone/Orinda.md",
-    "Documenti/Mappa con X.md",
     "Stanze/Cappella.md",
     "Persone/assets/Pasted image 20260212225623.png",
     "Documenti/Calendario del drafting study.md",
@@ -190,7 +231,6 @@
     "Documenti/assets/Pasted image 20260211234314.png",
     "Documenti/assets/Pasted image 20260211234250.png",
     "Documenti/assets/Pasted image 20260211234247.png",
-    "Documenti/assets/Pasted image 20260211234210.png",
     "Documenti/Swim Bird.md",
     "Documenti/Untitled.md",
     "Interagibili/Cabinet.md",
@@ -199,17 +239,6 @@
     "Documenti/A Sightseer's Guide To Reddington.md",
     "Documenti/Giornale su Mary Jones.md",
     "Immagini/Cartolina 'Greetings from Reddington'.md",
-    "Immagini/Fotografia 'Servitù'.md",
-    "Persone/Mary Matthew Epsen Jones.md",
-    "Oggetti/Salt Shaker.md",
-    "Documenti/Nota per Christoph.md",
-    "Persone/Christoph.md",
-    "Documenti/Nota della dispensa.md",
-    "Persone/Herbert S. Sinclair.md",
-    "Persone/Lady Clara Epsen.md",
-    "Documenti/Email 'settimana prossima'.md",
-    "Documenti/Nota per il corriere.md",
-    "Documenti/Nota dello shelter.md",
     "Luoghi/assets",
     "assets",
     "Immagini/assets",
