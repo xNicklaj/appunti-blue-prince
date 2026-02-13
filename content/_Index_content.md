@@ -2,6 +2,7 @@
  ![[Documenti/_Index_Documenti|_Index_Documenti]]
  ![[Eventi/_Index_Eventi|_Index_Eventi]]
  ![[Fazioni/_Index_Fazioni|_Index_Fazioni]]
+ ![[Fotografie/_Index_Fotografie|_Index_Fotografie]]
  ![[Giorni/_Index_Giorni|_Index_Giorni]]
  ![[Immagini/_Index_Immagini|_Index_Immagini]]
  ![[Interagibili/_Index_Interagibili|_Index_Interagibili]]

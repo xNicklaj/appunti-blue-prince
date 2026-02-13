@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPhotoFilm",
       "LiBook",
       "LiMail",
       "FasPaintbrush",
-      "LiSquareFunction",
-      "LiImage"
+      "LiSquareFunction"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -117,5 +117,6 @@
   "Interagibili": "LiSquareFunction",
   "Quadri": "FasPaintbrush",
   "Lettere": "LiMail",
-  "Libri": "LiBook"
+  "Libri": "LiBook",
+  "Fotografie": "FasPhotoFilm"
 }
