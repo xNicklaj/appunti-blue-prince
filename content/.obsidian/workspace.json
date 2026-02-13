@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8959a5560d3a1d2",
+        "id": "89d03093f3b85523",
         "type": "tabs",
         "children": [
           {
-            "id": "31b7bd7b32564498",
+            "id": "da91b442083f2ed6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31b7bd7b32564498",
+  "active": "da91b442083f2ed6",
   "lastOpenFiles": [
     "Lettere/Email 'cambiamenti della villa'.md",
     "Documenti/Mappa con X.md",
