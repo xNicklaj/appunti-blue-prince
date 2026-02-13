@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Libro
 aliases:
 ---
 ## Gallery

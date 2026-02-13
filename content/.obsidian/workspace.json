@@ -11,10 +11,14 @@
             "id": "16d51c1e6996363e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Libri/Swim Bird.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Swim Bird"
             }
           }
         ]
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libri/Swim Bird.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Swim Bird"
             }
           },
           {
@@ -169,8 +174,13 @@
   },
   "active": "16d51c1e6996363e",
   "lastOpenFiles": [
-    "index.md",
+    "Libri/Red Prince.md",
+    "Libri/Quaderno del giardiniere.md",
+    "Libri/La storia di Orindia.md",
+    "Libri/Drafting Strategy Vol. 3.md",
+    "Libri/Drafting Strategy Vol. 1.md",
     "Libri/A Sightseer's Guide To Reddington.md",
+    "index.md",
     "Luoghi/Trinsdale.md",
     "Luoghi/Tenuta Featherfall.md",
     "Luoghi/Regione di Orinda Aries.md",
@@ -194,17 +204,12 @@
     "Luoghi/Studio.md",
     "Documenti/Nota in binario.md",
     "Documenti/assets/Pasted image 20260213130820.png",
-    "Stanze/Cappella.md",
-    "Persone/Rynna.md",
     "assets/Pasted image 20260213130545.png",
-    "Libri/Quaderno del giardiniere.md",
-    "Interagibili/Valvola per fuoco blu.md",
     "Libri/assets/Pasted image 20260213130332.png",
     "Libri/assets/Pasted image 20260213130326.png",
     "Libri/assets/Pasted image 20260213130323.png",
     "Libri/assets/Pasted image 20260213130316.png",
     "Libri/assets/Pasted image 20260213130309.png",
-    "Lettere/Lettera del Ruffington Press su Red Prince.md",
     "Fotografie/assets",
     "Fotografie",
     "Libri/assets",

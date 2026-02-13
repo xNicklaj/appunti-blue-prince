@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Libro
 aliases:
 ---
 Documento che parla dei dintorni di [[Reddington]].

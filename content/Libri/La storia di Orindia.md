@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Libro
 aliases:
 ---
 Libro di [[Caleb Manning]] richiesto alla [[Libreria]] della villa.

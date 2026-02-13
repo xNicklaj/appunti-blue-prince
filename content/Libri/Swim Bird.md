@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Libro
 aliases:
 ---
 Secondo libro di [[Mary Matthew Epsen Sinclair|Marion Marigold]]. Ha vinto la Herald Literary Medal come miglior libro illustrato del 1985.

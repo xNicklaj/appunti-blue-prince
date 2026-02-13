@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Libro
 aliases:
 ---
 Quaderno del giardiniere e custode [[Robert Nogula]] trovato nel frutteto.
