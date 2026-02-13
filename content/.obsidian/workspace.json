@@ -120,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettere/Email 'cambiamenti della villa'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Email 'cambiamenti della villa'"
+              "title": "Backlinks"
             }
           },
           {
@@ -168,8 +167,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43b483eb05671e30",
+  "active": "31b7bd7b32564498",
   "lastOpenFiles": [
+    "Lettere/Email 'cambiamenti della villa'.md",
     "Documenti/Mappa con X.md",
     "Immagini/Mappa del mondo.md",
     "Libri/A Sightseer's Guide To Reddington.md",
@@ -195,7 +195,6 @@
     "Quadri/Quadro 'Spilla'.md",
     "Quadri/Quadro 'Scala a chiocciola'.md",
     "Quadri/Quadro 'Rosario'.md",
-    "Quadri/Quadro 'Regina di quadri'.md",
     "Fotografie/assets/Pasted image 20260213132216.png",
     "Fotografie/assets/Pasted image 20260213132103.png",
     "Puzzle/assets/Pasted image 20260213131134.png",
