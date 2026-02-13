@@ -4,7 +4,7 @@ tags:
 aliases:
   - Archive
 ---
-Archivio documenti della villa, in cui [[Denny Revane]] stava investigando su [[Mary Matthew Epsen Jones]].
+Archivio documenti della villa, in cui [[Denny Revane]] stava investigando su [[Mary Matthew Epsen Sinclair]].
 Qui dentro si trova il [[Giornale su Mary Jones]].
 
 ## Gameplay

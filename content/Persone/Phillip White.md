@@ -3,4 +3,4 @@ tags:
   - persona
 aliases:
 ---
-Publisher di [[Caleb Manning]] e [[Mary Matthew Epsen Jones|Marion Marigold]]. Lavora per [[Ruffington Press]].
+Publisher di [[Caleb Manning]] e [[Mary Matthew Epsen Sinclair|Marion Marigold]]. Lavora per [[Ruffington Press]].

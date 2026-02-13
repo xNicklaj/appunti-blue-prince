@@ -3,7 +3,7 @@ tags:
   - Documento
 aliases:
 ---
-Secondo libro di [[Mary Matthew Epsen Jones|Marion Marigold]]. Ha vinto la Herald Literary Medal come miglior libro illustrato del 1985.
+Secondo libro di [[Mary Matthew Epsen Sinclair|Marion Marigold]]. Ha vinto la Herald Literary Medal come miglior libro illustrato del 1985.
 
 ## Galleria
 ![[Pasted image 20260211233336.png]]

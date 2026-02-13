@@ -4,6 +4,7 @@
  [[Immagini/Disegno 'Cravatta'|Disegno 'Cravatta']]
  [[Immagini/Disegno 'Lampada'|Disegno 'Lampada']]
  [[Immagini/Disegno 'Pulcino'|Disegno 'Pulcino']]
+ [[Immagini/Disegno 'Security'|Disegno 'Security']]
  [[Immagini/Francobollo di Fenn Aries|Francobollo di Fenn Aries]]
  [[Immagini/Lavagna dello studio|Lavagna dello studio]]
  [[Immagini/Mappa del mondo|Mappa del mondo]]

@@ -2,6 +2,7 @@
  [[Puzzle/assets/_Index_assets|_Index_assets]]
  [[Puzzle/Cassaforte Synca del Boudoir|Cassaforte Synca del Boudoir]]
  [[Puzzle/Matematica dei colori|Matematica dei colori]]
+ [[Puzzle/Monitor di Security|Monitor di Security]]
  [[Puzzle/Pump Room Schematic|Pump Room Schematic]]
  [[Puzzle/Puzzle 'Sala da Biliardo'|Puzzle 'Sala da Biliardo']]
  [[Puzzle/Puzzle 'Six or zero'|Puzzle 'Six or zero']]

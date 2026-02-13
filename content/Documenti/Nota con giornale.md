@@ -3,7 +3,7 @@ tags:
   - Documento
 aliases:
 ---
-Nota con attaccato un giornale, lo stesso di [[Giornale su Mary Jones]] che parla della scomparsa di [[Mary Matthew Epsen Jones|Marion Marigold]].
+Nota con attaccato un giornale, lo stesso di [[Giornale su Mary Jones]] che parla della scomparsa di [[Mary Matthew Epsen Sinclair|Marion Marigold]].
 
 > no <u>sign</u> has been found (yet)
 
