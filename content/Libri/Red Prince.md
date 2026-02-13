@@ -7,8 +7,6 @@ Libro di debutto di [[Mary Matthew Epsen Jones|Marion Marygold]]. Un libro per b
 
 Sembra che le sia stato fatto 
 ## Galleria
-
-
 ![[Pasted image 20260212235441.png]]
 ![[Pasted image 20260212235434.png]]
 ![[Pasted image 20260212235428.png]]

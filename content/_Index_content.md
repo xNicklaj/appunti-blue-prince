@@ -5,6 +5,8 @@
  ![[Giorni/_Index_Giorni|_Index_Giorni]]
  ![[Immagini/_Index_Immagini|_Index_Immagini]]
  ![[Interagibili/_Index_Interagibili|_Index_Interagibili]]
+ ![[Lettere/_Index_Lettere|_Index_Lettere]]
+ ![[Libri/_Index_Libri|_Index_Libri]]
  ![[Luoghi/_Index_Luoghi|_Index_Luoghi]]
  ![[Oggetti/_Index_Oggetti|_Index_Oggetti]]
  ![[Persone/_Index_Persone|_Index_Persone]]

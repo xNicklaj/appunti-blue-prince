@@ -5,6 +5,7 @@
  [[Immagini/Disegno 'Lampada'|Disegno 'Lampada']]
  [[Immagini/Disegno 'Pulcino'|Disegno 'Pulcino']]
  [[Immagini/Fotografia 'Boudoir natalizio'|Fotografia 'Boudoir natalizio']]
+ [[Immagini/Fotografia 'Famiglia'|Fotografia 'Famiglia']]
  [[Immagini/Fotografia 'Manning e White'|Fotografia 'Manning e White']]
  [[Immagini/Fotografia 'Servitù'|Fotografia 'Servitù']]
  [[Immagini/Francobollo di Fenn Aries|Francobollo di Fenn Aries]]

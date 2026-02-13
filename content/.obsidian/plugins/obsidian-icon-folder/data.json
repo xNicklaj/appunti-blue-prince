@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
+      "LiMail",
       "FasPaintbrush",
       "LiSquareFunction",
-      "LiImage",
-      "LiCalendar",
-      "FasPersonMilitaryRifle"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -115,5 +115,7 @@
   "Giorni": "LiCalendar",
   "Immagini": "LiImage",
   "Interagibili": "LiSquareFunction",
-  "Quadri": "FasPaintbrush"
+  "Quadri": "FasPaintbrush",
+  "Lettere": "LiMail",
+  "Libri": "LiBook"
 }
