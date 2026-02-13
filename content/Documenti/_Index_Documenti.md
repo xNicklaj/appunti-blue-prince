@@ -22,6 +22,7 @@
  [[Documenti/Nota dello shelter|Nota dello shelter]]
  [[Documenti/Nota di avviso per Christoph|Nota di avviso per Christoph]]
  [[Documenti/Nota di stampa per la Camera Oscura|Nota di stampa per la Camera Oscura]]
+ [[Documenti/Nota in binario|Nota in binario]]
  [[Documenti/Nota per Christoph|Nota per Christoph]]
  [[Documenti/Nota per il corriere|Nota per il corriere]]
  [[Documenti/Nota per il personale II|Nota per il personale II]]

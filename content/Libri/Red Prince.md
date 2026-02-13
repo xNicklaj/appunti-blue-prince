@@ -3,9 +3,9 @@ tags:
   - Documento
 aliases:
 ---
-Libro di debutto di [[Mary Matthew Epsen Sinclair|Marion Marygold]]. Un libro per bambini ispirato al figlio [[Simon P. Jones]], che vede come protagonista un bambino che adora il rosso e lo pone ovunque nella vita. Questo bambino porta sempre con se un libro rosso, che si scopre essere il libro della sua stessa storia.
+Libro di debutto di [[Mary Matthew Epsen Sinclair|Marion Marygold]]. Un libro per bambini ispirato al figlio [[Simon P. Jones]], che vede come protagonista un bambino che adora il rosso e lo pone ovunque nella vita. Questo bambino porta sempre con se un libro rosso, che si scopre essere il libro della sua stessa storia. Pubblicato dal [[Ruffington Press]].
 
-Sembra che le sia stato fatto 
+Sembra che le sia stato fatto [[Lettera del Ruffington Press su Red Prince|cambiare il finale]] dal [[Ruffington Press]].
 ## Galleria
 ![[Pasted image 20260212235441.png]]
 ![[Pasted image 20260212235434.png]]

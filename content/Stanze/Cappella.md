@@ -7,7 +7,7 @@ aliases:
 ## Gameplay
 Presenta due uscite.
 ## Estetica
-- Figura I: Vestito rosso con aratro
+- Figura I: [[Rynna]]
   ![[Pasted image 20260205225648.png]]
 - Figura II: Vestito bianco con pala
   ![[Pasted image 20260205225740.png]]

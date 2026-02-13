@@ -16,6 +16,7 @@
  [[Stanze/Entrata|Entrata]]
  [[Stanze/Garage|Garage]]
  [[Stanze/Laboratorio|Laboratorio]]
+ [[Stanze/Libreria|Libreria]]
  [[Stanze/Magazzino|Magazzino]]
  [[Stanze/Maid's Chamber|Maid's Chamber]]
  [[Stanze/Nook|Nook]]
