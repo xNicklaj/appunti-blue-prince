@@ -4,6 +4,7 @@
  [[Fotografie/Fotografia 'Famiglia'|Fotografia 'Famiglia']]
  [[Fotografie/Fotografia 'Manning e White'|Fotografia 'Manning e White']]
  [[Fotografie/Fotografia 'Servitù'|Fotografia 'Servitù']]
+ [[Fotografie/Fotografia 'Thomas Sinclair'|Fotografia 'Thomas Sinclair']]
  [[Fotografie/Fotografie della Camera Oscura.|Fotografie della Camera Oscura.]]
  [[Fotografie/Ritratto 'Baronessa Auravei da anziana'|Ritratto 'Baronessa Auravei da anziana']]
  [[Fotografie/Ritratto 'Baronessa Auravei da giovane'|Ritratto 'Baronessa Auravei da giovane']]

@@ -4,6 +4,6 @@ tags:
 aliases:
 ---
 ## Gameplay
-- [[Cassaforte Synca del Boudoir]]
+- [[Cassaforte del Boudoir]]
 ## Estetica
 Molto rosa, sembra la stanza di una donna.

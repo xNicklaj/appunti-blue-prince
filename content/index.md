@@ -3,6 +3,16 @@ tags:
   - hide
 aliases:
 ---
+## Documenti per puzzle attivi
+
+| Puzzle          | Documento                |
+| --------------- | ------------------------ |
+| [[Sala Pompe]]  | [[Pump Room Schematic]]  |
+| Lettere Rosse   | [[Messaggio dei quadri]] |
+| X               | [[X]]                    |
+| [[Security]]    | [[Monitor di Security]]  |
+| [[Locker Room]] | [[Puzzle 'Six or zero']] |
+
 ## Documenti importanti
 | [[Giornale su Mary Jones]] |
 | -------------------------- |
@@ -30,9 +40,3 @@ aliases:
 | [[Bon Margle]]                         |
 | [[Anne Babbage]]                       |
 | [[Denny Revane]]                       |
-## Documenti per puzzle
-| Puzzle         | Documento                                 |
-| -------------- | ----------------------------------------- |
-| [[Sala Pompe]] | [[Pump Room Schematic]]                   |
-| Quadri         | [[Lavagna dello studio]]                  |
-| Quadri         | [[Documento di commissione per i quadri]] |
