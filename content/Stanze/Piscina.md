@@ -2,4 +2,5 @@
 tags:
   - stanza
 aliases:
+  - Pool
 ---

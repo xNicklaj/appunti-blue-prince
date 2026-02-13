@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Closet
 ---
 ## Gameplay
 Può contenere:

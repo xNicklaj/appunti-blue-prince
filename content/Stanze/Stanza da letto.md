@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Bedroom
 ---
 ## Gameplay
 Questa stanza ha una sola uscita ad L.

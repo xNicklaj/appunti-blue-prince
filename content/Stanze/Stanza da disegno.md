@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Drafting Room
 ---
 ## Gameplay
 Permette di ridisegnare le stanze che escono.

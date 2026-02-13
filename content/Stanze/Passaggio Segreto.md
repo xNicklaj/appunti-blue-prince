@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Secret Passage
 ---
 ## Gameplay
 Collega ad una stanza di un determinato colore.

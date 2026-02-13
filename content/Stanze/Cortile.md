@@ -2,6 +2,7 @@
 tags:
   - Giorno
 aliases:
+  - Courtyard
 ---
 ## Gameplay
 Presenta una sola uscita ad L.

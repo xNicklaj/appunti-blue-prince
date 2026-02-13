@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eaad31b2dcb4bc63",
+        "id": "05011e48401d98a3",
         "type": "tabs",
         "children": [
           {
-            "id": "06519162e395fd44",
+            "id": "725906537de58ed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Stanze/Archivio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Archivio"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Stanze/Archivio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Archivio"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documenti/Disegno di Revane.md",
+                "file": "Stanze/Archivio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Disegno di Revane"
+              "title": "Outgoing links from Archivio"
             }
           }
         ],
@@ -172,45 +172,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06519162e395fd44",
+  "active": "725906537de58ed1",
   "lastOpenFiles": [
-    "Documenti/Appunti del giardiniere.md",
+    "Stanze/Antro.md",
+    "Stanze/Acquario.md",
+    "Stanze/Boudoir.md",
+    "Stanze/Camera Oscura.md",
+    "Stanze/Capanna degli attrezzi.md",
+    "Stanze/Commissariato.md",
+    "Stanze/Corridoio.md",
+    "Stanze/Cortile.md",
+    "Stanze/Cucina.md",
+    "Stanze/Dispensa.md",
+    "Stanze/Entrata.md",
+    "Stanze/Garage.md",
+    "Stanze/Laboratorio.md",
+    "Stanze/Magazzino.md",
+    "Stanze/Nook.md",
+    "Stanze/Maid's Chamber.md",
+    "Stanze/Nuova miniera.md",
+    "Stanze/Osservatorio.md",
+    "Stanze/Passaggio Segreto.md",
+    "Stanze/Piscina.md",
+    "Stanze/Posta.md",
+    "Stanze/Rifugio.md",
+    "Stanze/Sala da biliardo.md",
+    "Stanze/Sala Pompe.md",
+    "Stanze/Salotto.md",
+    "Stanze/Schoolhouse.md",
     "Documenti/assets/Pasted image 20260213015837.png",
     "Documenti/assets/Pasted image 20260213015832.png",
     "Documenti/assets/Pasted image 20260213015824.png",
     "Documenti/assets/Pasted image 20260213015819.png",
     "Documenti/assets/Pasted image 20260213015814.png",
-    "Documenti/Nota di stampa per la Camera Oscura.md",
     "Documenti/assets/Pasted image 20260213015544.png",
-    "Immagini/Fotografie della Camera Oscura..md",
     "Immagini/assets/Pasted image 20260213015451.png",
     "Immagini/assets/Pasted image 20260213015447.png",
     "Immagini/assets/Pasted image 20260213015441.png",
     "Immagini/assets/Pasted image 20260213015434.png",
-    "Lettere/Lettera Rossa IV.md",
-    "Lettere/Lettera da Daniel Jones.md",
-    "Documenti/Lettera dell'ospite.md",
-    "Documenti/Lettera di terminazione.md",
-    "Documenti/Lettera incompleta.md",
-    "Documenti/Nota per Christoph 1.md",
-    "Lettere/Lettera Rossa VII.md",
-    "Libri/Swim Bird.md",
-    "Libri/Red Prince.md",
-    "Libri/La storia di Orindia.md",
-    "Libri/Drafting Strategy Vol. 3.md",
-    "Libri/Drafting Strategy Vol. 1.md",
-    "Libri/A Sightseer's Guide To Reddington.md",
     "Libri/assets",
-    "Libri/_Index_Libri.md",
     "Libri",
-    "Documenti/Nota sul foundation elevator.md",
-    "Immagini/Mappa del mondo.md",
-    "Immagini/Fotografia 'Famiglia'.md",
-    "Documenti/Nota per il personale II.md",
-    "Documenti/Nota per il personale.md",
-    "Documenti/Nota per il corriere.md",
-    "Lettere/Lettera per Simon sulle tradizioni.md",
-    "Immagini/Cartolina 'Greetings from Reddington'.md",
     "Lettere/assets",
     "Lettere",
     "Fazioni/assets",

@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Entrance Hall
 ---
 La prima stanza del manor, dove il giocatore inizia ogni ciclo.
 ## Gameplay

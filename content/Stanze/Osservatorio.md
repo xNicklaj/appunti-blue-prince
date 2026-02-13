@@ -2,6 +2,7 @@
 tags:
   - stanza
 aliases:
+  - Observatory
 ---
 ## Gameplay
 Presenta una sola uscita.
