@@ -54,13 +54,26 @@ export const defaultContentPageLayout: PageLayout = {
 		tagMap.set("Donna", "🙎‍♀️");
 		tagMap.set("Puzzle", "🧩");
 		
+		const folderMap = new Map<string, string>();
+		folderMap.set("Stanze", "🏠");
+		folderMap.set("Libri", "📚");
+		folderMap.set("Documenti", "📓");
+		folderMap.set("Luoghi", "📌");
+		folderMap.set("Oggetti", "🔎");
+		folderMap.set("Lettere", "📫");
+
+		
 		const tmp = node.data?.tags?.filter((tag) => tagMap.has(tag));
 		  
 		if (node.isFolder) {
-		  node.displayName = "📁 " + node.displayName
+			if(folderMap.has(node.displayName)){
+				node.displayName = folderMap.get(node.displayName) + " " + node.displayName;
+			}else{
+				node.displayName = "📁 " + node.displayName
+			}
 		}
 		else if(tmp.length > 0){
-			node.displayName = tagMap.get(tmp[tmp.length - 1]) + node.displayName
+			node.displayName = tagMap.get(tmp[tmp.length - 1]) + " " + node.displayName
 		}
 		else {
 		  node.displayName = "📄 " + node.displayName
