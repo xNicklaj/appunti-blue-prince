@@ -39,6 +39,9 @@ export const defaultContentPageLayout: PageLayout = {
 		return !omit.has(node.displayName.toLowerCase())
 	  },
 	  mapFn: (node) => {
+		const tagMap = new Map<string, string>();
+		tagMap.set("Libro", "📖");
+		  
 		if (node.isFolder) {
 		  node.displayName = "📁 " + node.displayName
 		} else {

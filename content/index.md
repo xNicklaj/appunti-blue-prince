@@ -12,7 +12,6 @@ aliases:
 | X               | [[X]]                    |
 | [[Security]]    | [[Monitor di Security]]  |
 | [[Locker Room]] | [[Puzzle 'Six or zero']] |
-
 ## Documenti importanti
 | [[Giornale su Mary Jones]] |
 | -------------------------- |

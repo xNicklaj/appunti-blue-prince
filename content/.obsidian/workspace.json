@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9612b6196e5574e8",
+        "id": "8223a183897dfb8c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b16d981d9344cad",
+            "id": "16d51c1e6996363e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b16d981d9344cad",
+  "active": "16d51c1e6996363e",
   "lastOpenFiles": [
+    "index.md",
     "Libri/A Sightseer's Guide To Reddington.md",
     "Luoghi/Trinsdale.md",
     "Luoghi/Tenuta Featherfall.md",
@@ -183,7 +184,6 @@
     "Puzzle/Cassaforte dell'Ufficio.md",
     "Puzzle/Cassaforte del rifugio.md",
     "Puzzle/Messaggio dei quadri.md",
-    "index.md",
     "Stanze/Ufficio.md",
     "Puzzle/Cassaforte dello studio.md",
     "Puzzle/X.md",
