@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 Nota per [[Bridgette]]. Non si sa chi l'abbia scritta, non sembra essere la calligrafia di Anne Babbage. Sicuramente non è stata scritta dal [[Herbert S. Sinclair|Barone]], sebbene siano stati richiesti da lui.

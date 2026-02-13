@@ -1,3 +1,9 @@
+---
+tags:
+  - Documento
+  - Email
+aliases:
+---
 > DATE: NOV. 1 1993
 >
 >SUBJECT: next week
