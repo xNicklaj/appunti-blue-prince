@@ -61,7 +61,10 @@ export const defaultContentPageLayout: PageLayout = {
 		folderMap.set("Luoghi", "📌");
 		folderMap.set("Oggetti", "🔎");
 		folderMap.set("Lettere", "📫");
-
+		folderMap.set("Quadri", "🖼️");
+		folderMap.set("Puzzle", "🧩");
+		folderMap.set("Giorni", "📆");
+		folderMap.set("Fotografie", "📷");
 		
 		const tmp = node.data?.tags?.filter((tag) => tagMap.has(tag));
 		  
