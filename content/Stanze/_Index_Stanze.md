@@ -27,6 +27,7 @@
  [[Stanze/Sala da biliardo|Sala da biliardo]]
  [[Stanze/Sala Pompe|Sala Pompe]]
  [[Stanze/Salotto|Salotto]]
+ [[Stanze/Sauna|Sauna]]
  [[Stanze/Schoolhouse|Schoolhouse]]
  [[Stanze/Security|Security]]
  [[Stanze/Sgabuzzino|Sgabuzzino]]

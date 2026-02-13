@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Stanze/Sauna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Sauna"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Stanze/Sauna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Sauna"
             }
           },
           {
@@ -174,6 +174,18 @@
   },
   "active": "4be16cdda14347b7",
   "lastOpenFiles": [
+    "Documenti/Nota con giornale.md",
+    "Documenti/assets/Pasted image 20260213122606.png",
+    "Stanze/Sauna.md",
+    "Stanze/assets/Pasted image 20260213122439.png",
+    "Puzzle/X.md",
+    "Libreria.md",
+    "Puzzle/assets/Pasted image 20260213121136.png",
+    "Puzzle/assets/Pasted image 20260213121120.png",
+    "Puzzle/assets/Pasted image 20260213121112.png",
+    "Documenti/Mappa con X.md",
+    "Documenti/Lettera incompleta.md",
+    "index.md",
     "Immagini/Ritratto 'Vecchio'.md",
     "Fotografie/Ritratto di una donna.md",
     "Fotografie/_Index_Fotografie.md",
@@ -193,24 +205,11 @@
     "Stanze/Dispensa.md",
     "Stanze/Entrata.md",
     "Stanze/Garage.md",
-    "Stanze/Laboratorio.md",
-    "Stanze/Magazzino.md",
-    "Stanze/Nook.md",
-    "Stanze/Maid's Chamber.md",
-    "Stanze/Nuova miniera.md",
-    "Stanze/Osservatorio.md",
-    "Stanze/Passaggio Segreto.md",
-    "Stanze/Piscina.md",
     "Documenti/assets/Pasted image 20260213015837.png",
     "Documenti/assets/Pasted image 20260213015832.png",
     "Documenti/assets/Pasted image 20260213015824.png",
     "Documenti/assets/Pasted image 20260213015819.png",
     "Documenti/assets/Pasted image 20260213015814.png",
-    "Documenti/assets/Pasted image 20260213015544.png",
-    "Immagini/assets/Pasted image 20260213015451.png",
-    "Immagini/assets/Pasted image 20260213015447.png",
-    "Immagini/assets/Pasted image 20260213015441.png",
-    "Immagini/assets/Pasted image 20260213015434.png",
     "Libri/assets",
     "Libri",
     "Lettere/assets",

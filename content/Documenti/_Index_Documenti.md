@@ -15,6 +15,7 @@
  [[Documenti/Lettera incompleta|Lettera incompleta]]
  [[Documenti/Mappa con X|Mappa con X]]
  [[Documenti/Nota 'Utility Room'|Nota 'Utility Room']]
+ [[Documenti/Nota con giornale|Nota con giornale]]
  [[Documenti/Nota del laboratorio|Nota del laboratorio]]
  [[Documenti/Nota della dispensa|Nota della dispensa]]
  [[Documenti/Nota dello shelter|Nota dello shelter]]
