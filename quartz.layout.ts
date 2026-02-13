@@ -38,6 +38,13 @@ export const defaultContentPageLayout: PageLayout = {
 		// (e.g. implicit folder nodes that have no associated index.md)
 		return !omit.has(node.displayName.toLowerCase())
 	  },
+	  mapFn: (node) => {
+		if (node.isFolder) {
+		  node.displayName = "📁 " + node.displayName
+		} else {
+		  node.displayName = "📄 " + node.displayName
+		}
+	  },
     })),
   ],
   right: [
