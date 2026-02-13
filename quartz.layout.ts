@@ -50,8 +50,8 @@ export const defaultContentPageLayout: PageLayout = {
 		tagMap.set("Fotografia", "📷");
 		tagMap.set("Quadro", "🖼️");
 		tagMap.set("Angelo", "🪽");
-		tagMap.set("Uomo", "👨");
-		tagMap.set("Donna", "👩");
+		tagMap.set("Uomo", "👨🏻‍💼");
+		tagMap.set("Donna", "🙎‍♀️");
 		
 		const tmp = node.data?.tags?.filter((tag) => tagMap.has(tag));
 		  
