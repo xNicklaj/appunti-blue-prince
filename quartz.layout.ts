@@ -41,10 +41,16 @@ export const defaultContentPageLayout: PageLayout = {
 	  mapFn: (node) => {
 		const tagMap = new Map<string, string>();
 		tagMap.set("Libro", "📖");
+		
+		const tmp = node.data?.tags?.filter((tag) => tagMap.has(tag));
 		  
 		if (node.isFolder) {
 		  node.displayName = "📁 " + node.displayName
-		} else {
+		}
+		else if(tmp.length > 0){
+			node.displayName = tagMap.get(tmp[tmp.length - 1]) + node.displayName
+		}
+		else {
 		  node.displayName = "📄 " + node.displayName
 		}
 	  },
