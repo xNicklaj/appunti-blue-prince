@@ -2,7 +2,7 @@
 tags:
   - Documento
 aliases:
-  - "4"
+  - Lettera Rossa 4
 ---
 Lettera scritta da [[Daniel Jones]] per [[Herbert S. Sinclair]].
 

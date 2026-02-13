@@ -4,12 +4,16 @@ tags:
 aliases:
 ---
 ## Documenti importanti
+| [[Giornale su Mary Jones]] |
+| -------------------------- |
+| [[Note di Revane]]         |
+| [[Mappa dell'underground]] |
+## Libri importanti
 | [[La storia di Orindia]]              |
 | ------------------------------------- |
-| [[Giornale su Mary Jones]]            |
-| [[Note di Revane]]                    |
-| [[Mappa dell'underground]]            |
 | [[A Sightseer's Guide To Reddington]] |
+| [[Red Prince]]                        |
+| [[Swim Bird]]                         |
 ## Fazioni importanti
 | [[Regno di Fenn Aries]]         |
 | ------------------------------- |
@@ -32,15 +36,3 @@ aliases:
 | [[Sala Pompe]] | [[Pump Room Schematic]]                   |
 | Quadri         | [[Lavagna dello studio]]                  |
 | Quadri         | [[Documento di commissione per i quadri]] |
-## Indice Autogenerato 
-![[_Index_Stanze]]
-![[_Index_Documenti]]
-![[_Index_Giorni]]
-![[_Index_Fazioni]]
-![[_Index_Eventi]]
-![[_Index_Oggetti]]
-![[_Index_Puzzle]]
-![[_Index_Persone]]
-![[_Index_Interagibili]]
-![[_Index_Quadri]]
-![[_Index_Immagini]]

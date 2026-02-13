@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lettere/Lettera Rossa VII.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lettera Rossa VII"
+              "title": "index"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettere/Lettera Rossa VII.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lettera Rossa VII"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -174,46 +174,45 @@
   },
   "active": "06519162e395fd44",
   "lastOpenFiles": [
-    "Lettere/assets/Pasted image 20260213015128.png",
-    "Lettere/assets/Pasted image 20260213015122.png",
-    "Lettere/assets/Pasted image 20260213015116.png",
-    "Lettere/assets/Pasted image 20260213015051.png",
-    "Lettere/assets/Pasted image 20260213015043.png",
-    "Lettere/assets/Pasted image 20260213015037.png",
+    "Documenti/Appunti del giardiniere.md",
+    "Documenti/assets/Pasted image 20260213015837.png",
+    "Documenti/assets/Pasted image 20260213015832.png",
+    "Documenti/assets/Pasted image 20260213015824.png",
+    "Documenti/assets/Pasted image 20260213015819.png",
+    "Documenti/assets/Pasted image 20260213015814.png",
+    "Documenti/Nota di stampa per la Camera Oscura.md",
+    "Documenti/assets/Pasted image 20260213015544.png",
+    "Immagini/Fotografie della Camera Oscura..md",
+    "Immagini/assets/Pasted image 20260213015451.png",
+    "Immagini/assets/Pasted image 20260213015447.png",
+    "Immagini/assets/Pasted image 20260213015441.png",
+    "Immagini/assets/Pasted image 20260213015434.png",
     "Lettere/Lettera Rossa IV.md",
-    "Lettere/Lettera Rossa VII.md",
+    "Lettere/Lettera da Daniel Jones.md",
     "Documenti/Lettera dell'ospite.md",
+    "Documenti/Lettera di terminazione.md",
+    "Documenti/Lettera incompleta.md",
+    "Documenti/Nota per Christoph 1.md",
+    "Lettere/Lettera Rossa VII.md",
     "Libri/Swim Bird.md",
     "Libri/Red Prince.md",
     "Libri/La storia di Orindia.md",
     "Libri/Drafting Strategy Vol. 3.md",
     "Libri/Drafting Strategy Vol. 1.md",
     "Libri/A Sightseer's Guide To Reddington.md",
-    "Libri/assets/Pasted image 20260213014708.png",
-    "Libri/assets/Pasted image 20260213014701.png",
-    "Libri/assets/Pasted image 20260213014654.png",
-    "Libri/assets/Pasted image 20260213014648.png",
-    "Libri/assets/Pasted image 20260213014643.png",
     "Libri/assets",
     "Libri/_Index_Libri.md",
     "Libri",
     "Documenti/Nota sul foundation elevator.md",
-    "Documenti/Lettera incompleta.md",
     "Immagini/Mappa del mondo.md",
     "Immagini/Fotografia 'Famiglia'.md",
     "Documenti/Nota per il personale II.md",
     "Documenti/Nota per il personale.md",
     "Documenti/Nota per il corriere.md",
-    "Documenti/Lettera di terminazione.md",
     "Lettere/Lettera per Simon sulle tradizioni.md",
     "Immagini/Cartolina 'Greetings from Reddington'.md",
-    "Immagini/Lettera 'Greetings From Reddington'.md",
-    "Documenti/Lettera da Daniel Jones.md",
     "Lettere/assets",
-    "Lettere/_Index_Lettere.md",
     "Lettere",
-    "Documenti/Untitled 1.md",
-    "Fazioni/Regno di Fenn Aries.md",
     "Fazioni/assets",
     "Luoghi/assets",
     "assets",

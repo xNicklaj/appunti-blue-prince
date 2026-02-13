@@ -8,6 +8,7 @@
  [[Immagini/Fotografia 'Famiglia'|Fotografia 'Famiglia']]
  [[Immagini/Fotografia 'Manning e White'|Fotografia 'Manning e White']]
  [[Immagini/Fotografia 'Servitù'|Fotografia 'Servitù']]
+ [[Immagini/Fotografie della Camera Oscura.|Fotografie della Camera Oscura.]]
  [[Immagini/Francobollo di Fenn Aries|Francobollo di Fenn Aries]]
  [[Immagini/Lavagna dello studio|Lavagna dello studio]]
  [[Immagini/Mappa del mondo|Mappa del mondo]]
