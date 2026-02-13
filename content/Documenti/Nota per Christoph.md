@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 Documento per [[Christoph]], che probabilmente è immischiato con il [[Trinsdale Bombing]].

@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Giornale
 aliases:
 ---
 Cut-out di giornali trovati nell'[[Archivio]]. Probabilmente fatti da [[Denny Revane]] durante le sue investigazioni.

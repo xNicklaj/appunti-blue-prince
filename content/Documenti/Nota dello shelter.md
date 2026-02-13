@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 

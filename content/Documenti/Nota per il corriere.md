@@ -1,3 +1,9 @@
+---
+tags:
+  - Documento
+  - Nota
+aliases:
+---
 Lettera trovata nella [[Posta]].
 
 > Please return all correspondence and packages addressed to

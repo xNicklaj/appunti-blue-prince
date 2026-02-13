@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Lettera
 aliases:
   - Lettera Rossa 7
 ---

@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 Lettera ricevuta insieme a un pacco della [[Synka Company|Synka Co.]]

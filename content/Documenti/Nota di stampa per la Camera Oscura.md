@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 Note di stampa per la [[Camera Oscura]].

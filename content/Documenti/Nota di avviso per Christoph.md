@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 > [[Christoph]], this is the third time this month you and the car have been gone when your services were required. 

@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 For the last 38 years, it has been my pleasure of serving as your

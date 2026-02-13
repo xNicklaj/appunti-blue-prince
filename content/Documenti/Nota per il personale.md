@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 Nota che discute di come fare clock-in per lavorare nella villa tramite uno dei due terminali presenti.

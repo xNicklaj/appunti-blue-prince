@@ -1,3 +1,9 @@
+---
+tags:
+  - Documento
+  - Nota
+aliases:
+---
 > STAFF NOTICE
 > June 15th, 1983
 > 

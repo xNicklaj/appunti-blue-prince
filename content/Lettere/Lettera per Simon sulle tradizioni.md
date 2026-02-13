@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Lettera
 aliases:
 ---
 Lettera per [[Simon P. Jones]] scritta dal prozio [[Herbert S. Sinclair]] prima di morire. Trovata nella [[Tomba]].

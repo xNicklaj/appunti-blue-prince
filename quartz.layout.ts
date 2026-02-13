@@ -41,6 +41,10 @@ export const defaultContentPageLayout: PageLayout = {
 	  mapFn: (node) => {
 		const tagMap = new Map<string, string>();
 		tagMap.set("Libro", "📖");
+		tagMap.set("Lettera", "✉️");
+		tagMap.set("Nota", "📝");
+		tagMap.set("Giornale", "📰");
+		tagMap.set("Post-it", "🟨");
 		
 		const tmp = node.data?.tags?.filter((tag) => tagMap.has(tag));
 		  

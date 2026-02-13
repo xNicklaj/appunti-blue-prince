@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 Unire le due tavole periodiche ritorna la frase "**Push Three Up After Nine**".

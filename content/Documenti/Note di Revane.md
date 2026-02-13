@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 Nota di [[Denny Revane]] che mostra delle peculiarità della casa, e dei test fatti da lui precedentemente.

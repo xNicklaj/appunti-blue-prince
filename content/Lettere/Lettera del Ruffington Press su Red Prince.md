@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Lettera
 aliases:
 ---
 Lettera del [[Ruffington Press]] sul [[Red Prince]], publisher del libro, datata 12 Aprile.

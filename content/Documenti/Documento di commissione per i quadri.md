@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 Documento che parla della commissione delle coppie di quadri che sono presenti in ogni stanza. Trovato nello [[Studio]].

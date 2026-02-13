@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Lettera
 aliases:
 ---
 Lettera di [[Daniel Jones]] per [[Simon P. Jones]].

@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Nota
 aliases:
 ---
 > Here is the last of the equipment for the new mine. I don't think we're gonna need more than this especially if we're gonna limit excavation to 2 stones per day. I was told by the engineer that getting greedier than that might risk the structural integrity of the cave walls, so I suppose we'll have to adhere to his expert opinion, at least for now.
