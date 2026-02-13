@@ -1,0 +1,6 @@
+---
+tags:
+  - Persona
+  - Uomo
+aliases:
+---

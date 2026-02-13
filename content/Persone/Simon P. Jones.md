@@ -1,6 +1,7 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Uomo
 aliases:
   - Red Prince
 ---

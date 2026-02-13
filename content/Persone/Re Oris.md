@@ -1,6 +1,7 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Uomo
 aliases:
 ---
 Primo re della regione di [[Orindia]], è la radice degli stati di [[Regno di Orinda Aries|Orinda Aries]], [[Regno di Arch Aries|Arch Aries]] e [[Regno di Eraja]].

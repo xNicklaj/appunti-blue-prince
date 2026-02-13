@@ -1,6 +1,7 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Uomo
 aliases:
 ---
 Figlio della [[Baronessa Auravei]] e [[Thomas Sinclair]]. 

@@ -1,6 +1,7 @@
 ---
 tags:
   - Documento
+  - Mappa
 aliases:
 ---
 Mappa trovata nella [[Libreria]].

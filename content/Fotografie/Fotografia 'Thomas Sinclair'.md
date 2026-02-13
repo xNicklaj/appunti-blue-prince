@@ -1,6 +1,7 @@
 ---
 tags:
   - Immagine
+  - Fotografia
 aliases:
 ---
 Fotografia di [[Thomas Sinclair]] con i figli [[Herbert S. Sinclair]] e [[Simon H. Sinclair]].

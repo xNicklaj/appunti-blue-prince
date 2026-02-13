@@ -1,5 +1,6 @@
 ---
 tags:
+  - Mappa
 aliases:
   - Regione di Fenn Aries
 ---

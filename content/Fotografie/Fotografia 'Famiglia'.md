@@ -1,6 +1,7 @@
 ---
 tags:
   - Immagine
+  - Fotografia
 aliases:
 ---
 Fotografia che ritrae [[Simon P. Jones]], [[Mary Matthew Epsen Sinclair|Mary Matthew]] e [[Daniel Jones]]. Il luogo in cui è stata scattata è sconosciuto.

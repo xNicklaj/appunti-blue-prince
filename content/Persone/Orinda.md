@@ -1,6 +1,7 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Angelo
 aliases:
 ---
 La settima divinità raffigurata nella [[Cappella]].

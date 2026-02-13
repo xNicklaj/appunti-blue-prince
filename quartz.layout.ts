@@ -45,6 +45,13 @@ export const defaultContentPageLayout: PageLayout = {
 		tagMap.set("Nota", "📝");
 		tagMap.set("Giornale", "📰");
 		tagMap.set("Post-it", "🟨");
+		tagMap.set("Email", "📧");
+		tagMap.set("Mappa", "🗺️");
+		tagMap.set("Fotografia", "📷");
+		tagMap.set("Quadro", "🖼️");
+		tagMap.set("Angelo", "🪽");
+		tagMap.set("Uomo", "👨");
+		tagMap.set("Donna", "👩");
 		
 		const tmp = node.data?.tags?.filter((tag) => tagMap.has(tag));
 		  

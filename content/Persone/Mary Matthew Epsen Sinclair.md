@@ -1,6 +1,7 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Donna
 aliases:
   - Mary Matthew
   - Marion Marigold

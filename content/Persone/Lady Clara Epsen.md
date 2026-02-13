@@ -1,6 +1,6 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Donna
 aliases:
 ---
-Moglie di [[Herbert S. Sinclair]].

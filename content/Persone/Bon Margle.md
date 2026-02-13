@@ -1,6 +1,7 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Uomo
 aliases:
 ---
 **Bon Margle** è un detective della [[Red Guard]].

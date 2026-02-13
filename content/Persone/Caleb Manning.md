@@ -1,6 +1,7 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Uomo
 aliases:
 ---
 Fotografia che ritrae [[Caleb Manning]] e [[Phillip White]].

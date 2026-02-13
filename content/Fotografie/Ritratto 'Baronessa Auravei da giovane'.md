@@ -1,6 +1,7 @@
 ---
 tags:
   - Immagine
+  - Quadro
 aliases:
 ---
 Ritratto della [[Baronessa Auravei]] da giovane. Si trova nella [[Stanza da letto]].

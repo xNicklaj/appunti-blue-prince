@@ -1,6 +1,7 @@
 ---
 tags:
   - Immagine
+  - Fotografia
 aliases:
 ---
 Fotografia che ritrae otto persone, possibilmente il personale di Mt. Holly.

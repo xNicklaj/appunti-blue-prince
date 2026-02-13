@@ -1,6 +1,7 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Uomo
 aliases:
 ---
 Ex guardiano dei terreni di Mt. Holly.

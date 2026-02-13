@@ -1,6 +1,7 @@
 ---
 tags:
-  - persona
+  - Persona
+  - Angelo
 aliases:
 ---
 La prima divinità raffigurata nella [[Cappella]].

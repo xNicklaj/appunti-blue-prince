@@ -1,6 +1,7 @@
 ---
 tags:
   - Immagine
+  - Fotografia
 aliases:
   - Fotografie della Darkroom
 ---
