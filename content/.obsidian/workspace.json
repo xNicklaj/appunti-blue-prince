@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6507a56e55bab109",
+        "id": "41b29e53d24b278b",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b7b44066c1af2e",
+            "id": "9a065d2c09818b4f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43b483eb05671e30",
+  "active": "9a065d2c09818b4f",
   "lastOpenFiles": [
+    "Immagini/Leve dell'anticamera.md",
+    "Immagini/Mappa dell'underground.md",
+    "Immagini/Mappa del mondo.md",
+    "Immagini/assets/Pasted image 20260214150109.png",
+    "Immagini/assets/Pasted image 20260214150027.png",
+    "Immagini/_Index_Immagini.md",
     "Lettere/Lettere di Mary Epsen.md",
     "Documenti/Tessera 'Hundred Bells'.md",
     "Documenti/assets/Pasted image 20260214120047.png",
@@ -187,8 +193,6 @@
     "Fotografie/assets/Pasted image 20260214114014.png",
     "Fotografie/_Index_Fotografie.md",
     "Documenti/Spartito Musicale.md",
-    "Documenti/assets/Pasted image 20260214113550.png",
-    "Documenti/assets/Pasted image 20260214113544.png",
     "Documenti/_Index_Documenti.md",
     "Untitled.base",
     "Documenti/Biglietto 'The Great Hall'.md",
@@ -200,11 +204,8 @@
     "Lettere/Lettera del Ruffington Press su Red Prince.md",
     "Lettere/Email 'cambiamenti della villa'.md",
     "Documenti/Mappa con X.md",
-    "Immagini/Mappa del mondo.md",
     "Libri/A Sightseer's Guide To Reddington.md",
     "Persone/Simon P. Jones.md",
-    "Persone/Simon H. Sinclair.md",
-    "Persone/Rynna.md",
     "Fotografie/assets",
     "Fotografie",
     "Libri/assets",
