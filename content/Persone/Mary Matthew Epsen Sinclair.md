@@ -3,9 +3,9 @@ tags:
   - Persona
   - Donna
 aliases:
-  - Mary Matthew
   - Marion Marigold
   - Mary Jones
+  - Mary Epsen
 ---
 Moglie di [[Daniel Jones]], madre di [[Simon P. Jones]]. 
 Era l'erede di [[Herbert S. Sinclair|H.S. Sinclair]] prima della sua scomparsa insieme al marito.
