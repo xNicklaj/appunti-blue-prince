@@ -1,5 +1,6 @@
 ---
 tags:
+  - Documento
 aliases:
 ---
 Tessera che indica un appuntamento [[Hundred Bells]], Sandy Heights, alle 5 del pomeriggio.

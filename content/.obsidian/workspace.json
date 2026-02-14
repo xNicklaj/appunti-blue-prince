@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8dca2ca53b8fdc9b",
+        "id": "6507a56e55bab109",
         "type": "tabs",
         "children": [
           {
-            "id": "20a144fe4d38de9a",
+            "id": "b2b7b44066c1af2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documenti/Tessera 'Hundred Bells'.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tessera 'Hundred Bells'"
+              "title": "New tab"
             }
           }
         ]
@@ -124,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Tessera 'Hundred Bells'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tessera 'Hundred Bells'"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,11 +167,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20a144fe4d38de9a",
+  "active": "43b483eb05671e30",
   "lastOpenFiles": [
-    "Documenti/assets/Pasted image 20260214120047.png",
     "Lettere/Lettere di Mary Epsen.md",
     "Documenti/Tessera 'Hundred Bells'.md",
+    "Documenti/assets/Pasted image 20260214120047.png",
     "Lettere/assets/Pasted image 20260214115446.png",
     "Persone/Mary Matthew Epsen Sinclair.md",
     "Lettere/assets/Pasted image 20260214114922.png",
@@ -194,7 +189,6 @@
     "Documenti/Spartito Musicale.md",
     "Documenti/assets/Pasted image 20260214113550.png",
     "Documenti/assets/Pasted image 20260214113544.png",
-    "Documenti/assets/Pasted image 20260214113540.png",
     "Documenti/_Index_Documenti.md",
     "Untitled.base",
     "Documenti/Biglietto 'The Great Hall'.md",
