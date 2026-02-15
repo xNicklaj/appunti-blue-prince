@@ -134,6 +134,9 @@
       },
       "mousewheel-image-zoom": {
         "startupType": "instant"
+      },
+      "chronos": {
+        "startupType": "instant"
       }
     }
   }
