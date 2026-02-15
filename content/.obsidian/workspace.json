@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2c02b79d66911cf",
+        "id": "b32a448fe6f2c415",
         "type": "tabs",
         "children": [
           {
-            "id": "607aabbe766aba8d",
+            "id": "7e4b8aabb19a0a3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Documenti/Nota del laboratorio.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nota del laboratorio"
             }
           }
         ]
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documenti/Nota del laboratorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Nota del laboratorio"
             }
           },
           {
@@ -167,8 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "607aabbe766aba8d",
+  "active": "7e4b8aabb19a0a3e",
   "lastOpenFiles": [
+    "Daily Notes/laborat.md",
+    "Daily Notes/_Index_Daily Notes.md",
+    "Daily Notes",
     "Immagini/Leve dell'anticamera.md",
     "Immagini/Mappa dell'underground.md",
     "Immagini/Mappa del mondo.md",
@@ -204,8 +212,6 @@
     "Lettere/Lettera del Ruffington Press su Red Prince.md",
     "Lettere/Email 'cambiamenti della villa'.md",
     "Documenti/Mappa con X.md",
-    "Libri/A Sightseer's Guide To Reddington.md",
-    "Persone/Simon P. Jones.md",
     "Fotografie/assets",
     "Fotografie",
     "Libri/assets",
@@ -214,7 +220,6 @@
     "Lettere",
     "Fazioni/assets",
     "Luoghi/assets",
-    "assets",
     "Mappa Visiva.canvas",
     "TMPTutorialCanvas.canvas",
     "Materie/Game Design & Game Thinking/Appunti Visivi.canvas",
