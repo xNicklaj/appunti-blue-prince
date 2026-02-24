@@ -3,6 +3,7 @@ tags:
   - Documento
   - Lettera
 aliases:
+  - Lettera Rossa VIII
 ---
 ## Galleria
 ![[Pasted image 20260224170103.png|650]]

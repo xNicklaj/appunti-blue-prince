@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lettere/Lettera Rossa VII.md",
+                "file": "Puzzle/Cassaforte dell'Ufficio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lettera Rossa VII"
+              "title": "Cassaforte dell'Ufficio"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettere/Lettera Rossa VII.md",
+                "file": "Puzzle/Cassaforte dell'Ufficio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lettera Rossa VII"
+              "title": "Backlinks for Cassaforte dell'Ufficio"
             }
           },
           {
@@ -190,6 +190,7 @@
   "active": "7948ceb9f30adef6",
   "lastOpenFiles": [
     "Lettere/Lettera Rossa VIII.md",
+    "Puzzle/Cassaforte dell'Ufficio.md",
     "Lettere/Lettera Rossa VII.md",
     "Documenti/assets/Pasted image 20260224170912.png",
     "Documenti/assets/Pasted image 20260224170747.png",
@@ -201,7 +202,6 @@
     "Puzzle/Matematica dei colori.md",
     "Puzzle/Monitor di Security.md",
     "Puzzle/Messaggio dei quadri.md",
-    "Puzzle/Cassaforte dell'Ufficio.md",
     "Puzzle/Cassaforte dello studio.md",
     "Immagini/Leve dell'anticamera.md",
     "Libri/Quaderno del custode.md",
