@@ -11,10 +11,14 @@
             "id": "ec09dcc5035dc9a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lettere/Lettera da Daniel Jones.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lettera da Daniel Jones"
             }
           }
         ]
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lettere/Lettera da Daniel Jones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lettera da Daniel Jones"
             }
           },
           {
@@ -169,6 +174,11 @@
   },
   "active": "ec09dcc5035dc9a0",
   "lastOpenFiles": [
+    "Lettere/assets/Pasted image 20260226013138.png",
+    "Lettere/assets/Pasted image 20260226013127.png",
+    "Lettere/assets/Pasted image 20260226013109.png",
+    "Lettere/assets/Pasted image 20260226013059.png",
+    "Lettere/assets/Pasted image 20260226013030.png",
     "Libri/Quaderno del custode.md",
     "Documenti/La Storia di Orindia Prima Versione.md",
     "Documenti/assets/Pasted image 20260224175325.png",
@@ -178,10 +188,6 @@
     "Documenti/assets/Pasted image 20260224174747.png",
     "Documenti/assets/Pasted image 20260224174638.png",
     "Libri/La storia di Orindia.md",
-    "Documenti/assets/Pasted image 20260224174213.png",
-    "Documenti/assets/Pasted image 20260224173737.png",
-    "Documenti/assets/Pasted image 20260224173613.png",
-    "Documenti/assets/Pasted image 20260224173407.png",
     "Puzzle/Cassaforte dell'Ufficio.md",
     "Lettere/Lettera Rossa VIII.md",
     "Lettere/Lettera Rossa VII.md",
