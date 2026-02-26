@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Giornale 'A new clue'.md",
+                "file": "Stanze/Vault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Giornale 'A new clue'"
+              "title": "Vault"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Giornale 'A new clue'.md",
+                "file": "Stanze/Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Giornale 'A new clue'"
+              "title": "Backlinks for Vault"
             }
           },
           {
@@ -174,8 +174,9 @@
   },
   "active": "ac14b1a05a57f9ba",
   "lastOpenFiles": [
-    "Documenti/assets/Pasted image 20260226131202.png",
     "Documenti/Giornale 'A new clue'.md",
+    "Stanze/Vault.md",
+    "Documenti/assets/Pasted image 20260226131202.png",
     "Documenti/Documento sugli scavi dei tunnel.md",
     "Documenti/Giornale su Mary Jones.md",
     "Fotografie/Fotografia 'Thomas Sinclair'.md",
@@ -204,7 +205,6 @@
     "Libri/assets/Pasted image 20260226124755.png",
     "Libri/assets/Pasted image 20260226124743.png",
     "Libri/assets/Pasted image 20260226124734.png",
-    "Libri/assets/Pasted image 20260226124725.png",
     "Luoghi/Studio.md",
     "Stanze/Security.md",
     "Stanze/Ufficio.md",
