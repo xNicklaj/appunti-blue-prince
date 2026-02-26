@@ -7,7 +7,7 @@ aliases:
 Libro di [[Caleb Manning]] richiesto alla [[Libreria]] della villa.
 Contiene una descrizione estremamente censurata della geopolitica locale. I regni ad est dell'oceano vengono definiti nella regione di [[Orindia]], da cui il nome del libro.
 
-Secondo il detective [[Bon Margle]] all'interno della libreria del [[Herbert S. Sinclair|Barone]] ne esiste una copia non censurata.
+Secondo il detective [[Bon Margle]] all'interno della libreria del [[Herbert S. Sinclair|Barone]] ne esiste una copia non censurata, tuttavia non è così. Una versione non censurata è stata donata da Simon attraverso il [[Bookshop]].
 Chiaramente l'attuale stato di [[Fenn Aries]] sta cercando di cancellare dai registri il passato prima del nuovo dominio.
 
 ## Testo

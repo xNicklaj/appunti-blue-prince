@@ -6,7 +6,6 @@
  [[Documenti/Documento della miniera di gemme|Documento della miniera di gemme]]
  [[Documenti/Documento di commissione per i quadri|Documento di commissione per i quadri]]
  [[Documenti/Giornale su Mary Jones|Giornale su Mary Jones]]
- [[Documenti/La Storia di Orindia Prima Versione|La Storia di Orindia Prima Versione]]
  [[Documenti/Lettera dell'ospite|Lettera dell'ospite]]
  [[Documenti/Lettera di terminazione|Lettera di terminazione]]
  [[Documenti/Lettera incompleta|Lettera incompleta]]

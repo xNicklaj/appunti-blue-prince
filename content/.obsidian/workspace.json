@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c5fe85557d09ec2f",
+        "id": "d890d4da4723d254",
         "type": "tabs",
         "children": [
           {
-            "id": "ec09dcc5035dc9a0",
+            "id": "7ef3b92314426ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Immagini/Mappa del mondo.md",
+                "file": "Libri/La Storia di Orindia Prima Versione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mappa del mondo"
-            }
-          },
-          {
-            "id": "20befb1ba5bd4ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Stanza da letto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stanza da letto"
-            }
-          },
-          {
-            "id": "86dac5834ce38b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Torre dell'orologio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Torre dell'orologio"
-            }
-          },
-          {
-            "id": "1c8950b5a2e2ce3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Stanza dei Giochi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stanza dei Giochi"
-            }
-          },
-          {
-            "id": "7989fa9f0379290d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Security"
-            }
-          },
-          {
-            "id": "fe91fe97578c64d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Puzzle/Cassaforte dello studio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cassaforte dello studio"
-            }
-          },
-          {
-            "id": "e72153d6ca87d3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Luoghi/Studio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Studio"
+              "title": "La Storia di Orindia Prima Versione"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luoghi/Studio.md",
+                "file": "Libri/La Storia di Orindia Prima Versione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Studio"
+              "title": "Backlinks for La Storia di Orindia Prima Versione"
             }
           },
           {
@@ -257,10 +172,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e72153d6ca87d3de",
+  "active": "7ef3b92314426ffb",
   "lastOpenFiles": [
-    "Luoghi/assets/Pasted image 20260226115843.png",
+    "Libri/La storia di Orindia.md",
+    "Libri/La Storia di Orindia Prima Versione.md",
+    "Libri/Realm and rune.md",
+    "Libri/Quaderno del custode.md",
+    "index.md",
+    "Puzzle/Lettere Rosse.md",
+    "Documenti/Nota per il corriere.md",
+    "Lettera IV.md",
+    "Persone/Denny Revane.md",
+    "Puzzle/Messaggio dei quadri.md",
+    "Puzzle/X.md",
+    "Puzzle/Porte del sanctum.md",
+    "Puzzle/_Index_Puzzle.md",
     "Puzzle/Cassaforte dello studio.md",
+    "Libri/assets/Pasted image 20260226124851.png",
+    "Libri/assets/Pasted image 20260226124843.png",
+    "Libri/assets/Pasted image 20260226124831.png",
+    "Libri/assets/Pasted image 20260226124812.png",
+    "Libri/assets/Pasted image 20260226124755.png",
+    "Libri/assets/Pasted image 20260226124743.png",
+    "Libri/assets/Pasted image 20260226124734.png",
+    "Libri/assets/Pasted image 20260226124725.png",
+    "Libri/assets/Pasted image 20260226124717.png",
+    "Libri/assets/Pasted image 20260226124710.png",
+    "Luoghi/Studio.md",
     "Stanze/Security.md",
     "Stanze/Ufficio.md",
     "Stanze/Osservatorio.md",
@@ -272,30 +210,7 @@
     "Stanze/Antro.md",
     "Stanze/Sala Pompe.md",
     "Stanze/Sala da pranzo.md",
-    "Stanze/Sala da disegno.md",
-    "Stanze/Sala da biliardo.md",
     "Untitled 1.base",
-    "Stanze/_Index_Stanze.md",
-    "Stanze/Magazzino.md",
-    "Stanze/assets/Pasted image 20260226111449.png",
-    "Immagini/Mappa del mondo.md",
-    "Lettere/Lettera da Daniel Jones.md",
-    "Lettere/assets/Pasted image 20260226013138.png",
-    "Lettere/assets/Pasted image 20260226013127.png",
-    "Lettere/assets/Pasted image 20260226013109.png",
-    "Lettere/assets/Pasted image 20260226013059.png",
-    "Lettere/assets/Pasted image 20260226013030.png",
-    "Libri/Quaderno del custode.md",
-    "Documenti/La Storia di Orindia Prima Versione.md",
-    "Documenti/assets/Pasted image 20260224175325.png",
-    "Documenti/assets/Pasted image 20260224175230.png",
-    "Documenti/assets/Pasted image 20260224175218.png",
-    "Documenti/assets/Pasted image 20260224175024.png",
-    "Libri/La storia di Orindia.md",
-    "Puzzle/Cassaforte dell'Ufficio.md",
-    "Lettere/Lettera Rossa VIII.md",
-    "Lettere/Lettera Rossa VII.md",
-    "Puzzle/Cassaforte del Boudoir.md",
     "Daily Notes",
     "Untitled.base",
     "Fotografie/assets",

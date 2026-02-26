@@ -5,13 +5,14 @@ aliases:
 ---
 ## Documenti per puzzle attivi
 
-| Puzzle          | Documento                |
-| --------------- | ------------------------ |
-| [[Sala Pompe]]  | [[Pump Room Schematic]]  |
-| Lettere Rosse   | [[Messaggio dei quadri]] |
-| X               | [[X]]                    |
-| [[Security]]    | [[Monitor di Security]]  |
-| [[Locker Room]] | [[Puzzle 'Six or zero']] |
+| Puzzle                | Documento                |
+| --------------------- | ------------------------ |
+| [[Sala Pompe]]        | [[Pump Room Schematic]]  |
+| [[Lettere Rosse]]     | [[Messaggio dei quadri]] |
+| X                     | [[X]]                    |
+| [[Security]]          | [[Monitor di Security]]  |
+| [[Locker Room]]       | [[Puzzle 'Six or zero']] |
+| [[Porte del sanctum]] | [[Realm and rune]]       |
 ## Documenti importanti
 | [[Giornale su Mary Jones]] |
 | -------------------------- |
