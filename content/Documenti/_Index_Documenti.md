@@ -6,6 +6,7 @@
  [[Documenti/Documento della miniera di gemme|Documento della miniera di gemme]]
  [[Documenti/Documento di commissione per i quadri|Documento di commissione per i quadri]]
  [[Documenti/Documento sugli scavi dei tunnel|Documento sugli scavi dei tunnel]]
+ [[Documenti/Giornale 'A new clue'|Giornale 'A new clue']]
  [[Documenti/Giornale su Mary Jones|Giornale su Mary Jones]]
  [[Documenti/Lettera dell'ospite|Lettera dell'ospite]]
  [[Documenti/Lettera di terminazione|Lettera di terminazione]]
