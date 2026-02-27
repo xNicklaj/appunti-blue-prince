@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Vault.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vault"
+              "title": "index"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Vault.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vault"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -174,8 +174,8 @@
   },
   "active": "ac14b1a05a57f9ba",
   "lastOpenFiles": [
-    "Documenti/Giornale 'A new clue'.md",
     "Stanze/Vault.md",
+    "Documenti/Giornale 'A new clue'.md",
     "Documenti/assets/Pasted image 20260226131202.png",
     "Documenti/Documento sugli scavi dei tunnel.md",
     "Documenti/Giornale su Mary Jones.md",
