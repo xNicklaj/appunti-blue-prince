@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Mila"
             }
+          },
+          {
+            "id": "465529868a5c7367",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac14b1a05a57f9ba",
+  "active": "465529868a5c7367",
   "lastOpenFiles": [
     "Persone/Orinda.md",
     "Persone/Rynna.md",
