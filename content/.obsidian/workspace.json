@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Mila"
             }
-          },
-          {
-            "id": "465529868a5c7367",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "465529868a5c7367",
+  "active": "ac14b1a05a57f9ba",
   "lastOpenFiles": [
+    "Documenti/Nota per Christoph.md",
     "Persone/Orinda.md",
     "Persone/Rynna.md",
     "Persone/Mila.md",
@@ -216,7 +204,6 @@
     "Puzzle/X.md",
     "Puzzle/Porte del sanctum.md",
     "Puzzle/_Index_Puzzle.md",
-    "Puzzle/Cassaforte dello studio.md",
     "Libri/assets/Pasted image 20260226124851.png",
     "Libri/assets/Pasted image 20260226124843.png",
     "Libri/assets/Pasted image 20260226124831.png",
