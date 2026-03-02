@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3eb79a301f1461b9",
+        "id": "0ed706aedb990828",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d1161a60c2150d",
+            "id": "644baf8df0bd1de9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6d1161a60c2150d",
+  "active": "644baf8df0bd1de9",
   "lastOpenFiles": [
     "Immagini/Leve dell'anticamera.md",
     "Immagini/Mappa dell'underground.md",
