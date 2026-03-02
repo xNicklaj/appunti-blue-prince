@@ -4,8 +4,10 @@ tags:
 aliases:
 ---
 ## To do
-- [ ] Far sciogliere giaccio nella [[Stanza frigorifera]]
-- [ ] Sbloccare la combinazione a 4 cifre oltre la [[red door]] nel [[seminterrato]]
+- [ ] Far sciogliere giaccio nella [[Stanza frigorifera]];
+- [ ] Sbloccare la combinazione a 4 cifre oltre la [[red door]] nel [[seminterrato]];
+- [ ] Trovare tutte le [[Classroom]];
+- [ ] Provare ad ri-entrare nella [[Stanza 46]];
 
 ## Documenti per puzzle attivi
 
