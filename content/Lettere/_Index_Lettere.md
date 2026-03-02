@@ -3,6 +3,7 @@
  [[Lettere/Email 'cambiamenti della villa'|Email 'cambiamenti della villa']]
  [[Lettere/Email 'riparazione del fusibile'|Email 'riparazione del fusibile']]
  [[Lettere/Email 'settimana prossima'|Email 'settimana prossima']]
+ [[Lettere/Lettera 'Giro del mondo'|Lettera 'Giro del mondo']]
  [[Lettere/Lettera da Daniel Jones|Lettera da Daniel Jones]]
  [[Lettere/Lettera del Ruffington Press su Red Prince|Lettera del Ruffington Press su Red Prince]]
  [[Lettere/Lettera per Simon sulle tradizioni|Lettera per Simon sulle tradizioni]]

@@ -14,6 +14,7 @@
  [[Documenti/Mappa con X|Mappa con X]]
  [[Documenti/Nota 'Libri Mancanti'|Nota 'Libri Mancanti']]
  [[Documenti/Nota 'Utility Room'|Nota 'Utility Room']]
+ [[Documenti/Nota cestinata|Nota cestinata]]
  [[Documenti/Nota con giornale|Nota con giornale]]
  [[Documenti/Nota del laboratorio|Nota del laboratorio]]
  [[Documenti/Nota della dispensa|Nota della dispensa]]
