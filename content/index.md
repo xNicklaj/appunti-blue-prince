@@ -12,6 +12,11 @@ aliases:
 - [ ] Trovare i nomi dei quadri nella [[Galleria]];
 - [ ] Trovare il terzo Chip di [[Blackbridge Grotto]];
 - [ ] Comprare [[Giornale 'A new clue']];
+- [ ] Aprire la porta dell'[[underground]] sotto la fontana;
+- [ ] Capire come rimuovere l'acqua e quanta rimuoverne nel [[Reservoir]];
+- [ ] Esaminare tutte le scritte con la lente di ingrandimento;
+- [ ] Accendere candele nell'[[underground]];
+- [ ] Aprire tutte le casse nel [[Reservoir]];
 
 ## Documenti per puzzle attivi
 
