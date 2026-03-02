@@ -3,6 +3,10 @@ tags:
   - hide
 aliases:
 ---
+## To do
+- [ ] Far sciogliere giaccio nella [[Stanza frigorifera]]
+- [ ] Sbloccare la combinazione a 4 cifre oltre la [[red door]] nel [[seminterrato]]
+
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
@@ -13,7 +17,6 @@ aliases:
 | [[Security]]          | [[Monitor di Security]]  |
 | [[Locker Room]]       | [[Puzzle 'Six or zero']] |
 | [[Porte del sanctum]] | [[Realm and rune]]       |
-|                       |                          |
 ## Documenti importanti
 | [[Giornale su Mary Jones]] |
 | -------------------------- |
