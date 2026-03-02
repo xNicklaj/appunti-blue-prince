@@ -2,6 +2,7 @@
  [[Documenti/assets/_Index_assets|_Index_assets]]
  [[Documenti/Biglietto 'The Great Hall'|Biglietto 'The Great Hall']]
  [[Documenti/Calendario del drafting study|Calendario del drafting study]]
+ [[Documenti/Certificato di nascita|Certificato di nascita]]
  [[Documenti/Documento della classe|Documento della classe]]
  [[Documenti/Documento della miniera di gemme|Documento della miniera di gemme]]
  [[Documenti/Documento di commissione per i quadri|Documento di commissione per i quadri]]

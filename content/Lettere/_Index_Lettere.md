@@ -2,6 +2,7 @@
  [[Lettere/assets/_Index_assets|_Index_assets]]
  [[Lettere/Email 'accesso al freezer'|Email 'accesso al freezer']]
  [[Lettere/Email 'cambiamenti della villa'|Email 'cambiamenti della villa']]
+ [[Lettere/Email 'email elettroniche'|Email 'email elettroniche']]
  [[Lettere/Email 'la situazione'|Email 'la situazione']]
  [[Lettere/Email 'precauzioni'|Email 'precauzioni']]
  [[Lettere/Email 'riparazione del fusibile'|Email 'riparazione del fusibile']]
