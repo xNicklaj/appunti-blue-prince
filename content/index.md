@@ -21,6 +21,7 @@ aliases:
 - [ ] Capire come abbassare GEAR dal [[Basement]];
 - [ ] Capire quella parete strana al fondo del [[Basement]];
 - [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
+- [ ] Aprire le safe restanti: ([[Studio|Study]], [[Drafting Study]], e...?);
 
 ## Documenti per puzzle attivi
 
