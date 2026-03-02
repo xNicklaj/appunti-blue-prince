@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "15179a5d660fccc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libri/Realm and rune.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Realm and rune"
+            }
+          },
+          {
             "id": "be5c190ad60187cc",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Mappa del mondo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettere/Lettera 'Giro del mondo'.md",
+                "file": "Libri/Realm and rune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lettera 'Giro del mondo'"
+              "title": "Backlinks for Realm and rune"
             }
           },
           {
@@ -186,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aece5a9f4d52bb1",
+  "active": "15179a5d660fccc2",
   "lastOpenFiles": [
-    "Immagini/Mappa del mondo.md",
     "Lettere/Lettera 'Giro del mondo'.md",
+    "Immagini/Mappa del mondo.md",
     "Lettere/assets/Pasted image 20260302102107.png",
     "Quadri/Quadri della galleria.md",
     "Quadri/assets/Pasted image 20260302102006.png",
