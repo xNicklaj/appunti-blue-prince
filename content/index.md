@@ -8,7 +8,7 @@ aliases:
 - [ ] Sbloccare la combinazione a 4 cifre oltre la [[red door]] nel [[seminterrato]];
 - [ ] Trovare tutte le [[Classroom]];
 - [ ] Provare ad ri-entrare nella [[Stanza 46]]?
-- [ ] Capire come aprire le porte dietro alla leva nell'[[underground]];
+- [ ] Capire come aprire le porte dietro alla leva nell'[[Sanctum]];
 - [ ] Trovare i nomi dei quadri nella [[Galleria]];
 - [ ] Trovare il terzo Chip di [[Blackbridge Grotto]];
 - [ ] Comprare [[Giornale 'A new clue']];
