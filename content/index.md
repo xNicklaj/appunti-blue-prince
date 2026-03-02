@@ -3,15 +3,37 @@ tags:
   - hide
 aliases:
 ---
+## To do
+- [ ] Far sciogliere giaccio nella [[Stanza frigorifera]];
+- [ ] Sbloccare la combinazione a 4 cifre oltre la [[red door]] nel [[seminterrato]];
+- [ ] Trovare tutte le [[Classroom]];
+- [ ] Provare ad ri-entrare nella [[Stanza 46]]?
+- [ ] Capire come aprire le porte dietro alla leva nell'[[Sanctum]];
+- [ ] Trovare i nomi dei quadri nella [[Galleria]];
+- [ ] Trovare il terzo Chip di [[Blackbridge Grotto]];
+- [ ] Comprare [[Libro 'A new clue']];
+- [ ] Aprire la porta dell'[[underground]] sotto la fontana;
+- [ ] Capire come rimuovere l'acqua e quanta rimuoverne nel [[Reservoir]];
+- [ ] Esaminare tutte le scritte con la lente di ingrandimento;
+- [ ] Accendere candele nell'[[underground]];
+- [ ] Aprire tutte le casse nel [[Reservoir]];
+- [ ] Capire come utilizzare il martello potenziato;
+- [ ] Capire come abbassare GEAR dal [[Basement]];
+- [ ] Capire quella parete strana al fondo del [[Basement]];
+- [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
+- [ ] Aprire le safe restanti: ([[Studio|Study]], [[Drafting Study]], e...?);
+- [ ] Cagucchiare nel puzzacchioccio e sivallettuccio;
+
 ## Documenti per puzzle attivi
 
-| Puzzle          | Documento                |
-| --------------- | ------------------------ |
-| [[Sala Pompe]]  | [[Pump Room Schematic]]  |
-| Lettere Rosse   | [[Messaggio dei quadri]] |
-| X               | [[X]]                    |
-| [[Security]]    | [[Monitor di Security]]  |
-| [[Locker Room]] | [[Puzzle 'Six or zero']] |
+| Puzzle                | Documento                |
+| --------------------- | ------------------------ |
+| [[Sala Pompe]]        | [[Pump Room Schematic]]  |
+| [[Lettere Rosse]]     | [[Messaggio dei quadri]] |
+| X                     | [[X]]                    |
+| [[Security]]          | [[Monitor di Security]]  |
+| [[Locker Room]]       | [[Puzzle 'Six or zero']] |
+| [[Porte del sanctum]] | [[Realm and rune]]       |
 ## Documenti importanti
 | [[Giornale su Mary Jones]] |
 | -------------------------- |

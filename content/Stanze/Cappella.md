@@ -6,6 +6,8 @@ aliases:
 ---
 ## Gameplay
 Presenta due uscite.
+## Scacchi
+Contiene un alfiere.
 ## Estetica
 - Figura I: [[Rynna]]
   ![[Pasted image 20260205225648.png]]

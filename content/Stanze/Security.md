@@ -6,6 +6,8 @@ aliases:
 ## Gameplay
 Presenta un terminale per [[Disco di miglioramento per pianimetria]].
 Consente di impostare lo stato delle porte chiuse tramite keycard quando si stacca la corrente.
+## Scacchi
+Contiene un cavallo
 ## Estetica
 - [[Quadro 'Sconto 10%']]
 ## Oggetti e interagibili

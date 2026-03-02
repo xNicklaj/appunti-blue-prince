@@ -6,6 +6,8 @@ aliases:
 ---
 ## Gameplay
 Questa stanza ha una sola uscita ad L.
+## Scacchi
+Contiene una pedina degli scacchi.
 ## Estetica
 - Contiene un quadro con delle mani 
 - [[Quadro 'Rosario']]
