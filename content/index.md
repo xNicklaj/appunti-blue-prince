@@ -20,6 +20,7 @@ aliases:
 - [ ] Capire come utilizzare il martello potenziato;
 - [ ] Capire come abbassare GEAR dal [[Basement]];
 - [ ] Capire quella parete strana al fondo del [[Basement]];
+- [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
 
 ## Documenti per puzzle attivi
 
