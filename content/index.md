@@ -13,6 +13,7 @@ aliases:
 | [[Security]]          | [[Monitor di Security]]  |
 | [[Locker Room]]       | [[Puzzle 'Six or zero']] |
 | [[Porte del sanctum]] | [[Realm and rune]]       |
+|                       |                          |
 ## Documenti importanti
 | [[Giornale su Mary Jones]] |
 | -------------------------- |
