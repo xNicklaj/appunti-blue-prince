@@ -7,10 +7,11 @@ aliases:
 - [ ] Far sciogliere giaccio nella [[Stanza frigorifera]];
 - [ ] Sbloccare la combinazione a 4 cifre oltre la [[red door]] nel [[seminterrato]];
 - [ ] Trovare tutte le [[Classroom]];
-- [ ] Provare ad ri-entrare nella [[Stanza 46]];
+- [ ] Provare ad ri-entrare nella [[Stanza 46]]?
 - [ ] Capire come aprire le porte dietro alla leva nell'[[underground]];
 - [ ] Trovare i nomi dei quadri nella [[Galleria]];
-- [ ] 
+- [ ] Trovare il terzo Chip di [[Blackbridge Grotto]];
+- [ ] Comprare [[Giornale 'A new clue']];
 
 ## Documenti per puzzle attivi
 
