@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libri/Realm and rune.md",
+                "file": "Immagini/Mappa del mondo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Realm and rune"
+              "title": "Backlinks for Mappa del mondo"
             }
           },
           {
@@ -201,8 +201,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15179a5d660fccc2",
+  "active": "be5c190ad60187cc",
   "lastOpenFiles": [
+    "Libri/Realm and rune.md",
     "Lettere/Lettera 'Giro del mondo'.md",
     "Immagini/Mappa del mondo.md",
     "Lettere/assets/Pasted image 20260302102107.png",
@@ -220,7 +221,6 @@
     "Fotografie/Fotografia 'Uomo con messaggio'.md",
     "Fotografie/assets/Pasted image 20260302101453.png",
     "Fotografie/assets/Pasted image 20260302101446.png",
-    "Libri/Realm and rune.md",
     "Documenti/Nota per Christoph.md",
     "Persone/Orinda.md",
     "Persone/Rynna.md",
