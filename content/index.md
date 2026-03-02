@@ -17,6 +17,7 @@ aliases:
 - [ ] Esaminare tutte le scritte con la lente di ingrandimento;
 - [ ] Accendere candele nell'[[underground]];
 - [ ] Aprire tutte le casse nel [[Reservoir]];
+- [ ] Capire come utilizzare il martello potenziato;
 
 ## Documenti per puzzle attivi
 
