@@ -18,8 +18,8 @@ aliases:
 - [ ] Accendere candele nell'[[underground]];
 - [ ] Aprire tutte le casse nel [[Reservoir]];
 - [ ] Capire come utilizzare il martello potenziato;
-- [ ] Capire come abbassare GEAR dal [[Basement]]
-- [ ] Capire quella parete strana al fondo del [[Basement]]
+- [ ] Capire come abbassare GEAR dal [[Basement]];
+- [ ] Capire quella parete strana al fondo del [[Basement]];
 
 ## Documenti per puzzle attivi
 
