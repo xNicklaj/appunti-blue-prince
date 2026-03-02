@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Certificato di nascita.md",
+                "file": "Documenti/Admin Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certificato di nascita"
+              "title": "Admin Logs"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Certificato di nascita.md",
+                "file": "Documenti/Admin Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Certificato di nascita"
+              "title": "Backlinks for Admin Logs"
             }
           },
           {
@@ -174,26 +174,27 @@
   },
   "active": "d8544287eddd38f5",
   "lastOpenFiles": [
-    "Documenti/assets/Pasted image 20260302230148.png",
+    "Documenti/assets/Pasted image 20260302230833.png",
+    "Documenti/assets/Pasted image 20260302230819.png",
+    "Documenti/assets/Pasted image 20260302230810.png",
+    "Documenti/assets/Pasted image 20260302230800.png",
+    "Documenti/assets/Pasted image 20260302230750.png",
+    "Documenti/assets/Pasted image 20260302230741.png",
+    "Documenti/assets/Pasted image 20260302230731.png",
+    "Documenti/assets/Pasted image 20260302230706.png",
+    "Documenti/assets/Pasted image 20260302230653.png",
+    "Documenti/assets/Pasted image 20260302230641.png",
+    "Documenti/assets/Pasted image 20260302230630.png",
     "Documenti/Certificato di nascita.md",
+    "Documenti/Admin Logs.md",
     "Lettere/Lettera 'Giro del mondo'.md",
     "Libri/Realm and rune.md",
     "Lettere/Email 'email elettroniche'.md",
-    "Lettere/assets/Pasted image 20260302225908.png",
     "Lettere/Email 'stay put'.md",
-    "Lettere/assets/Pasted image 20260302225535.png",
     "Lettere/Email 'la situazione'.md",
-    "Lettere/assets/Pasted image 20260302224838.png",
-    "Lettere/assets/Pasted image 20260302224815.png",
-    "Lettere/assets/Pasted image 20260302224755.png",
     "Lettere/Email 'accesso al freezer'.md",
     "Lettere/Email 'precauzioni'.md",
     "Libri/La Storia di Orindia Prima Versione.md",
-    "Lettere/assets/Pasted image 20260302224208.png",
-    "Lettere/assets/Pasted image 20260302224149.png",
-    "Lettere/assets/Pasted image 20260302224139.png",
-    "Lettere/assets/Pasted image 20260302223826.png",
-    "Lettere/assets/Pasted image 20260302223817.png",
     "Immagini/Mappa del mondo.md",
     "Quadri/Quadri della galleria.md",
     "Quadri/_Index_Quadri.md",
@@ -209,7 +210,6 @@
     "Persone/_Index_Persone.md",
     "index.md",
     "Stanze/Vault.md",
-    "Documenti/Giornale 'A new clue'.md",
     "Untitled 1.base",
     "Daily Notes",
     "Untitled.base",
