@@ -3,6 +3,7 @@ tags:
   - Documento
   - Libro
 aliases:
+  - History of Orindia
 ---
 Libro scritto da [[Caleb Manning]] e pubblicato in maniera [[La storia di Orindia|censurata]].
 ## Galleria
