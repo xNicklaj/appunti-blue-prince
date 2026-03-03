@@ -8,7 +8,7 @@ aliases:
 Libro scritto da [[Caleb Manning]] e pubblicato in maniera [[La storia di Orindia|censurata]].
 ## Galleria
 ![[Pasted image 20260303010734.png]]
-![[Pasted image 20260303010740.png]]
+![[Pasted image 20260303010740.png|500]]
 ![[Pasted image 20260303010745.png]]
 ![[Pasted image 20260303010750.png|500]]
 ![[Pasted image 20260303010756.png|500]]
