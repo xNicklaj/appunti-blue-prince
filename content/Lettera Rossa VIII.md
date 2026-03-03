@@ -4,6 +4,7 @@ tags:
   - Lettera
 aliases:
 ---
+Lettera rossa trovata nella [[Cassaforte dell'Ufficio]].
 ## Galleria
 ![[Pasted image 20260303014143.png|600]]
 ![[Pasted image 20260303014207.png|600]]
