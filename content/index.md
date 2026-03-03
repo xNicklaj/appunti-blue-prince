@@ -4,26 +4,25 @@ tags:
 aliases:
 ---
 ## To do
-- [ ] Far sciogliere giaccio nella [[Stanza frigorifera]];
-- [ ] Sbloccare la combinazione a 4 cifre oltre la [[red door]] nel [[seminterrato]];
+- [ ] Far sciogliere giaccio nella [[Stanza frigorifera]]
+- [ ] Sbloccare la combinazione a 4 cifre nell'[[Underpass]]
 - [ ] Trovare tutte le [[Classroom]];
+- [ ] Consegnare una lettera alla mail room tramite gli esperimenti del [[Laboratorio|Laboratory]].
 - [ ] Provare ad ri-entrare nella [[Stanza 46]]?
-- [ ] Capire come aprire le porte dietro alla leva nell'[[Sanctum]];
+- [ ] Capire come aprire le porte dietro alla leva nel [[Sanctum]];
 - [ ] Trovare i nomi dei quadri nella [[Galleria]];
-- [ ] Trovare il terzo Chip di [[Blackbridge Grotto]];
-- [ ] Comprare [[Libro 'A new clue']];
-- [ ] Aprire la porta dell'[[underground]] sotto la fontana;
-- [ ] Capire come rimuovere l'acqua e quanta rimuoverne nel [[Reservoir]];
+- [ ] Trovare il terzo chip di [[Blackbridge Grotto]];
+- [ ] Comprare [[A new clue]];
+- [ ] Aprire la porta dell'[[Underground]] sotto la fontana;
+- [ ] Capire come rimuovere l'acqua e quanta rimuoverne nella [[Riserva]]
 - [ ] Esaminare tutte le scritte con la lente di ingrandimento;
-- [ ] Accendere candele nell'[[underground]];
-- [ ] Aprire tutte le casse nel [[Reservoir]];
+- [ ] Accendere candele nella torch room in[[Mappa dell'underground|Underground]];
+- [ ] Aprire tutte le casse nella [[Riserva]]
 - [ ] Capire come utilizzare il martello potenziato;
-- [ ] Capire come abbassare GEAR dal [[Basement]];
+- [ ] Capire come abbassare la ruota dentata nell'[[Mappa dell'underground|Underground]] passando per il [[Basement]]
 - [ ] Capire quella parete strana al fondo del [[Basement]];
 - [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
 - [ ] Aprire le safe restanti: ([[Studio|Study]], [[Drafting Study]], e...?);
-- [ ] Cagucchiare nel puzzacchioccio e sivallettuccio;
-
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
