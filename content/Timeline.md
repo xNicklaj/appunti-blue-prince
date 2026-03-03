@@ -3,6 +3,7 @@
 ```chronos
 - [1952] Matrimonio Clara e Tomas
 - [1958-01-22] Nascita di Mary Jones
+- [1984] Uscita 'Red Prince'
 - [1985] Uscita 'Swim Bird'
 - [1986-09-04] Trinsdale Bombing
 - [1987-02-22] Scomparsa di Mary Jones

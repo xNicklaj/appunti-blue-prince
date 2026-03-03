@@ -50,8 +50,23 @@
               "icon": "lucide-file",
               "title": "Fotografia 'Clara e Simon'"
             }
+          },
+          {
+            "id": "dfa4763406d7458b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lettera Rossa VIII.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lettera Rossa VIII"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline.md",
+                "file": "Lettera Rossa VIII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +179,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Timeline"
+              "title": "Backlinks for Lettera Rossa VIII"
             }
           },
           {
@@ -203,11 +218,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85ab29c632bd6934",
+  "active": "dfa4763406d7458b",
   "lastOpenFiles": [
+    "assets/Pasted image 20260303014308.png",
+    "assets/Pasted image 20260303014252.png",
+    "assets/Pasted image 20260303014237.png",
+    "assets/Pasted image 20260303014219.png",
+    "assets/Pasted image 20260303014207.png",
+    "assets/Pasted image 20260303014143.png",
+    "Puzzle/Lettere Rosse.md",
+    "Lettera Rossa VIII.md",
+    "index.md",
+    "Lettere/Lettera Rossa VII.md",
+    "Lettere/Lettera Rossa IV.md",
+    "Timeline.md",
     "Libri/Swim Bird.md",
     "Fotografie/Fotografia 'Clara e Simon'.md",
-    "Timeline.md",
     "Libri/Red Prince.md",
     "Libri/Realm and rune.md",
     "Libri/Quaderno del custode.md",
@@ -218,8 +244,6 @@
     "Libri/A Sightseer's Guide To Reddington.md",
     "Libri/A new clue.md",
     "Lettere/Lettere di Mary Epsen.md",
-    "Lettere/Lettera Rossa IV.md",
-    "Lettere/Lettera Rossa VII.md",
     "Lettere/Lettera per Simon sulle tradizioni.md",
     "Lettere/Lettera del Ruffington Press su Red Prince.md",
     "Lettere/Lettera da Daniel Jones.md",
@@ -228,19 +252,10 @@
     "Lettere/Email 'accesso al freezer'.md",
     "Lettere/Email 'stay put'.md",
     "Lettere/Email 'precauzioni'.md",
-    "Lettere/Email 'settimana prossima'.md",
-    "Lettere/Email 'misure di sicurezza'.md",
-    "Lettere/Email 'riparazione del fusibile'.md",
-    "Lettere/Email 'ulteriore richiesta'.md",
     "Libri/assets/Pasted image 20260303010826.png",
     "Libri/assets/Pasted image 20260303010820.png",
     "Libri/assets/Pasted image 20260303010815.png",
     "Libri/assets/Pasted image 20260303010810.png",
-    "Libri/assets/Pasted image 20260303010804.png",
-    "Libri/assets/Pasted image 20260303010802.png",
-    "Libri/assets/Pasted image 20260303010756.png",
-    "Libri/assets/Pasted image 20260303010750.png",
-    "Libri/assets/Pasted image 20260303010745.png",
     "Untitled.base",
     "Fotografie/assets",
     "Fotografie",

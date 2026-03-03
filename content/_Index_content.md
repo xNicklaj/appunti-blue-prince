@@ -14,6 +14,7 @@
  [[Giorni/_Index_Giorni|_Index_Giorni]]
  [[index|index]]
  [[Interagibili/_Index_Interagibili|_Index_Interagibili]]
+ [[Lettera Rossa VIII|Lettera Rossa VIII]]
  [[Luoghi/_Index_Luoghi|_Index_Luoghi]]
  [[Mappa Visiva.canvas|Mappa Visiva.canvas]]
  [[Oggetti/_Index_Oggetti|_Index_Oggetti]]
