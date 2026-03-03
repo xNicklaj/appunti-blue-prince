@@ -19,6 +19,7 @@
  [[Stanze/Garage|Garage]]
  [[Stanze/Laboratorio|Laboratorio]]
  [[Stanze/Libreria|Libreria]]
+ [[Stanze/Locker Room|Locker Room]]
  [[Stanze/Magazzino|Magazzino]]
  [[Stanze/Maid's Chamber|Maid's Chamber]]
  [[Stanze/Mechanarium|Mechanarium]]

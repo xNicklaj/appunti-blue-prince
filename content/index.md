@@ -25,7 +25,8 @@ aliases:
 - [ ] Aprire e capire le safe restanti: ([[Studio|Study]], [[Drafting Studio]], e...?);
 - [ ] Capire se effettivamente c'è altro nel [[Secret Garden]]?
 - [ ] Capire se lo [[Shrine]] fa altro?
-- [ ] Capire cosa fa il [[Trading Post]]
+- [ ] Capire cosa fa il [[Trading Post]];
+- [ ] Capire se [[Nota della dispensa]] è un enigma?
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |

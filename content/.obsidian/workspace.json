@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d81147d29a1ccd8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
             "id": "20be0196fda8e9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Trading Post.md",
+                "file": "Stanze/Dispensa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trading Post"
+              "title": "Dispensa"
             }
           }
         ]
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Trading Post.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Trading Post"
+              "title": "Riferimenti a index"
             }
           },
           {
@@ -172,11 +186,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20be0196fda8e9b8",
+  "active": "d81147d29a1ccd8b",
   "lastOpenFiles": [
-    "Stanze/assets/Pasted image 20260303121040.png",
+    "Stanze/Dispensa.md",
     "index.md",
+    "Stanze/Acquario.md",
+    "Stanze/Locker Room.md",
+    "Stanze/assets/Pasted image 20260303122340.png",
     "Stanze/Trading Post.md",
+    "Stanze/assets/Pasted image 20260303121040.png",
     "Stanze/Shrine.md",
     "Stanze/assets/Pasted image 20260303120438.png",
     "Mappa Visiva.canvas",
@@ -201,16 +219,12 @@
     "Giorni/7 Novembre.md",
     "Interagibili/Valvola per fuoco blu.md",
     "Interagibili/Cassa.md",
-    "Interagibili/Cabinet.md",
-    "Persone/Simon P. Jones.md",
     "Stanze/assets/Pasted image 20260303103259.png",
     "Stanze/assets/Pasted image 20260303103241.png",
     "Stanze/assets/Pasted image 20260303103217.png",
     "Stanze/assets/Pasted image 20260303103159.png",
     "Stanze/assets/Pasted image 20260303103136.png",
     "Stanze/assets/Pasted image 20260303103118.png",
-    "Stanze/assets/Pasted image 20260303103059.png",
-    "Stanze/assets/Pasted image 20260303103040.png",
     "Senza nome.base",
     "Senza nome.canvas",
     "Untitled 1.base",
