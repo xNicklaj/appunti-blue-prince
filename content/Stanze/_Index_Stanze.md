@@ -4,6 +4,7 @@
  [[Stanze/Archivio|Archivio]]
  [[Stanze/assets/_Index_assets|_Index_assets]]
  [[Stanze/Attico|Attico]]
+ [[Stanze/Basement|Basement]]
  [[Stanze/Boudoir|Boudoir]]
  [[Stanze/Camera Oscura|Camera Oscura]]
  [[Stanze/Capanna degli attrezzi|Capanna degli attrezzi]]
