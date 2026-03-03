@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Vault.md",
+                "file": "Stanze/Sala da biliardo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Vault"
+              "title": "Backlinks for Sala da biliardo"
             }
           },
           {
@@ -189,20 +189,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d88ca34308e84307",
+  "active": "03e934e6c4dc96cd",
   "lastOpenFiles": [
+    "Stanze/Vault.md",
     "Stanze/assets/Pasted image 20260303103259.png",
     "Stanze/Ufficio.md",
     "Stanze/assets/Pasted image 20260303103241.png",
@@ -224,7 +225,6 @@
     "Stanze/Stanza da disegno.md",
     "Stanze/assets/Pasted image 20260303102950.png",
     "Stanze/Passaggio Segreto.md",
-    "Stanze/assets/Pasted image 20260303102911.png",
     "Stanze/Secret Garden.md",
     "Stanze/Stanza 46.md",
     "index.md",
