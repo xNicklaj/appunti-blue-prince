@@ -21,6 +21,7 @@
  [[Stanze/Libreria|Libreria]]
  [[Stanze/Magazzino|Magazzino]]
  [[Stanze/Maid's Chamber|Maid's Chamber]]
+ [[Stanze/Mechanarium|Mechanarium]]
  [[Stanze/Nook|Nook]]
  [[Stanze/Nuova miniera|Nuova miniera]]
  [[Stanze/Osservatorio|Osservatorio]]
