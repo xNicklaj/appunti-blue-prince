@@ -28,7 +28,8 @@ aliases:
 - [ ] Capire cosa fa il [[Trading Post]];
 - [ ] Capire se [[Nota della dispensa]] è un enigma?
 - [x] Capire come superare il [[Cloister]];
-- [ ] Segreto che alberto non ha detto perché è stronzo;
+- [ ] Spostare barca nell'[[Mappa dell'underground|Underground]];
+- [ ] Segreto che Alberto non ha detto perché è stronzo;
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
