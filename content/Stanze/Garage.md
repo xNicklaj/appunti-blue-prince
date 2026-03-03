@@ -7,4 +7,6 @@ aliases:
 Se la corrente è attiva tramite il [[Utility]] permette di aprire il garage per uscire dalla villa e sbloccare il cancello occidentale.
 
 ## Oggetti e interagibili
-- 
+
+## Stanza
+![[Pasted image 20260303092609.png]]

@@ -11,3 +11,5 @@ Contiene una pedina di scacchi.
 - 1x [[Monete]]
 - 2x [[Chiave semplice]]
 - 1x [[Gemme]]
+## Stanza
+![[Pasted image 20260303092709.png]]

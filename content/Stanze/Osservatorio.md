@@ -13,3 +13,5 @@ Contiene un cavallo.
 ## Estetica
 - [[Quadro 'Lucchetto']]
 Presenta un cavallo.
+## Stanza
+![[Pasted image 20260303092944.png]]

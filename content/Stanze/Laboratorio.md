@@ -12,3 +12,6 @@ Si collega alla [[Boiler Room]].
 [[Tavola Periodica]]
 
 ![[Pasted image 20260205232422.png|550]]
+
+## Stanza
+![[Pasted image 20260303092628.png]]

@@ -24,3 +24,5 @@ Contiene un alfiere.
 - Figura VII: [[Orinda]]
   ![[Pasted image 20260205225836.png]]
 Presenta anche un'alfiere.
+## Stanza
+![[Pasted image 20260303092138.png]]

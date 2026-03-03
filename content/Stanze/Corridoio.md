@@ -12,3 +12,5 @@ Il corriodio rimarrà sempre sbloccato. Quindi... ci sono eventi che bloccherann
 
 ## Oggetti e interagibili
 - [[Nota del corridoio]]
+## Stanza
+![[Pasted image 20260303092315.png]]
