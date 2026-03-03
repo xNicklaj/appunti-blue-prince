@@ -17,3 +17,5 @@ Contiene una pedina degli scacchi.
 - Contiene una foto di una donna con una collana a forma di luna.
 - Contiene una [[Lettera 'Greetings From Reddington']].
 - Contiene una [[Cassa]]
+## Stanza
+![[Pasted image 20260303103040.png]]
