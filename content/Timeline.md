@@ -10,6 +10,7 @@
 - [1987-02-28~1987-03-02] Visita di Bon Margle a Mt. Holly
 - [1987-09-02] Rapina al Royal Museum
 - [1987-09-03] Visita di Bon Margle a Mt. Holly
+- [1993-09-04] Morte di Herbert
 - [1993-09-07] Arrivo di Simon nella villa
 ```
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2154ae983d0ced3e",
+        "id": "64b189468b0d6237",
         "type": "tabs",
         "children": [
           {
-            "id": "20be0196fda8e9b8",
+            "id": "99570731bac5048b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fazioni/Regno di Nuance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Regno di Nuance"
+              "title": "New tab"
             }
           }
         ]
@@ -124,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fazioni/Regno di Nuance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Regno di Nuance"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,34 +167,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20be0196fda8e9b8",
+  "active": "99570731bac5048b",
   "lastOpenFiles": [
-    "Fazioni/Regno di Orinda Aries.md",
-    "Fazioni/Ruffington Press.md",
-    "Fazioni/Synka Company.md",
-    "Fazioni/The Children of Black Water.md",
-    "Fazioni/Regno di Eraja.md",
-    "Fazioni/Regno di Arch Aries.md",
-    "Fazioni/Reddington Herald.md",
-    "Fazioni/Red Guard.md",
+    "Documenti/Giornale 'A new clue'.md",
     "Timeline.md",
-    "Giorni/Giorno 8.md",
-    "Giorni/7 Novembre.md",
-    "Interagibili/Valvola per fuoco blu.md",
-    "Interagibili/Cassa.md",
-    "Interagibili/Cabinet.md",
-    "Persone/Simon P. Jones.md",
-    "Stanze/Cappella.md",
-    "Persone/Mila.md",
-    "Persone/Orinda.md",
-    "Persone/Mary Matthew Epsen Sinclair.md",
-    "Persone/Lady Clara Epsen.md",
-    "Persone/Herbie Jones.md",
-    "Persone/Herbert S. Sinclair.md",
-    "Persone/Denny Revane.md",
-    "Persone/Daniel Jones.md",
-    "Persone/Christoph.md",
-    "Persone/Caleb Manning.md",
+    "Lettere/Lettera Rossa VIII.md",
+    "Lettere/Lettera Rossa VII.md",
+    "Lettere/Lettera Rossa IV.md",
+    "Lettere/Lettere di Mary Epsen.md",
+    "Lettere/Lettera per Simon sulle tradizioni.md",
+    "Lettere/Lettera del Ruffington Press su Red Prince.md",
+    "Lettere/Email 'ulteriore richiesta'.md",
+    "Lettere/Email 'email elettroniche'.md",
+    "Lettere/Email 'cambiamenti della villa'.md",
+    "Lettere/Email 'accesso al freezer'.md",
+    "Immagini/Ritratto 'Vecchio'.md",
+    "Immagini/Mappa dell'underground.md",
+    "Immagini/Disegno 'Lampada'.md",
+    "Immagini/Disegno 'Cravatta'.md",
+    "Immagini/Cartolina 'Greetings from Reddington'.md",
+    "Immagini/Albero genealogico.md",
+    "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
+    "Fotografie/Ritratto 'Baronessa Auravei da anziana'.md",
+    "Fotografie/Fotografie della Camera Oscura..md",
+    "Fotografie/Fotografia 'Uomo con messaggio'.md",
+    "Fotografie/Fotografia 'Tomas Sinclair'.md",
+    "Fotografie/Fotografia 'Servitù'.md",
+    "Fotografie/Fotografia 'Mary Epsen'.md",
+    "Fotografie/Fotografia 'Manning e White'.md",
     "Mappa Visiva.canvas",
     "Stanze/assets/Pasted image 20260303103259.png",
     "Stanze/assets/Pasted image 20260303103241.png",

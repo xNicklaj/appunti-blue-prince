@@ -10,6 +10,6 @@ Risale a quando [[Thomas Sinclair]] era il capofamiglia.
 
 Sembra che sotto la residenza vi siano antichi tunnel costruiti dalle civiltà antiche, forse appartenenti alla prima era.
 
-Vedi anche: [[Fotografia 'Thomas Sinclair']]
+Vedi anche: [[Fotografia 'Tomas Sinclair']]
 ## Galleria
 ![[Pasted image 20260226130756.png|625]]
