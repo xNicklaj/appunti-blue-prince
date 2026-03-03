@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Puzzle/Matematica dei colori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Matematica dei colori"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Puzzle/Matematica dei colori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a index"
+              "title": "Riferimenti a Matematica dei colori"
             }
           },
           {
@@ -174,10 +174,16 @@
   },
   "active": "d81147d29a1ccd8b",
   "lastOpenFiles": [
+    "Puzzle/assets/Pasted image 20260303180216.png",
+    "Puzzle/assets/Pasted image 20260303180211.png",
+    "Puzzle/assets/Pasted image 20260303180204.png",
+    "Puzzle/assets/Pasted image 20260303180156.png",
+    "Documenti/Documento della classe.md",
+    "Interagibili/Cabinet.md",
+    "index.md",
     "Stanze/Libreria.md",
     "Stanze/Basement.md",
     "Stanze/assets/Pasted image 20260303143604.png",
-    "index.md",
     "Immagini/Mappa dell'underground.md",
     "Stanze/assets/Pasted image 20260303132020.png",
     "Documenti/Biglietto Where is room 46.md",
@@ -191,9 +197,6 @@
     "Libri/assets/Pasted image 20260303130912.png",
     "Libri/assets/Pasted image 20260303130846.png",
     "Libri/assets/Pasted image 20260303130839.png",
-    "Libri/assets/Pasted image 20260303130831.png",
-    "Libri/assets/Pasted image 20260303130740.png",
-    "Libri/assets/Pasted image 20260303130731.png",
     "Documenti/Documento miniera della porta rossa.md",
     "Stanze/Locker Room.md",
     "Documenti/Giornale su Mary Jones.md",
@@ -208,8 +211,6 @@
     "Stanze/Stanza dei Giochi.md",
     "Stanze/Torre dell'orologio.md",
     "Stanze/Vault.md",
-    "Fazioni/Regno di Nuance.md",
-    "Fazioni/Regno di Orinda Aries.md",
     "Senza nome.base",
     "Senza nome.canvas",
     "Untitled 1.base",
