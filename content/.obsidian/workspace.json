@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Mechanarium.md",
+                "file": "Stanze/Trading Post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanarium"
+              "title": "Trading Post"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Mechanarium.md",
+                "file": "Stanze/Trading Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Mechanarium"
+              "title": "Riferimenti a Trading Post"
             }
           },
           {
@@ -174,9 +174,14 @@
   },
   "active": "20be0196fda8e9b8",
   "lastOpenFiles": [
-    "Stanze/assets/Pasted image 20260303115837.png",
+    "Stanze/assets/Pasted image 20260303121040.png",
     "index.md",
+    "Stanze/Trading Post.md",
+    "Stanze/Shrine.md",
+    "Stanze/assets/Pasted image 20260303120438.png",
+    "Mappa Visiva.canvas",
     "Stanze/Mechanarium.md",
+    "Stanze/assets/Pasted image 20260303115837.png",
     "Stanze/Stanza degli specchi.md",
     "Stanze/Stanza dei Giochi.md",
     "Stanze/Stanza frigorifera.md",
@@ -198,9 +203,6 @@
     "Interagibili/Cassa.md",
     "Interagibili/Cabinet.md",
     "Persone/Simon P. Jones.md",
-    "Stanze/Cappella.md",
-    "Persone/Mila.md",
-    "Mappa Visiva.canvas",
     "Stanze/assets/Pasted image 20260303103259.png",
     "Stanze/assets/Pasted image 20260303103241.png",
     "Stanze/assets/Pasted image 20260303103217.png",
@@ -209,8 +211,6 @@
     "Stanze/assets/Pasted image 20260303103118.png",
     "Stanze/assets/Pasted image 20260303103059.png",
     "Stanze/assets/Pasted image 20260303103040.png",
-    "Stanze/assets/Pasted image 20260303103020.png",
-    "Stanze/assets/Pasted image 20260303102950.png",
     "Senza nome.base",
     "Senza nome.canvas",
     "Untitled 1.base",
