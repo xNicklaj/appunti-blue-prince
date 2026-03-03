@@ -10,3 +10,4 @@ Regole per la matematica che prevedono l'uso di numeri colorati il cui colore ra
 ![[Pasted image 20260303180204.png|500]]
 ![[Pasted image 20260303180211.png|500]]
 ![[Pasted image 20260303180216.png|500]]
+![[Pasted image 20260303180857.png]]
