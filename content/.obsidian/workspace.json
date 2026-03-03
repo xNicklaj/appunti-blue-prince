@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Stanze/Archivio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Archivio"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Stanze/Archivio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a index"
+              "title": "Riferimenti a Archivio"
             }
           },
           {
@@ -189,6 +189,17 @@
   },
   "active": "d88ca34308e84307",
   "lastOpenFiles": [
+    "Stanze/Antro.md",
+    "Stanze/Archivio.md",
+    "Stanze/Acquario.md",
+    "Stanze/assets/Pasted image 20260303090843.png",
+    "Stanze/assets/Pasted image 20260303090732.png",
+    "Drafting Studio.md",
+    "Lettere/Lettera Rossa IV.md",
+    "Puzzle/Lettere Rosse.md",
+    "index.md",
+    "assets/Pasted image 20260303090414.png",
+    "Stanze/Sala da disegno.md",
     "assets/Pasted image 20260303014308.png",
     "assets/Pasted image 20260303014252.png",
     "assets/Pasted image 20260303014237.png",
@@ -197,17 +208,12 @@
     "assets/Pasted image 20260303014143.png",
     "Timeline.md",
     "Libri/assets/Pasted image 20260303010826.png",
-    "Libri/assets/Pasted image 20260303010820.png",
-    "Libri/assets/Pasted image 20260303010815.png",
-    "Libri/assets/Pasted image 20260303010810.png",
-    "Libri/assets/Pasted image 20260303010804.png",
     "Libri/A new clue.md",
     "Lettere/Email 'ulteriore richiesta'.md",
     "Lettere/Email 'misure di sicurezza'.md",
     "Documenti/Foreman's Log 3.md",
     "Documenti/Foreman's Log 228.md",
     "Immagini/Mappa dell'underground.md",
-    "index.md",
     "Stanze/Stanza frigorifera.md",
     "Stanze/Stanza degli ospiti.md",
     "Stanze/Stanza dei Giochi.md",
@@ -217,16 +223,10 @@
     "Stanze/Torre dell'orologio.md",
     "Stanze/Vault.md",
     "Stanze/Ufficio.md",
-    "Stanze/Acquario.md",
     "Stanze/_Index_Stanze.md",
     "Senza nome.md",
-    "_Index_content.md",
-    "conflict-files-obsidian-git.md",
     "Senza nome.base",
     "Senza nome.canvas",
-    "Puzzle/Pump Room Schematic.md",
-    "Documenti/Admin Logs.md",
-    "Documenti/Certificato di nascita.md",
     "Untitled 1.base",
     "Daily Notes",
     "Untitled.base",

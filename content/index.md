@@ -22,7 +22,8 @@ aliases:
 - [ ] Capire come abbassare la ruota dentata nell'[[Mappa dell'underground|Underground]] passando per il [[Basement]]
 - [ ] Capire quella parete strana al fondo del [[Basement]];
 - [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
-- [ ] Aprire le safe restanti: ([[Studio|Study]], [[Drafting Study]], e...?);
+- [ ] Aprire le safe restanti: ([[Studio|Study]], [[Drafting Studio]], e...?);
+- [ 
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |

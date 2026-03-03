@@ -9,6 +9,7 @@
  ![[Quadri/_Index_Quadri|_Index_Quadri]]
  ![[Stanze/_Index_Stanze|_Index_Stanze]]
  [[assets/_Index_assets|_Index_assets]]
+ [[Drafting Studio|Drafting Studio]]
  [[Eventi/_Index_Eventi|_Index_Eventi]]
  [[Fazioni/_Index_Fazioni|_Index_Fazioni]]
  [[Giorni/_Index_Giorni|_Index_Giorni]]
