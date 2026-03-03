@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "9006ae994fdf296d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Basement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basement"
-            }
-          },
-          {
-            "id": "20be0196fda8e9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Libreria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Libreria"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Basement.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Basement"
+              "title": "Riferimenti a index"
             }
           },
           {
@@ -201,13 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9006ae994fdf296d",
+  "active": "d81147d29a1ccd8b",
   "lastOpenFiles": [
+    "Stanze/Libreria.md",
+    "Stanze/Basement.md",
     "Stanze/assets/Pasted image 20260303143604.png",
     "index.md",
-    "Stanze/Basement.md",
     "Immagini/Mappa dell'underground.md",
-    "Stanze/Libreria.md",
     "Stanze/assets/Pasted image 20260303132020.png",
     "Documenti/Biglietto Where is room 46.md",
     "Documenti/Nota nel Freezer.md",
@@ -223,7 +194,6 @@
     "Libri/assets/Pasted image 20260303130831.png",
     "Libri/assets/Pasted image 20260303130740.png",
     "Libri/assets/Pasted image 20260303130731.png",
-    "Libri/assets/Pasted image 20260303130721.png",
     "Documenti/Documento miniera della porta rossa.md",
     "Stanze/Locker Room.md",
     "Documenti/Giornale su Mary Jones.md",
