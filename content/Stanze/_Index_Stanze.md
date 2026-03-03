@@ -13,6 +13,7 @@
  [[Stanze/Cortile|Cortile]]
  [[Stanze/Cucina|Cucina]]
  [[Stanze/Dispensa|Dispensa]]
+ [[Stanze/Drafting Studio|Drafting Studio]]
  [[Stanze/Entrata|Entrata]]
  [[Stanze/Fornace|Fornace]]
  [[Stanze/Garage|Garage]]

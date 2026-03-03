@@ -21,5 +21,6 @@
 - [1983-06] Morte Clara Epsen
 - [1986-01-20] Installazione Blackbridge Grotto
 - [1986-09-11] Cattura Caleb Manning
+- [1986-09-17] Marion Marigold lascia la Ruffington Press
 - [1987-03-02~1987-08-27] Log di rete cancellati
 ```
