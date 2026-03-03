@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Stanza degli specchi.md",
+                "file": "Stanze/Stanza da letto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stanza degli specchi"
+              "title": "Stanza da letto"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Stanza degli specchi.md",
+                "file": "Stanze/Stanza da letto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Stanza degli specchi"
+              "title": "Riferimenti a Stanza da letto"
             }
           },
           {
@@ -172,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stanze/Stanza degli specchi.md",
+                "file": "Stanze/Stanza da letto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Stanza degli specchi"
+              "title": "Collegamenti in uscita da Stanza da letto"
             }
           }
         ],
@@ -203,11 +203,17 @@
   },
   "active": "d88ca34308e84307",
   "lastOpenFiles": [
+    "Stanze/Stanza da giorno.md",
+    "Stanze/assets/Pasted image 20260303103020.png",
+    "Stanze/Stanza da disegno.md",
+    "Stanze/assets/Pasted image 20260303102950.png",
+    "Stanze/Stanza da letto.md",
+    "Stanze/Stanza degli ospiti.md",
+    "Stanze/Passaggio Segreto.md",
+    "Stanze/Stanza degli specchi.md",
     "Stanze/assets/Pasted image 20260303102911.png",
     "Stanze/Secret Garden.md",
     "Stanze/assets/Pasted image 20260303102823.png",
-    "Stanze/Stanza degli specchi.md",
-    "Stanze/Stanza da disegno.md",
     "Stanze/Stanza 46.md",
     "index.md",
     "Fotografie/Ritratto 'Baronessa Auravei da anziana'.md",
@@ -230,15 +236,8 @@
     "Stanze/Laboratorio.md",
     "Stanze/Libreria.md",
     "Stanze/Magazzino.md",
-    "Stanze/Maid's Chamber.md",
-    "Stanze/Nook.md",
-    "Stanze/Nuova miniera.md",
-    "Stanze/Osservatorio.md",
     "Stanze/assets/Pasted image 20260303093945.png",
     "Stanze/assets/Pasted image 20260303093551.png",
-    "Stanze/assets/Pasted image 20260303093515.png",
-    "Stanze/assets/Pasted image 20260303093413.png",
-    "Stanze/assets/Pasted image 20260303093325.png",
     "Senza nome.base",
     "Senza nome.canvas",
     "Untitled 1.base",
