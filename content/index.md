@@ -27,6 +27,7 @@ aliases:
 - [ ] Capire se lo [[Shrine]] fa altro?
 - [ ] Capire cosa fa il [[Trading Post]];
 - [ ] Capire se [[Nota della dispensa]] è un enigma?
+- [ ] Capire come superare il [[Cloister]];
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |

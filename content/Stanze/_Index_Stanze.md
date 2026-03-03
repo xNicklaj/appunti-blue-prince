@@ -8,6 +8,7 @@
  [[Stanze/Camera Oscura|Camera Oscura]]
  [[Stanze/Capanna degli attrezzi|Capanna degli attrezzi]]
  [[Stanze/Cappella|Cappella]]
+ [[Stanze/Cloister|Cloister]]
  [[Stanze/Commissariato|Commissariato]]
  [[Stanze/Corridoio|Corridoio]]
  [[Stanze/Cortile|Cortile]]

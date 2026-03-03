@@ -3,6 +3,5 @@ tags:
   - stanza
 aliases:
 ---
-
 ## Stanza
-![[Pasted image 20260303122340.png]]
+![[Pasted image 20260303124850.png]]
