@@ -35,8 +35,7 @@
               "title": "Libreria"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Libreria.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Libreria"
+              "title": "Riferimenti a index"
             }
           },
           {
@@ -187,8 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20be0196fda8e9b8",
+  "active": "d81147d29a1ccd8b",
   "lastOpenFiles": [
+    "Stanze/Libreria.md",
+    "index.md",
     "Stanze/assets/Pasted image 20260303132020.png",
     "Documenti/Biglietto Where is room 46.md",
     "Documenti/Nota nel Freezer.md",
@@ -205,8 +206,6 @@
     "Libri/assets/Pasted image 20260303130740.png",
     "Libri/assets/Pasted image 20260303130731.png",
     "Libri/assets/Pasted image 20260303130721.png",
-    "Libri/assets/Pasted image 20260303130712.png",
-    "index.md",
     "Documenti/Documento miniera della porta rossa.md",
     "Stanze/Locker Room.md",
     "Documenti/Giornale su Mary Jones.md",
