@@ -17,5 +17,9 @@
 
 ```chronos
 - [1905] Uscita 'Realm and Rune'
-- [1986-01-20] 
+- [1915~1917] Scavi sotto Mt. Holly
+- [1983-06] Morte Clara Epsen
+- [1986-01-20] Installazione Blackbridge Grotto
+- [1986-09-11] Cattura Caleb Manning
+- [1987-03-02~1987-08-27] Log di rete cancellati
 ```
