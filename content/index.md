@@ -27,7 +27,8 @@ aliases:
 - [ ] Capire se lo [[Shrine]] fa altro?
 - [ ] Capire cosa fa il [[Trading Post]];
 - [ ] Capire se [[Nota della dispensa]] è un enigma?
-- [ ] Capire come superare il [[Cloister]];
+- [x] Capire come superare il [[Cloister]];
+- [ ] Segreto che alberto non ha detto perché è stronzo;
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
@@ -37,7 +38,7 @@ aliases:
 | X                     | [[X]]                    |
 | [[Security]]          | [[Monitor di Security]]  |
 | [[Locker Room]]       | [[Puzzle 'Six or zero']] |
-| [[Porte del sanctum]] | [[Realm and rune]]       |
+| [[Porte del sanctum]] | [[Realm and runes]]       |
 ## Documenti importanti
 | [[Giornale su Mary Jones]] |
 | -------------------------- |

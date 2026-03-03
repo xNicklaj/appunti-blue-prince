@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "a934cadbce87962d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stanze/Locker Room.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Locker Room"
-            }
-          },
-          {
             "id": "20be0196fda8e9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Cloister.md",
+                "file": "Stanze/Libreria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloister"
+              "title": "Libreria"
             }
           }
         ],
@@ -153,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Locker Room.md",
+                "file": "Stanze/Libreria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Locker Room"
+              "title": "Riferimenti a Libreria"
             }
           },
           {
@@ -201,27 +187,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a934cadbce87962d",
+  "active": "20be0196fda8e9b8",
   "lastOpenFiles": [
-    "index.md",
+    "Stanze/assets/Pasted image 20260303132020.png",
+    "Documenti/Biglietto Where is room 46.md",
+    "Documenti/Nota nel Freezer.md",
+    "Documenti/assets/Pasted image 20260303131407.png",
+    "Stanze/Stanza frigorifera.md",
+    "Documenti/Biglietto nel Cloister.md",
+    "Documenti/assets/Pasted image 20260303131005.png",
     "Stanze/Cloister.md",
+    "Libri/Realm and runes.md",
+    "Libri/assets/Pasted image 20260303130912.png",
+    "Libri/assets/Pasted image 20260303130846.png",
+    "Libri/assets/Pasted image 20260303130839.png",
+    "Libri/assets/Pasted image 20260303130831.png",
+    "Libri/assets/Pasted image 20260303130740.png",
+    "Libri/assets/Pasted image 20260303130731.png",
+    "Libri/assets/Pasted image 20260303130721.png",
+    "Libri/assets/Pasted image 20260303130712.png",
+    "index.md",
+    "Documenti/Documento miniera della porta rossa.md",
+    "Stanze/Locker Room.md",
     "Documenti/Giornale su Mary Jones.md",
-    "Stanze/assets/Pasted image 20260303124850.png",
     "Documenti/Nota con giornale.md",
     "Stanze/Dispensa.md",
     "Stanze/Acquario.md",
-    "Stanze/Locker Room.md",
-    "Stanze/assets/Pasted image 20260303122340.png",
     "Stanze/Trading Post.md",
-    "Stanze/assets/Pasted image 20260303121040.png",
     "Stanze/Shrine.md",
-    "Stanze/assets/Pasted image 20260303120438.png",
     "Mappa Visiva.canvas",
     "Stanze/Mechanarium.md",
-    "Stanze/assets/Pasted image 20260303115837.png",
     "Stanze/Stanza degli specchi.md",
     "Stanze/Stanza dei Giochi.md",
-    "Stanze/Stanza frigorifera.md",
     "Stanze/Torre dell'orologio.md",
     "Stanze/Vault.md",
     "Fazioni/Regno di Nuance.md",
@@ -229,16 +226,6 @@
     "Fazioni/Ruffington Press.md",
     "Fazioni/Synka Company.md",
     "Fazioni/The Children of Black Water.md",
-    "Fazioni/Regno di Eraja.md",
-    "Fazioni/Regno di Arch Aries.md",
-    "Fazioni/Reddington Herald.md",
-    "Fazioni/Red Guard.md",
-    "Timeline.md",
-    "Stanze/assets/Pasted image 20260303103259.png",
-    "Stanze/assets/Pasted image 20260303103241.png",
-    "Stanze/assets/Pasted image 20260303103217.png",
-    "Stanze/assets/Pasted image 20260303103159.png",
-    "Stanze/assets/Pasted image 20260303103136.png",
     "Senza nome.base",
     "Senza nome.canvas",
     "Untitled 1.base",
