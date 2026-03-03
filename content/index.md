@@ -23,7 +23,7 @@ aliases:
 - [ ] Capire quella parete strana al fondo del [[Basement]];
 - [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
 - [ ] Aprire le safe restanti: ([[Studio|Study]], [[Drafting Studio]], e...?);
-- [ 
+- [ ] Capire se effettivamente c'è altro nel [[Secret Garden]]? 
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |

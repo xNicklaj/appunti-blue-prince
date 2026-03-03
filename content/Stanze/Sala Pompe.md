@@ -13,3 +13,7 @@ Permette di togliere / mettere acqua a:
 - [[Fontana]]
 
 Vedi: [[Pump Room Schematic]]
+
+Energia aggiuntiva proveniente da [[Boiler Room]] permette di accedere ad un deposito d'acqua aggiuntivo.
+## Stanza
+![[Pasted image 20260303093551.png]]

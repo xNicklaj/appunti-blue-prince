@@ -7,3 +7,5 @@ Stanza stranamente vuota, che rappresenta un vicolo cieco. Non ha niente di spec
 
 ## Galleria
 ![[Pasted image 20260213122439.png]]
+## Stanza
+![[Pasted image 20260303094227.png]]

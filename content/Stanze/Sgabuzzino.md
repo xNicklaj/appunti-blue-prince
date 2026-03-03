@@ -8,3 +8,5 @@ aliases:
 Può contenere:
 - [[Pala]]
 - [[Chiave semplice]]
+## Stanza
+![[Pasted image 20260303094356.png]]
