@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Stanza 46.md",
+                "file": "Stanze/Stanza degli specchi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stanza 46"
+              "title": "Stanza degli specchi"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Stanza 46.md",
+                "file": "Stanze/Stanza degli specchi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Stanza 46"
+              "title": "Riferimenti a Stanza degli specchi"
             }
           },
           {
@@ -172,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stanze/Stanza 46.md",
+                "file": "Stanze/Stanza degli specchi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Stanza 46"
+              "title": "Collegamenti in uscita da Stanza degli specchi"
             }
           }
         ],
@@ -203,9 +203,14 @@
   },
   "active": "d88ca34308e84307",
   "lastOpenFiles": [
+    "Stanze/assets/Pasted image 20260303102911.png",
+    "Stanze/Secret Garden.md",
+    "Stanze/assets/Pasted image 20260303102823.png",
+    "Stanze/Stanza degli specchi.md",
+    "Stanze/Stanza da disegno.md",
+    "Stanze/Stanza 46.md",
     "index.md",
     "Fotografie/Ritratto 'Baronessa Auravei da anziana'.md",
-    "Stanze/Stanza 46.md",
     "Stanze/Sgabuzzino.md",
     "Stanze/assets/Pasted image 20260303094356.png",
     "Stanze/Security.md",
@@ -229,16 +234,11 @@
     "Stanze/Nook.md",
     "Stanze/Nuova miniera.md",
     "Stanze/Osservatorio.md",
-    "Stanze/Passaggio Segreto.md",
-    "Stanze/Piscina.md",
-    "Stanze/Posta.md",
-    "Stanze/Rifugio.md",
     "Stanze/assets/Pasted image 20260303093945.png",
     "Stanze/assets/Pasted image 20260303093551.png",
     "Stanze/assets/Pasted image 20260303093515.png",
     "Stanze/assets/Pasted image 20260303093413.png",
     "Stanze/assets/Pasted image 20260303093325.png",
-    "Stanze/assets/Pasted image 20260303093145.png",
     "Senza nome.base",
     "Senza nome.canvas",
     "Untitled 1.base",
