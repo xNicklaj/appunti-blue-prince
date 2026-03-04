@@ -35,7 +35,8 @@
               "title": "Lettere di Mary Epsen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
+                "file": "Lettere/Lettere di Mary Epsen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lettera 'Giro del mondo' - Fenn Aries"
+              "title": "Backlinks for Lettere di Mary Epsen"
             }
           },
           {
@@ -186,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ae050098b9ee94",
+  "active": "a52fcc16847a2aad",
   "lastOpenFiles": [
-    "Lettere/Lettera 'Giro del mondo' - Orinda Aries.md",
     "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
+    "Lettere/Lettera 'Giro del mondo' - Orinda Aries.md",
     "Lettere/Lettera 'Giro del mondo' - Corarica.md",
     "Lettere/assets/Pasted image 20260304171140.png",
     "Lettere/assets/Desktop Screenshot 2026.03.04 - 15.38.26.93.png",
