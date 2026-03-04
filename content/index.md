@@ -4,12 +4,10 @@ tags:
 aliases:
 ---
 ## To do
-- [ ] Far sciogliere giaccio nella [[Stanza frigorifera]]
+- [ ] Far sciogliere tutto il giaccio nella [[Stanza frigorifera]]
 - [ ] Sbloccare la combinazione a 4 cifre nell'[[Underpass]], dietro la porta rossa;
 - [ ] Trovare tutte le [[Classroom]];
 - [ ] Consegnare una lettera alla mail room tramite gli esperimenti del [[Laboratorio|Laboratory]];
-- [ ] Provare ad ri-entrare nella [[Stanza 46]]?
-- [ ] Capire come aprire le porte dietro alla leva nel [[Sanctum]];
 - [ ] Trovare i nomi dei quadri nella [[Galleria]];
 - [ ] Trovare il terzo chip di [[Blackbridge Grotto]];
 - [ ] Comprare [[A new clue]];
@@ -28,8 +26,9 @@ aliases:
 - [ ] Capire cosa fa il [[Trading Post]];
 - [ ] Capire se [[Nota della dispensa]] è un enigma?
 - [x] Capire come superare il [[Cloister]];
-- [ ] Spostare barca nell'[[Mappa dell'underground|Underground]];
+- [ ] Usare barca nell'[[Mappa dell'underground|Underground]];
 - [ ] Segreto che Alberto non ha detto perché è stronzo;
+- [ ] trovare tutte Sanctum key
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |

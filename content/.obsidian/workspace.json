@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
+                "file": "Libri/The Curse of Black Bridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lettera 'Giro del mondo' - Fenn Aries"
+              "title": "The Curse of Black Bridge"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Lettere di Mary Epsen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettere/Lettere di Mary Epsen.md",
+                "file": "Libri/The Curse of Black Bridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Lettere di Mary Epsen"
+              "title": "Riferimenti a The Curse of Black Bridge"
             }
           },
           {
@@ -187,45 +186,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a52fcc16847a2aad",
+  "active": "47ae050098b9ee94",
   "lastOpenFiles": [
+    "Libri/assets/Pasted image 20260304191803.png",
+    "Libri/assets/Pasted image 20260304191631.png",
+    "Libri/assets/Pasted image 20260304191453.png",
+    "Libri/assets/Pasted image 20260304191447.png",
+    "Libri/assets/Pasted image 20260304191357.png",
+    "Libri/assets/Pasted image 20260304191350.png",
+    "Stanze/Stanza 46.md",
+    "Libri/The Curse of Black Bridge.md",
+    "Stanze/assets/Pasted image 20260304191315.png",
+    "Stanze/assets/Pasted image 20260304191309.png",
+    "Stanze/assets/Pasted image 20260304191259.png",
+    "Stanze/assets/Pasted image 20260304191247.png",
+    "Stanze/Foyer.md",
+    "Stanze/assets/Pasted image 20260304191202.png",
+    "Stanze/Sactum.md",
     "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
+    "Immagini/Mappa del mondo.md",
+    "Immagini/Leve dell'anticamera.md",
+    "Immagini/Lavagna dello studio.md",
+    "Immagini/Disegno 'Security'.md",
+    "Immagini/Disegno 'Cravatta'.md",
+    "Immagini/Disegno 'Lampada'.md",
+    "Lettere/Lettera Rossa VIII.md",
+    "Lettere/Lettere di Mary Epsen.md",
+    "Lettere/Email 'accesso al freezer'.md",
+    "Documenti/Nota sulle leve dell'anticamera.md",
+    "index.md",
     "Lettere/Lettera 'Giro del mondo' - Orinda Aries.md",
     "Lettere/Lettera 'Giro del mondo' - Corarica.md",
-    "Lettere/assets/Pasted image 20260304171140.png",
-    "Lettere/assets/Desktop Screenshot 2026.03.04 - 15.38.26.93.png",
     "Documenti/Nota di ricatto.md",
-    "Documenti/assets/Pasted image 20260304170925.png",
-    "Documenti/assets/Blue Prince Screenshot 2026.03.04 - 15.54.15.33.png",
     "Documenti/Nota sulle chiavi del sanctum.md",
-    "Documenti/assets/Pasted image 20260304170708.png",
-    "Documenti/assets/Pasted image 20260304170556.png",
     "Libri/La Storia di Orindia Prima Versione.md",
     "Libri/Realm and runes.md",
-    "Lettere/Lettere di Mary Epsen.md",
     "Documenti/Giornale 'A new clue'.md",
     "Timeline.md",
-    "Lettere/Lettera Rossa VIII.md",
     "Lettere/Lettera Rossa VII.md",
-    "Lettere/Lettera Rossa IV.md",
-    "Lettere/Lettera per Simon sulle tradizioni.md",
-    "Lettere/Lettera del Ruffington Press su Red Prince.md",
-    "Lettere/Email 'ulteriore richiesta'.md",
-    "Lettere/Email 'email elettroniche'.md",
-    "Lettere/Email 'cambiamenti della villa'.md",
-    "Lettere/Email 'accesso al freezer'.md",
-    "Immagini/Ritratto 'Vecchio'.md",
-    "Immagini/Mappa dell'underground.md",
-    "Immagini/Disegno 'Lampada'.md",
-    "Immagini/Disegno 'Cravatta'.md",
-    "Immagini/Cartolina 'Greetings from Reddington'.md",
-    "Immagini/Albero genealogico.md",
-    "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
     "Mappa Visiva.canvas",
-    "Stanze/assets/Pasted image 20260303103259.png",
-    "Stanze/assets/Pasted image 20260303103241.png",
-    "Stanze/assets/Pasted image 20260303103217.png",
-    "Stanze/assets/Pasted image 20260303103159.png",
     "Senza nome.base",
     "Senza nome.canvas",
     "Untitled 1.base",
