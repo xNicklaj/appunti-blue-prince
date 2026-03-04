@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libri/La Storia di Orindia Prima Versione.md",
+                "file": "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Storia di Orindia Prima Versione"
+              "title": "Lettera 'Giro del mondo' - Fenn Aries"
             }
           },
           {
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 370.5
   },
   "right": {
     "id": "9ebb3772d687ac75",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libri/La Storia di Orindia Prima Versione.md",
+                "file": "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for La Storia di Orindia Prima Versione"
+              "title": "Backlinks for Lettera 'Giro del mondo' - Fenn Aries"
             }
           },
           {
@@ -188,6 +188,18 @@
   },
   "active": "47ae050098b9ee94",
   "lastOpenFiles": [
+    "Lettere/Lettera 'Giro del mondo' - Orinda Aries.md",
+    "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
+    "Lettere/Lettera 'Giro del mondo' - Corarica.md",
+    "Lettere/assets/Pasted image 20260304171140.png",
+    "Lettere/assets/Desktop Screenshot 2026.03.04 - 15.38.26.93.png",
+    "Documenti/Nota di ricatto.md",
+    "Documenti/assets/Pasted image 20260304170925.png",
+    "Documenti/assets/Blue Prince Screenshot 2026.03.04 - 15.54.15.33.png",
+    "Documenti/Nota sulle chiavi del sanctum.md",
+    "Documenti/assets/Pasted image 20260304170708.png",
+    "Documenti/assets/Pasted image 20260304170556.png",
+    "Libri/La Storia di Orindia Prima Versione.md",
     "Libri/Realm and runes.md",
     "Lettere/Lettere di Mary Epsen.md",
     "Documenti/Giornale 'A new clue'.md",
@@ -208,23 +220,11 @@
     "Immagini/Cartolina 'Greetings from Reddington'.md",
     "Immagini/Albero genealogico.md",
     "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
-    "Fotografie/Ritratto 'Baronessa Auravei da anziana'.md",
-    "Fotografie/Fotografie della Camera Oscura..md",
-    "Fotografie/Fotografia 'Uomo con messaggio'.md",
-    "Fotografie/Fotografia 'Tomas Sinclair'.md",
-    "Fotografie/Fotografia 'Servitù'.md",
-    "Fotografie/Fotografia 'Mary Epsen'.md",
     "Mappa Visiva.canvas",
     "Stanze/assets/Pasted image 20260303103259.png",
     "Stanze/assets/Pasted image 20260303103241.png",
     "Stanze/assets/Pasted image 20260303103217.png",
     "Stanze/assets/Pasted image 20260303103159.png",
-    "Stanze/assets/Pasted image 20260303103136.png",
-    "Stanze/assets/Pasted image 20260303103118.png",
-    "Stanze/assets/Pasted image 20260303103059.png",
-    "Stanze/assets/Pasted image 20260303103040.png",
-    "Stanze/assets/Pasted image 20260303103020.png",
-    "Stanze/assets/Pasted image 20260303102950.png",
     "Senza nome.base",
     "Senza nome.canvas",
     "Untitled 1.base",
