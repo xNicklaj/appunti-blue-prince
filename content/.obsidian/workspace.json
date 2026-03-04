@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Documenti/Biglietto della crepa nel muro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Biglietto della crepa nel muro"
             }
           },
           {
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Documenti/Biglietto della crepa nel muro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a index"
+              "title": "Riferimenti a Biglietto della crepa nel muro"
             }
           },
           {
@@ -188,7 +188,33 @@
   },
   "active": "47ae050098b9ee94",
   "lastOpenFiles": [
-    "Libri/The Curse of Black Bridge.md",
+    "Documenti/Biglietto 'The Great Hall'.md",
+    "Documenti/Biglietto della crepa nel muro.md",
+    "Documenti/Biglietto Where is room 46.md",
+    "Documenti/Biglietto nel Cloister.md",
+    "Oggetti/Monete.md",
+    "Documenti/Nota cestinata.md",
+    "Documenti/Nota con giornale.md",
+    "Documenti/Lettera incompleta.md",
+    "Documenti/Lettera di terminazione.md",
+    "Documenti/Giornale 'A new clue'.md",
+    "Documenti/Foreman's Log 228.md",
+    "Documenti/Foreman's Log 3.md",
+    "Documenti/Documento miniera della porta rossa.md",
+    "Documenti/Documento di commissione per i quadri.md",
+    "Documenti/Documento della miniera di gemme.md",
+    "Documenti/Documento della classe.md",
+    "Documenti/Calendario del drafting study.md",
+    "Documenti/Admin Logs.md",
+    "Documenti/Tessera 'Hundred Bells'.md",
+    "Documenti/Tavola Periodica.md",
+    "Documenti/Synka Company Customer's Copy..md",
+    "Documenti/Spartito Musicale.md",
+    "Documenti/Poesia 'Rosa dei venti'.md",
+    "Documenti/Nota sulle leve dell'anticamera.md",
+    "Documenti/Nota sulle chiavi del sanctum.md",
+    "Documenti/Nota sul foundation elevator.md",
+    "Immagini/assets/Pasted image 20260304202133.png",
     "Libri/assets/Pasted image 20260304195459.png",
     "Libri/assets/Pasted image 20260304194927.png",
     "Libri/assets/Pasted image 20260304194752.png",
@@ -198,31 +224,6 @@
     "Libri/assets/Pasted image 20260304194225.png",
     "Libri/assets/Pasted image 20260304194110.png",
     "Libri/assets/Pasted image 20260304193926.png",
-    "Libri/assets/Pasted image 20260304193830.png",
-    "Stanze/Stanza 46.md",
-    "Stanze/Foyer.md",
-    "Stanze/Sactum.md",
-    "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
-    "Immagini/Mappa del mondo.md",
-    "Immagini/Leve dell'anticamera.md",
-    "Immagini/Lavagna dello studio.md",
-    "Immagini/Disegno 'Security'.md",
-    "Immagini/Disegno 'Cravatta'.md",
-    "Immagini/Disegno 'Lampada'.md",
-    "Lettere/Lettera Rossa VIII.md",
-    "Lettere/Lettere di Mary Epsen.md",
-    "Lettere/Email 'accesso al freezer'.md",
-    "Documenti/Nota sulle leve dell'anticamera.md",
-    "index.md",
-    "Lettere/Lettera 'Giro del mondo' - Orinda Aries.md",
-    "Lettere/Lettera 'Giro del mondo' - Corarica.md",
-    "Documenti/Nota di ricatto.md",
-    "Documenti/Nota sulle chiavi del sanctum.md",
-    "Libri/La Storia di Orindia Prima Versione.md",
-    "Libri/Realm and runes.md",
-    "Documenti/Giornale 'A new clue'.md",
-    "Timeline.md",
-    "Lettere/Lettera Rossa VII.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",
