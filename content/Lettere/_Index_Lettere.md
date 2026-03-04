@@ -15,6 +15,8 @@
  [[Lettere/Lettera 'Giro del mondo' - Orinda Aries|Lettera 'Giro del mondo' - Orinda Aries]]
  [[Lettere/Lettera da Daniel Jones|Lettera da Daniel Jones]]
  [[Lettere/Lettera del Ruffington Press su Red Prince|Lettera del Ruffington Press su Red Prince]]
+ [[Lettere/Lettera di Mary|Lettera di Mary]]
+ [[Lettere/Lettera nascosta di Clara Epsen|Lettera nascosta di Clara Epsen]]
  [[Lettere/Lettera per Simon sulle tradizioni|Lettera per Simon sulle tradizioni]]
  [[Lettere/Lettera Rossa IV|Lettera Rossa IV]]
  [[Lettere/Lettera Rossa VII|Lettera Rossa VII]]
