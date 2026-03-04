@@ -8,3 +8,5 @@ aliases:
 Se le viene data energia con la [[Boiler Room]] produce una chiave.
 
 Riscalda le stanze a fianco, ad esempio la [[Stanza frigorifera]]
+## Stanza
+![[Pasted image 20260303092552.png]]

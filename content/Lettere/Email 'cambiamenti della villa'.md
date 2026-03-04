@@ -4,6 +4,8 @@ tags:
   - Email
 aliases:
 ---
+Email trovata in [[Ufficio|Office]]
+## Trascrizione
 
 > DATE: OCT. 7 1993
 >

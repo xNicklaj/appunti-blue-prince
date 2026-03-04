@@ -13,3 +13,5 @@ Contiene una pedina degli scacchi.
 - Contiene 7 orologi sincronizzati.
 - Contiene l'unico orologio a pendolo che non pendola di tutta la casa.
 - Presenta pedine normali.
+## Stanza
+![[Pasted image 20260303090843.png]]

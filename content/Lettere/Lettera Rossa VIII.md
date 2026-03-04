@@ -3,11 +3,12 @@ tags:
   - Documento
   - Lettera
 aliases:
-  - Lettera Rossa VIII
 ---
+Lettera rossa trovata nella [[Cassaforte dell'Ufficio]].
 ## Galleria
-![[Pasted image 20260224170103.png|650]]
-![[Pasted image 20260224170257.png|650]]
-![[Pasted image 20260224170632.png|675]]
-![[Pasted image 20260224170747.png|675]]
-![[Pasted image 20260224170912.png|675]]
+![[Pasted image 20260303014143.png|600]]
+![[Pasted image 20260303014207.png|600]]
+![[Pasted image 20260303014219.png|575]]
+![[Pasted image 20260303014237.png|575]]
+![[Pasted image 20260303014252.png|550]]
+![[Pasted image 20260303014308.png|550]]

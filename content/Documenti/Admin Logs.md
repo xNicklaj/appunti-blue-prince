@@ -9,7 +9,6 @@ aliases:
 ![[Pasted image 20260302230549.png|700]]
 ![[Pasted image 20260302230559.png|700]]
 ![[Pasted image 20260302230612.png|700]]
-![[Pasted image 20260302230630.png|700]]
 ![[Pasted image 20260302230641.png|700]]
 ![[Pasted image 20260302230653.png|700]]
 ![[Pasted image 20260302230706.png|700]]

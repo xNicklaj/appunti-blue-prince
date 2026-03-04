@@ -4,6 +4,9 @@ tags:
   - Email
 aliases:
 ---
+
+## Trascrizione
+
 > DATE: OCT. 8 1993
 >
 > Gabe - YES - that is the correct functionality.

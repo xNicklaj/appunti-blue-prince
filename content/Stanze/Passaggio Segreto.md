@@ -10,4 +10,5 @@ Collega ad una stanza di un determinato colore.
 
 ## Estetica
 Piena di libri.
-
+## Stanza
+![[Pasted image 20260303093004.png]]

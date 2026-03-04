@@ -9,3 +9,5 @@ Qui dentro si trova il [[Giornale su Mary Jones]].
 
 ## Gameplay
 Ha tre uscite, ma una volta draftato nasconde per il resto della run una delle tre opzioni di drafting.
+## Stanza
+![[Pasted image 20260303091028.png]]

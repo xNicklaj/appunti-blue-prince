@@ -58,6 +58,7 @@
     "iconName": "LiAudioLines",
     "iconColor": "#af49df"
   },
+  "Daily Notes": "LiNotebookPen",
   "Materie/Game Design & Game Thinking": "🎮",
   "Materie/Sistemi Elettronici": {
     "iconName": "FasMicrochip",
@@ -111,7 +112,6 @@
   "Stanze": "LiHouse",
   "Eventi": "FasFire",
   "Fazioni": "FasPersonMilitaryRifle",
-  "Giorni": "LiCalendar",
   "Immagini": "LiImage",
   "Interagibili": "LiSquareFunction",
   "Quadri": "FasPaintbrush",

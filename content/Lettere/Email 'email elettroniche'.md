@@ -5,6 +5,7 @@ tags:
 aliases:
 ---
 Email trovata nel [[Rifugio]].
+## Trascrizione
 
 > Yes, and don't worry - this communication method is fully secure. 
 > I am the only lab technician with network access and the only one who uses this terminal.

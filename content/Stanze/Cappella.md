@@ -17,10 +17,12 @@ Contiene un alfiere.
   ![[Pasted image 20260205225713.png]]
 - Figura IV: Vestito nero, spazzacamino
   ![[Pasted image 20260205225806.png]]
-- Figura V: Vestito grigiolino con scopa
+- Figura V: [[Mila]]
   ![[Pasted image 20260205225827.png]]
 - Figura VI: Giacca rossa, cavallerizza.
   ![[Pasted image 20260205225757.png]]
 - Figura VII: [[Orinda]]
   ![[Pasted image 20260205225836.png]]
 Presenta anche un'alfiere.
+## Stanza
+![[Pasted image 20260303092138.png]]

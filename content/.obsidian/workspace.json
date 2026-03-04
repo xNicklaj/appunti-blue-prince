@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a0c4fde0697a9e5a",
+        "id": "a00412bc2cd1ede7",
         "type": "tabs",
         "children": [
           {
-            "id": "d8544287eddd38f5",
+            "id": "aad13607d64fba29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -124,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a index"
+              "title": "Backlinks"
             }
           },
           {
@@ -143,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Stanze/Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da index"
+              "title": "Collegamenti in uscita da Vault"
             }
           }
         ],
@@ -160,58 +155,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8544287eddd38f5",
+  "active": "aad13607d64fba29",
   "lastOpenFiles": [
-    "Stanze/Stanza frigorifera.md",
-    "Stanze/Stanza degli ospiti.md",
-    "Stanze/Stanza dei Giochi.md",
-    "Stanze/Fornace.md",
-    "Stanze/Sala Pompe.md",
-    "Stanze/Tomba.md",
-    "Stanze/Torre dell'orologio.md",
-    "Stanze/Vault.md",
-    "Stanze/Ufficio.md",
-    "Stanze/Acquario.md",
-    "index.md",
-    "Stanze/_Index_Stanze.md",
-    "Senza nome.md",
-    "_Index_content.md",
-    "conflict-files-obsidian-git.md",
+    "Documenti/Giornale 'A new clue'.md",
+    "Timeline.md",
+    "Lettere/Lettera Rossa VIII.md",
+    "Lettere/Lettera Rossa VII.md",
+    "Lettere/Lettera Rossa IV.md",
+    "Lettere/Lettere di Mary Epsen.md",
+    "Lettere/Lettera per Simon sulle tradizioni.md",
+    "Lettere/Lettera del Ruffington Press su Red Prince.md",
+    "Lettere/Email 'ulteriore richiesta'.md",
+    "Lettere/Email 'email elettroniche'.md",
+    "Lettere/Email 'cambiamenti della villa'.md",
+    "Lettere/Email 'accesso al freezer'.md",
+    "Immagini/Ritratto 'Vecchio'.md",
+    "Immagini/Mappa dell'underground.md",
+    "Immagini/Disegno 'Lampada'.md",
+    "Immagini/Disegno 'Cravatta'.md",
+    "Immagini/Cartolina 'Greetings from Reddington'.md",
+    "Immagini/Albero genealogico.md",
+    "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
+    "Fotografie/Ritratto 'Baronessa Auravei da anziana'.md",
+    "Fotografie/Fotografie della Camera Oscura..md",
+    "Fotografie/Fotografia 'Uomo con messaggio'.md",
+    "Fotografie/Fotografia 'Tomas Sinclair'.md",
+    "Fotografie/Fotografia 'Servitù'.md",
+    "Fotografie/Fotografia 'Mary Epsen'.md",
+    "Fotografie/Fotografia 'Manning e White'.md",
+    "Mappa Visiva.canvas",
+    "Stanze/assets/Pasted image 20260303103259.png",
+    "Stanze/assets/Pasted image 20260303103241.png",
+    "Stanze/assets/Pasted image 20260303103217.png",
+    "Stanze/assets/Pasted image 20260303103159.png",
+    "Stanze/assets/Pasted image 20260303103136.png",
+    "Stanze/assets/Pasted image 20260303103118.png",
+    "Stanze/assets/Pasted image 20260303103059.png",
+    "Stanze/assets/Pasted image 20260303103040.png",
+    "Stanze/assets/Pasted image 20260303103020.png",
+    "Stanze/assets/Pasted image 20260303102950.png",
     "Senza nome.base",
     "Senza nome.canvas",
-    "Puzzle/Pump Room Schematic.md",
-    "Documenti/Admin Logs.md",
-    "Documenti/assets/Pasted image 20260302230833.png",
-    "Documenti/assets/Pasted image 20260302230819.png",
-    "Documenti/assets/Pasted image 20260302230810.png",
-    "Documenti/assets/Pasted image 20260302230800.png",
-    "Documenti/assets/Pasted image 20260302230750.png",
-    "Documenti/assets/Pasted image 20260302230741.png",
-    "Documenti/assets/Pasted image 20260302230731.png",
-    "Documenti/assets/Pasted image 20260302230706.png",
-    "Documenti/assets/Pasted image 20260302230653.png",
-    "Documenti/assets/Pasted image 20260302230641.png",
-    "Documenti/Certificato di nascita.md",
-    "Lettere/Lettera 'Giro del mondo'.md",
-    "Libri/Realm and rune.md",
-    "Lettere/Email 'email elettroniche'.md",
-    "Lettere/Email 'stay put'.md",
-    "Lettere/Email 'la situazione'.md",
-    "Lettere/Email 'accesso al freezer'.md",
-    "Lettere/Email 'precauzioni'.md",
-    "Libri/La Storia di Orindia Prima Versione.md",
     "Untitled 1.base",
     "Daily Notes",
     "Untitled.base",
@@ -221,7 +217,6 @@
     "Libri",
     "Lettere/assets",
     "Lettere",
-    "Mappa Visiva.canvas",
     "TMPTutorialCanvas.canvas",
     "Materie/Game Design & Game Thinking/Appunti Visivi.canvas",
     "Materie/Game Design & Game Thinking/Untitled.canvas",

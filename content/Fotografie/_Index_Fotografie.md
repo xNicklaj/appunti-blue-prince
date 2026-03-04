@@ -6,7 +6,7 @@
  [[Fotografie/Fotografia 'Manning e White'|Fotografia 'Manning e White']]
  [[Fotografie/Fotografia 'Mary Epsen'|Fotografia 'Mary Epsen']]
  [[Fotografie/Fotografia 'Servitù'|Fotografia 'Servitù']]
- [[Fotografie/Fotografia 'Thomas Sinclair'|Fotografia 'Thomas Sinclair']]
+ [[Fotografie/Fotografia 'Tomas Sinclair'|Fotografia 'Tomas Sinclair']]
  [[Fotografie/Fotografia 'Uomo con messaggio'|Fotografia 'Uomo con messaggio']]
  [[Fotografie/Fotografie della Camera Oscura.|Fotografie della Camera Oscura.]]
  [[Fotografie/Ritratto 'Baronessa Auravei da anziana'|Ritratto 'Baronessa Auravei da anziana']]

@@ -4,21 +4,32 @@ tags:
 aliases:
 ---
 ## To do
-- [ ] Far sciogliere giaccio nella [[Stanza frigorifera]];
-- [ ] Sbloccare la combinazione a 4 cifre oltre la [[red door]] nel [[seminterrato]];
+- [ ] Far sciogliere giaccio nella [[Stanza frigorifera]]
+- [ ] Sbloccare la combinazione a 4 cifre nell'[[Underpass]], dietro la porta rossa;
 - [ ] Trovare tutte le [[Classroom]];
+- [ ] Consegnare una lettera alla mail room tramite gli esperimenti del [[Laboratorio|Laboratory]];
 - [ ] Provare ad ri-entrare nella [[Stanza 46]]?
-- [ ] Capire come aprire le porte dietro alla leva nell'[[underground]];
+- [ ] Capire come aprire le porte dietro alla leva nel [[Sanctum]];
 - [ ] Trovare i nomi dei quadri nella [[Galleria]];
-- [ ] Trovare il terzo Chip di [[Blackbridge Grotto]];
-- [ ] Comprare [[Giornale 'A new clue']];
-- [ ] Aprire la porta dell'[[underground]] sotto la fontana;
-- [ ] Capire come rimuovere l'acqua e quanta rimuoverne nel [[Reservoir]];
+- [ ] Trovare il terzo chip di [[Blackbridge Grotto]];
+- [ ] Comprare [[A new clue]];
+- [ ] Aprire la porta dell'[[Underground]] sotto la fontana;
+- [ ] Capire come rimuovere l'acqua e quanta rimuoverne nella [[Riserva]];
 - [ ] Esaminare tutte le scritte con la lente di ingrandimento;
-- [ ] Accendere candele nell'[[underground]];
-- [ ] Aprire tutte le casse nel [[Reservoir]];
+- [ ] Accendere candele nella torch room in[[Mappa dell'underground|Underground]];
+- [ ] Aprire tutte le casse nella [[Riserva]]
 - [ ] Capire come utilizzare il martello potenziato;
-
+- [ ] Capire come abbassare la ruota dentata nell'[[Mappa dell'underground|Underground]] passando per il [[Basement]]
+- [ ] Capire quella parete strana al fondo del [[Basement]];
+- [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
+- [ ] Aprire e capire le safe restanti: ([[Studio|Study]], [[Drafting Studio]], e...?);
+- [ ] Capire se effettivamente c'è altro nel [[Secret Garden]]?
+- [ ] Capire se lo [[Shrine]] fa altro?
+- [ ] Capire cosa fa il [[Trading Post]];
+- [ ] Capire se [[Nota della dispensa]] è un enigma?
+- [x] Capire come superare il [[Cloister]];
+- [ ] Spostare barca nell'[[Mappa dell'underground|Underground]];
+- [ ] Segreto che Alberto non ha detto perché è stronzo;
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
@@ -28,7 +39,7 @@ aliases:
 | X                     | [[X]]                    |
 | [[Security]]          | [[Monitor di Security]]  |
 | [[Locker Room]]       | [[Puzzle 'Six or zero']] |
-| [[Porte del sanctum]] | [[Realm and rune]]       |
+| [[Porte del sanctum]] | [[Realm and runes]]       |
 ## Documenti importanti
 | [[Giornale su Mary Jones]] |
 | -------------------------- |

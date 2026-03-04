@@ -13,3 +13,5 @@ Possibili oggetti:
 Si può interagire col rubinetto, ma non eroga acqua.
 ## Estetica
 Presenta un pendolo che segna l'una e mezza.
+## Stanza
+![[Pasted image 20260303092405.png]]

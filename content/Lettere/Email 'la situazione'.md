@@ -6,6 +6,8 @@ aliases:
 ---
 Email trovate nel [[Rifugio]].
 
+## Trascrizione
+
 >In terms of area, there's not nearly as much room here as I remembered from my youth. 
 >If it was just me, I wouldn't mind, but with four of us and the space we are going to need for planning I don't expect this to be a sustainable situation for more than a week. 
 >A fortnight at best.

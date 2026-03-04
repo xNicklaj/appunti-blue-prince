@@ -14,3 +14,5 @@ Questa stanza presenta un negozio.
 ![[Pasted image 20260206000852.png|400]]
 ## Oggetti e interagibili
 - [[Nota per il personale]]
+## Stanza
+![[Pasted image 20260303092246.png]]
