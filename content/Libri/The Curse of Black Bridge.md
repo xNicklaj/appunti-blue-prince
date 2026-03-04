@@ -8,3 +8,6 @@ aliases:
 ![[Pasted image 20260304191447.png]]
 ![[Pasted image 20260304191453.png]]
 ![[Pasted image 20260304191631.png]]![[Pasted image 20260304191803.png]]
+![[Pasted image 20260304192211.png]]
+![[Pasted image 20260304192219.png]]
+![[Pasted image 20260304192358.png]]
