@@ -7,17 +7,17 @@ aliases:
 - [ ] Far sciogliere tutto il giaccio nella [[Stanza frigorifera]]
 - [ ] Sbloccare la combinazione a 4 cifre nell'[[Underpass]], dietro la porta rossa;
 - [ ] Trovare tutte le [[Classroom]];
-- [ ] Consegnare una lettera alla mail room tramite gli esperimenti del [[Laboratorio|Laboratory]];
-- [ ] Trovare i nomi dei quadri nella [[Galleria]];
+- [x] Consegnare una lettera alla mail room tramite gli esperimenti del [[Laboratorio|Laboratory]];
+- [x] Trovare i nomi dei quadri nella [[Galleria]];
 - [ ] Trovare il terzo chip di [[Blackbridge Grotto]];
 - [ ] Comprare [[A new clue]];
 - [ ] Aprire la porta dell'[[Underground]] sotto la fontana;
-- [ ] Capire come rimuovere l'acqua e quanta rimuoverne nella [[Riserva]];
+- [x] Capire come rimuovere l'acqua e quanta rimuoverne nella [[Riserva]];
 - [ ] Esaminare tutte le scritte con la lente di ingrandimento;
-- [ ] Accendere candele nella torch room in[[Mappa dell'underground|Underground]];
+- [x] Accendere candele nella torch room in[[Mappa dell'underground|Underground]];
 - [ ] Aprire tutte le casse nella [[Riserva]]
 - [ ] Capire come utilizzare il martello potenziato;
-- [ ] Capire come abbassare la ruota dentata nell'[[Mappa dell'underground|Underground]] passando per il [[Basement]]
+- [x] Capire come abbassare la ruota dentata nell'[[Mappa dell'underground|Underground]] passando per il [[Basement]]
 - [ ] Capire quella parete strana al fondo del [[Basement]];
 - [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
 - [ ] Aprire e capire le safe restanti: ([[Studio|Study]], [[Drafting Studio]], e...?);
@@ -26,7 +26,7 @@ aliases:
 - [ ] Capire cosa fa il [[Trading Post]];
 - [ ] Capire se [[Nota della dispensa]] è un enigma?
 - [x] Capire come superare il [[Cloister]];
-- [ ] Usare barca nell'[[Mappa dell'underground|Underground]];
+- [x] Usare barca nell'[[Mappa dell'underground|Underground]];
 - [ ] Segreto che Alberto non ha detto perché è stronzo;
 - [ ] trovare tutte Sanctum key
 - [ ] fare i trofei per ottenere la blue tent
