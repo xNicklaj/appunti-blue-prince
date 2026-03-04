@@ -34,6 +34,7 @@
  [[Stanze/Posta|Posta]]
  [[Stanze/Rifugio|Rifugio]]
  [[Stanze/Sactum|Sactum]]
+ [[Stanze/Safehouse|Safehouse]]
  [[Stanze/Sala da biliardo|Sala da biliardo]]
  [[Stanze/Sala da disegno|Sala da disegno]]
  [[Stanze/Sala da pranzo|Sala da pranzo]]

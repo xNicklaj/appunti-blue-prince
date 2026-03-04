@@ -29,6 +29,7 @@ aliases:
 - [ ] Usare barca nell'[[Mappa dell'underground|Underground]];
 - [ ] Segreto che Alberto non ha detto perché è stronzo;
 - [ ] trovare tutte Sanctum key
+- [ ] fare i trofei per ottenere la blue tent
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
