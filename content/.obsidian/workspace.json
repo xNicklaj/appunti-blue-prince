@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a00412bc2cd1ede7",
+        "id": "f092199684a6914a",
         "type": "tabs",
         "children": [
           {
-            "id": "aad13607d64fba29",
+            "id": "47ae050098b9ee94",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aad13607d64fba29",
+  "active": "47ae050098b9ee94",
   "lastOpenFiles": [
     "Documenti/Giornale 'A new clue'.md",
     "Timeline.md",
