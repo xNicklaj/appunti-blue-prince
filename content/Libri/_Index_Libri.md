@@ -2,6 +2,7 @@
  [[Libri/A new clue|A new clue]]
  [[Libri/A Sightseer's Guide To Reddington|A Sightseer's Guide To Reddington]]
  [[Libri/assets/_Index_assets|_Index_assets]]
+ [[Libri/Drafting Strategies Vol. 2|Drafting Strategies Vol. 2]]
  [[Libri/Drafting Strategy Vol. 1|Drafting Strategy Vol. 1]]
  [[Libri/Drafting Strategy Vol. 3|Drafting Strategy Vol. 3]]
  [[Libri/La Storia di Orindia Prima Versione|La Storia di Orindia Prima Versione]]

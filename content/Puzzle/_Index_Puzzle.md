@@ -8,6 +8,7 @@
  [[Puzzle/Matematica dei colori|Matematica dei colori]]
  [[Puzzle/Messaggio dei quadri|Messaggio dei quadri]]
  [[Puzzle/Monitor di Security|Monitor di Security]]
+ [[Puzzle/Muri rompibili|Muri rompibili]]
  [[Puzzle/Porte del sanctum|Porte del sanctum]]
  [[Puzzle/Pump Room Schematic|Pump Room Schematic]]
  [[Puzzle/Puzzle 'Sala da Biliardo'|Puzzle 'Sala da Biliardo']]

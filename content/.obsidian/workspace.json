@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a00412bc2cd1ede7",
+        "id": "8d6d0bcefd84da4d",
         "type": "tabs",
         "children": [
           {
-            "id": "aad13607d64fba29",
+            "id": "5c42599a9a888152",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -167,8 +172,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aad13607d64fba29",
+  "active": "5c42599a9a888152",
   "lastOpenFiles": [
+    "Documenti/Messaggio segreto della libreria.md",
+    "Documenti/assets/Pasted image 20260304085633.png",
+    "Documenti/Nota nel Freezer.md",
+    "Puzzle/Muri rompibili.md",
+    "Puzzle/assets/Pasted image 20260304085303.png",
+    "Puzzle/assets/Pasted image 20260304085234.png",
+    "Libri/Drafting Strategies Vol. 2.md",
+    "Fotografie/Fotografie della Camera Oscura..md",
+    "Fotografie/assets/Pasted image 20260304085002.png",
+    "Libri/assets/Pasted image 20260304084911.png",
+    "Libri/assets/Pasted image 20260304084904.png",
+    "Libri/assets/Pasted image 20260304084858.png",
+    "Libri/assets/Pasted image 20260304084848.png",
+    "Libri/assets/Pasted image 20260304084842.png",
+    "Libri/assets/Pasted image 20260304084838.png",
     "Documenti/Giornale 'A new clue'.md",
     "Timeline.md",
     "Lettere/Lettera Rossa VIII.md",
@@ -189,23 +209,7 @@
     "Immagini/Albero genealogico.md",
     "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
     "Fotografie/Ritratto 'Baronessa Auravei da anziana'.md",
-    "Fotografie/Fotografie della Camera Oscura..md",
-    "Fotografie/Fotografia 'Uomo con messaggio'.md",
-    "Fotografie/Fotografia 'Tomas Sinclair'.md",
-    "Fotografie/Fotografia 'Servitù'.md",
-    "Fotografie/Fotografia 'Mary Epsen'.md",
-    "Fotografie/Fotografia 'Manning e White'.md",
     "Mappa Visiva.canvas",
-    "Stanze/assets/Pasted image 20260303103259.png",
-    "Stanze/assets/Pasted image 20260303103241.png",
-    "Stanze/assets/Pasted image 20260303103217.png",
-    "Stanze/assets/Pasted image 20260303103159.png",
-    "Stanze/assets/Pasted image 20260303103136.png",
-    "Stanze/assets/Pasted image 20260303103118.png",
-    "Stanze/assets/Pasted image 20260303103059.png",
-    "Stanze/assets/Pasted image 20260303103040.png",
-    "Stanze/assets/Pasted image 20260303103020.png",
-    "Stanze/assets/Pasted image 20260303102950.png",
     "Senza nome.base",
     "Senza nome.canvas",
     "Untitled 1.base",
