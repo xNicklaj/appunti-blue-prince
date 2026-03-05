@@ -8,27 +8,27 @@ aliases:
 - [ ] Sbloccare la combinazione a 4 cifre nell'[[Underpass]], dietro la porta rossa;
 - [ ] Trovare tutte le [[Classroom]];
 - [x] Consegnare una lettera alla mail room tramite gli esperimenti del [[Laboratorio|Laboratory]];
-- [ ] Provare a rientrare nella [[Stanza 46]]?
-- [ ] Capire come aprire le porte dietro alla leva nel [[Sanctum]];
+- [x] Provare a rientrare nella [[Stanza 46]]?
+- [x] Capire come aprire le porte dietro alla leva nel [[Sanctum]];
 - [x] Trovare i nomi dei quadri nella [[Galleria]];
 - [ ] Trovare il terzo chip di [[Blackbridge Grotto]];
-- [ ] Comprare [[A new clue]];
+- [x] Comprare [[A new clue]];
 - [ ] Aprire la porta dell'[[Underground]] sotto la fontana;
-- [ ] Capire come rimuovere l'acqua e quanta rimuoverne nella [[Riserva]];
+- [x] Capire come rimuovere l'acqua e quanta rimuoverne nella [[Riserva]];
 - [ ] Esaminare tutte le scritte con la lente di ingrandimento;
-- [ ] Accendere candele nella torch room in[[Mappa dell'underground|Underground]];
+- [x] Accendere candele nella torch room in[[Mappa dell'underground|Underground]];
 - [ ] Aprire tutte le casse nella [[Riserva]]
 - [ ] Capire come utilizzare il martello potenziato;
-- [ ] Capire come abbassare la ruota dentata nell'[[Mappa dell'underground|Underground]] passando per il [[Basement]]
+- [x] Capire come abbassare la ruota dentata nell'[[Mappa dell'underground|Underground]] passando per il [[Basement]]
 - [ ] Capire quella parete strana al fondo del [[Basement]];
 - [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
 - [ ] Aprire e capire le safe restanti: ([[Studio|Study]], [[Drafting Studio]], e...?);
 - [ ] Capire se effettivamente c'è altro nel [[Secret Garden]]?
 - [ ] Capire se lo [[Shrine]] fa altro?
-- [ ] Capire cosa fa il [[Trading Post]];
+- [x] Capire cosa fa il [[Trading Post]];
 - [ ] Capire se [[Nota della dispensa]] è un enigma?
 - [x] Capire come superare il [[Cloister]];
-- [ ] Spostare barca nell'[[Mappa dell'underground|Underground]];
+- [x] Spostare barca nell'[[Mappa dell'underground|Underground]];
 - [ ] Segreto che Alberto non ha detto perché è stronzo;
 ## Documenti per puzzle attivi
 
