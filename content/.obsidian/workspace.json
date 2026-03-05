@@ -35,7 +35,8 @@
               "title": "Lettere di Mary Epsen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Documento miniera nella tomba.md",
+                "file": "Lettere/Lettere di Mary Epsen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Documento miniera nella tomba"
+              "title": "Riferimenti a Lettere di Mary Epsen"
             }
           },
           {
@@ -186,11 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ae050098b9ee94",
+  "active": "a52fcc16847a2aad",
   "lastOpenFiles": [
+    "Documenti/Documento miniera nella tomba.md",
     "Documenti/assets/Pasted image 20260304203613.png",
     "Documenti/Documento miniera della porta rossa.md",
-    "Documenti/Documento miniera nella tomba.md",
     "Documenti/Documento di commissione per i quadri.md",
     "Documenti/Documento della miniera di gemme.md",
     "Lettere/Lettera nascosta di Clara Epsen.md",
@@ -223,7 +224,6 @@
     "Documenti/Biglietto 'The Great Hall'.md",
     "Documenti/Biglietto Where is room 46.md",
     "Documenti/Biglietto nel Cloister.md",
-    "Immagini/assets/Pasted image 20260304202133.png",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",
