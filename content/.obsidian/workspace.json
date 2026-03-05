@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f092199684a6914a",
+        "id": "8d6d0bcefd84da4d",
         "type": "tabs",
         "children": [
           {
-            "id": "47ae050098b9ee94",
+            "id": "5c42599a9a888152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Documento miniera nella tomba.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Documento miniera nella tomba"
+              "title": "index"
             }
           },
           {
-            "id": "a52fcc16847a2aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lettere/Lettere di Mary Epsen.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lettere di Mary Epsen"
-            }
-          },
-          {
-            "id": "bbb67ae383f9b477",
+            "id": "ea86fec1bf75a343",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +35,7 @@
               "title": "Planimetria del museo reale della città reale di Fenn"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -122,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 248.5
   },
   "right": {
     "id": "9ebb3772d687ac75",
@@ -153,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immagini/Planimetria del museo reale della città reale di Fenn.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Planimetria del museo reale della città reale di Fenn"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -189,56 +174,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbb67ae383f9b477",
+  "active": "5c42599a9a888152",
   "lastOpenFiles": [
     "Immagini/assets/Pasted image 20260305105317.png",
     "Immagini/assets/Pasted image 20260305105215.png",
-    "conflict-files-obsidian-git.md",
-    "Lettere/Lettere di Mary Epsen.md",
+    "Immagini/Planimetria del museo reale della città reale di Fenn.md",
+    "Stanze/Safehouse.md",
+    "index.md",
+    "Documenti/Messaggio segreto della libreria.md",
+    "Documenti/assets/Pasted image 20260304085633.png",
+    "Documenti/Nota nel Freezer.md",
+    "Puzzle/Muri rompibili.md",
     "Puzzle/assets/Pasted image 20260304085303.png",
     "Puzzle/assets/Pasted image 20260304085234.png",
-    "Puzzle/Muri rompibili.md",
+    "Libri/Drafting Strategies Vol. 2.md",
+    "Fotografie/Fotografie della Camera Oscura..md",
+    "Fotografie/assets/Pasted image 20260304085002.png",
     "Libri/assets/Pasted image 20260304084911.png",
     "Libri/assets/Pasted image 20260304084904.png",
     "Libri/assets/Pasted image 20260304084858.png",
     "Libri/assets/Pasted image 20260304084848.png",
     "Libri/assets/Pasted image 20260304084842.png",
-    "Libri/assets/Pasted image 20260304084838.png",
-    "Libri/assets/Pasted image 20260304084833.png",
-    "Libri/Drafting Strategies Vol. 2.md",
-    "Documenti/Messaggio segreto della libreria.md",
-    "Documenti/Documento miniera nella tomba.md",
-    "Documenti/Documento miniera della porta rossa.md",
-    "Documenti/Documento di commissione per i quadri.md",
-    "Documenti/Documento della miniera di gemme.md",
-    "Lettere/Lettera nascosta di Clara Epsen.md",
-    "Immagini/Train Metro di Orinda Aries.md",
-    "Immagini/Planimetria del museo reale della città reale di Fenn.md",
-    "Lettere/Lettera di Mary.md",
-    "Immagini/Documento del gruppo di Mary.md",
-    "Fotografie/Fotografia di Mary e i suoi compari.md",
-    "Documenti/Poesia 'Rosa dei venti'.md",
-    "Documenti/Spartito Musicale.md",
-    "Documenti/Synka Company Customer's Copy..md",
-    "Immagini/Disegno 'Security'.md",
-    "Immagini/Disegno 'Pulcino'.md",
+    "Documenti/Giornale 'A new clue'.md",
+    "Timeline.md",
+    "Lettere/Lettera Rossa VIII.md",
+    "Lettere/Lettera Rossa VII.md",
+    "Lettere/Lettera Rossa IV.md",
+    "Lettere/Lettere di Mary Epsen.md",
+    "Lettere/Lettera per Simon sulle tradizioni.md",
+    "Lettere/Lettera del Ruffington Press su Red Prince.md",
+    "Lettere/Email 'ulteriore richiesta'.md",
+    "Lettere/Email 'email elettroniche'.md",
+    "Lettere/Email 'cambiamenti della villa'.md",
+    "Lettere/Email 'accesso al freezer'.md",
+    "Immagini/Ritratto 'Vecchio'.md",
+    "Immagini/Mappa dell'underground.md",
     "Immagini/Disegno 'Lampada'.md",
-    "Immagini/Albero genealogico.md",
-    "Immagini/Cartolina 'Greetings from Reddington'.md",
     "Immagini/Disegno 'Cravatta'.md",
-    "Documenti/Nota su Kirk Darren.md",
+    "Immagini/Cartolina 'Greetings from Reddington'.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",

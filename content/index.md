@@ -30,6 +30,7 @@ aliases:
 - [x] Capire come superare il [[Cloister]];
 - [x] Spostare barca nell'[[Mappa dell'underground|Underground]];
 - [ ] Segreto che Alberto non ha detto perché è stronzo;
+- [ ] Trovare insieme Tomba e Her Ladyship Chamber e usare la chiave del diario di Clara Epsen
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
