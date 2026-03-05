@@ -20,6 +20,7 @@
  [[Documenti/Lettera di terminazione|Lettera di terminazione]]
  [[Documenti/Lettera incompleta|Lettera incompleta]]
  [[Documenti/Mappa con X|Mappa con X]]
+ [[Documenti/Messaggio segreto della libreria|Messaggio segreto della libreria]]
  [[Documenti/Nota 'Libri Mancanti'|Nota 'Libri Mancanti']]
  [[Documenti/Nota 'Utility Room'|Nota 'Utility Room']]
  [[Documenti/Nota cestinata|Nota cestinata]]
