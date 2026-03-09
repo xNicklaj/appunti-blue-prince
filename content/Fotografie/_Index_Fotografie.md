@@ -8,7 +8,7 @@
  [[Fotografie/Fotografia 'Servitù'|Fotografia 'Servitù']]
  [[Fotografie/Fotografia 'Tomas Sinclair'|Fotografia 'Tomas Sinclair']]
  [[Fotografie/Fotografia 'Uomo con messaggio'|Fotografia 'Uomo con messaggio']]
- [[Fotografie/Fotografia di '---'|Fotografia di '---']]
+ [[Fotografie/Fotografia di 'Lady Ashlynn'|Fotografia di 'Lady Ashlynn']]
  [[Fotografie/Fotografia di Mary e i suoi compari|Fotografia di Mary e i suoi compari]]
  [[Fotografie/Fotografie della Camera Oscura.|Fotografie della Camera Oscura.]]
  [[Fotografie/Ritratto 'Baronessa Auravei da anziana'|Ritratto 'Baronessa Auravei da anziana']]

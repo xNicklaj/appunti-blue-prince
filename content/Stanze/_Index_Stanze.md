@@ -20,6 +20,7 @@
  [[Stanze/Fornace|Fornace]]
  [[Stanze/Foyer|Foyer]]
  [[Stanze/Garage|Garage]]
+ [[Stanze/Her Ladyship's Chamber|Her Ladyship's Chamber]]
  [[Stanze/Laboratorio|Laboratorio]]
  [[Stanze/Libreria|Libreria]]
  [[Stanze/Locker Room|Locker Room]]
