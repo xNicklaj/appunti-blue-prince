@@ -33,6 +33,7 @@ aliases:
 - [ ] Trovare insieme Tomba e Her Ladyship Chamber e usare la chiave del diario di Clara Epsen
 - [ ] Magnifying glass in drafting studio
 - [ ] Capire foglio X Y Z
+- [ ] Risolvere A New Clue
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
