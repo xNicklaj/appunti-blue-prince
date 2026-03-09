@@ -4,3 +4,10 @@ tags:
   - Libro
 aliases:
 ---
+![[Pasted image 20260309230529.png]]
+![[Pasted image 20260309230536.png]]
+![[Pasted image 20260309230542.png]]
+![[Pasted image 20260309230548.png]]
+![[Pasted image 20260309230601.png]]
+![[Pasted image 20260309230705.png]]
+![[Pasted image 20260309230813.png]]

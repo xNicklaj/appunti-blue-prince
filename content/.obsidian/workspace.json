@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Libri/A New Clue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "A New Clue"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Libri/A New Clue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a index"
+              "title": "Riferimenti a A New Clue"
             }
           },
           {
@@ -174,18 +174,20 @@
   },
   "active": "5c42599a9a888152",
   "lastOpenFiles": [
+    "Libri/assets/Pasted image 20260309230813.png",
+    "Libri/assets/Pasted image 20260309230705.png",
+    "Libri/assets/Pasted image 20260309230601.png",
+    "Libri/assets/Pasted image 20260309230548.png",
+    "Libri/assets/Pasted image 20260309230542.png",
+    "Libri/assets/Pasted image 20260309230536.png",
+    "Libri/assets/Pasted image 20260309230529.png",
+    "index.md",
     "Documenti/Passaporto Falso di Mary.md",
     "Documenti/assets/Pasted image 20260309224728.png",
     "Documenti/assets/Pasted image 20260309224723.png",
     "Libri/Her Ladyship's Diary.md",
     "Libri/assets/Pasted image 20260309223333.png",
     "Libri/assets/Pasted image 20260309223242.png",
-    "Libri/assets/Pasted image 20260309223236.png",
-    "Libri/assets/Pasted image 20260309223230.png",
-    "Libri/assets/Pasted image 20260309223224.png",
-    "Libri/assets/Pasted image 20260309223219.png",
-    "Libri/assets/Pasted image 20260309223211.png",
-    "Libri/assets/Pasted image 20260309223203.png",
     "Stanze/Her Ladyship's Chamber.md",
     "Fotografie/Fotografia di 'Lady Ashlynn'.md",
     "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
@@ -208,7 +210,6 @@
     "Libri/Drafting Strategy Vol. 1.md",
     "Libri/Drafting Strategy Vol. 2.md",
     "Libri/La Storia di Orindia Prima Versione.md",
-    "index.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",

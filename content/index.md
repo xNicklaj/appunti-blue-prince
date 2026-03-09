@@ -12,7 +12,7 @@ aliases:
 - [x] Capire come aprire le porte dietro alla leva nel [[Sanctum]];
 - [x] Trovare i nomi dei quadri nella [[Galleria]];
 - [ ] Trovare il terzo chip di [[Blackbridge Grotto]];
-- [x] Comprare [[A new clue]];
+- [x] Comprare [[A New Clue]];
 - [ ] Aprire la porta dell'[[Underground]] sotto la fontana;
 - [x] Capire come rimuovere l'acqua e quanta rimuoverne nella [[Riserva]];
 - [ ] Esaminare tutte le scritte con la lente di ingrandimento;
