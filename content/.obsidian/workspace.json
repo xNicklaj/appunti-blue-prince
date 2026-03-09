@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libri/La Storia di Orindia Prima Versione.md",
-                "mode": "preview",
+                "file": "Lettere/Lettera Rossa I.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Storia di Orindia Prima Versione"
+              "title": "Lettera Rossa I"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libri/La Storia di Orindia Prima Versione.md",
+                "file": "Lettere/Lettera Rossa I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a La Storia di Orindia Prima Versione"
+              "title": "Riferimenti a Lettera Rossa I"
             }
           },
           {
@@ -174,23 +174,30 @@
   },
   "active": "5c42599a9a888152",
   "lastOpenFiles": [
+    "Lettere/assets/Pasted image 20260309221559.png",
+    "Lettere/assets/Pasted image 20260309221554.png",
+    "Lettere/assets/Pasted image 20260309221549.png",
+    "Lettere/assets/Pasted image 20260309221544.png",
+    "Lettere/assets/Pasted image 20260309221539.png",
+    "Documenti/Documento vicino allo specchio nero.md",
+    "Lettere/Lettera Rossa I.md",
+    "Documenti/assets/Pasted image 20260309221455.png",
+    "Immagini/Castello di Orinda.md",
+    "Immagini/assets/Pasted image 20260309221213.png",
+    "Libri/Drafting Strategy Vol. 4.md",
+    "Libri/assets/Pasted image 20260309221117.png",
+    "Libri/assets/Pasted image 20260309221111.png",
+    "Libri/assets/Pasted image 20260309221105.png",
+    "Libri/assets/Pasted image 20260309221100.png",
+    "Libri/Drafting Strategy Vol. 1.md",
+    "Libri/Drafting Strategy Vol. 2.md",
+    "Libri/La Storia di Orindia Prima Versione.md",
     "index.md",
     "Timeline.md",
-    "assets/Pasted image 20260309214122.png",
-    "Immagini/assets/Pasted image 20260305105317.png",
-    "Immagini/assets/Pasted image 20260305105215.png",
     "Documenti/Messaggio segreto della libreria.md",
-    "Documenti/assets/Pasted image 20260304085633.png",
     "Documenti/Nota nel Freezer.md",
     "Puzzle/Muri rompibili.md",
-    "Puzzle/assets/Pasted image 20260304085303.png",
-    "Puzzle/assets/Pasted image 20260304085234.png",
-    "Libri/Drafting Strategies Vol. 2.md",
     "Fotografie/Fotografie della Camera Oscura..md",
-    "Fotografie/assets/Pasted image 20260304085002.png",
-    "Libri/assets/Pasted image 20260304084911.png",
-    "Libri/assets/Pasted image 20260304084904.png",
-    "Libri/assets/Pasted image 20260304084858.png",
     "Documenti/Giornale 'A new clue'.md",
     "Lettere/Lettera Rossa VIII.md",
     "Lettere/Lettera Rossa VII.md",
@@ -203,12 +210,6 @@
     "Lettere/Email 'cambiamenti della villa'.md",
     "Lettere/Email 'accesso al freezer'.md",
     "Immagini/Ritratto 'Vecchio'.md",
-    "Immagini/Mappa dell'underground.md",
-    "Immagini/Disegno 'Lampada'.md",
-    "Immagini/Disegno 'Cravatta'.md",
-    "Immagini/Cartolina 'Greetings from Reddington'.md",
-    "Immagini/Albero genealogico.md",
-    "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",

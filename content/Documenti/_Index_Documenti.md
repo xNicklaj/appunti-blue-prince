@@ -12,6 +12,7 @@
  [[Documenti/Documento di commissione per i quadri|Documento di commissione per i quadri]]
  [[Documenti/Documento miniera della porta rossa|Documento miniera della porta rossa]]
  [[Documenti/Documento miniera nella tomba|Documento miniera nella tomba]]
+ [[Documenti/Documento vicino allo specchio nero|Documento vicino allo specchio nero]]
  [[Documenti/Foreman's Log 3|Foreman's Log 3]]
  [[Documenti/Foreman's Log 228|Foreman's Log 228]]
  [[Documenti/Giornale 'A new clue'|Giornale 'A new clue']]

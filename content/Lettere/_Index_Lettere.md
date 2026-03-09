@@ -18,6 +18,7 @@
  [[Lettere/Lettera di Mary|Lettera di Mary]]
  [[Lettere/Lettera nascosta di Clara Epsen|Lettera nascosta di Clara Epsen]]
  [[Lettere/Lettera per Simon sulle tradizioni|Lettera per Simon sulle tradizioni]]
+ [[Lettere/Lettera Rossa I|Lettera Rossa I]]
  [[Lettere/Lettera Rossa IV|Lettera Rossa IV]]
  [[Lettere/Lettera Rossa VII|Lettera Rossa VII]]
  [[Lettere/Lettera Rossa VIII|Lettera Rossa VIII]]

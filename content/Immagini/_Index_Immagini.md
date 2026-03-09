@@ -2,6 +2,7 @@
  [[Immagini/Albero genealogico|Albero genealogico]]
  [[Immagini/assets/_Index_assets|_Index_assets]]
  [[Immagini/Cartolina 'Greetings from Reddington'|Cartolina 'Greetings from Reddington']]
+ [[Immagini/Castello di Orinda|Castello di Orinda]]
  [[Immagini/Disegno 'Cravatta'|Disegno 'Cravatta']]
  [[Immagini/Disegno 'Lampada'|Disegno 'Lampada']]
  [[Immagini/Disegno 'Pulcino'|Disegno 'Pulcino']]
