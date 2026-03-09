@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libri/Her Ladyship's Diary.md",
+                "file": "Documenti/Passaporto Falso di Mary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Her Ladyship's Diary"
+              "title": "Passaporto Falso di Mary"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libri/Her Ladyship's Diary.md",
+                "file": "Documenti/Passaporto Falso di Mary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Her Ladyship's Diary"
+              "title": "Riferimenti a Passaporto Falso di Mary"
             }
           },
           {
@@ -174,6 +174,10 @@
   },
   "active": "5c42599a9a888152",
   "lastOpenFiles": [
+    "Documenti/assets/Pasted image 20260309224728.png",
+    "Documenti/assets/Pasted image 20260309224723.png",
+    "Libri/Her Ladyship's Diary.md",
+    "Documenti/Passaporto Falso di Mary.md",
     "Libri/assets/Pasted image 20260309223333.png",
     "Libri/assets/Pasted image 20260309223242.png",
     "Libri/assets/Pasted image 20260309223236.png",
@@ -184,9 +188,6 @@
     "Libri/assets/Pasted image 20260309223203.png",
     "Libri/assets/Pasted image 20260309223152.png",
     "Stanze/Her Ladyship's Chamber.md",
-    "Libri/Her Ladyship's Diary.md",
-    "Stanze/assets/Pasted image 20260309223054.png",
-    "Stanze/assets/Pasted image 20260309222652.png",
     "Fotografie/Fotografia di 'Lady Ashlynn'.md",
     "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
     "Fotografie/Ritratto 'Baronessa Auravei da anziana'.md",
@@ -209,7 +210,6 @@
     "Libri/Drafting Strategy Vol. 2.md",
     "Libri/La Storia di Orindia Prima Versione.md",
     "index.md",
-    "Timeline.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",
