@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Admin Logs.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Admin Logs"
+              "title": "index"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Admin Logs.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Admin Logs"
+              "title": "Riferimenti a index"
             }
           },
           {
@@ -174,6 +174,22 @@
   },
   "active": "5c42599a9a888152",
   "lastOpenFiles": [
+    "Stanze/Security.md",
+    "Stanze/Sgabuzzino.md",
+    "Stanze/Shrine.md",
+    "Stanze/Stanza 46.md",
+    "Stanze/Stanza da disegno.md",
+    "Stanze/Stanza da giorno.md",
+    "Stanze/Stanza da letto.md",
+    "Stanze/Stanza degli ospiti.md",
+    "Stanze/Stanza degli specchi.md",
+    "Stanze/Stanza dei Giochi.md",
+    "Stanze/Stanza frigorifera.md",
+    "Stanze/Tomba.md",
+    "Stanze/Torre dell'orologio.md",
+    "Stanze/Trading Post.md",
+    "Stanze/Ufficio.md",
+    "Documenti/Admin Logs.md",
     "Documenti/assets/Pasted image 20260310001441.png",
     "Documenti/assets/Pasted image 20260310001411.png",
     "Documenti/assets/Pasted image 20260310001309.png",
@@ -186,30 +202,14 @@
     "Timeline.md",
     "index.md",
     "Libri/A New Clue.md",
-    "Stanze/Security.md",
     "Stanze/assets/Pasted image 20260309235739.png",
     "Puzzle/Monitor di Security.md",
     "Puzzle/assets/Pasted image 20260309235647.png",
-    "Libri/assets/Pasted image 20260309233416.png",
     "Documenti/Passaporto Falso di Mary.md",
     "Libri/Her Ladyship's Diary.md",
     "Stanze/Her Ladyship's Chamber.md",
     "Fotografie/Fotografia di 'Lady Ashlynn'.md",
     "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
-    "Fotografie/Ritratto 'Baronessa Auravei da anziana'.md",
-    "Fotografie/Fotografie della Camera Oscura..md",
-    "Fotografie/Fotografia di Mary e i suoi compari.md",
-    "Fotografie/Fotografia 'Uomo con messaggio'.md",
-    "Fotografie/Fotografia 'Tomas Sinclair'.md",
-    "Fotografie/Fotografia 'Servitù'.md",
-    "Fotografie/Fotografia 'Mary Epsen'.md",
-    "Fotografie/Fotografia 'Manning e White'.md",
-    "Fotografie/Fotografia 'Famiglia'.md",
-    "Fotografie/Fotografia 'Clara e Simon'.md",
-    "Fotografie/Fotografia 'Boudoir natalizio'.md",
-    "Documenti/Does it never end.md",
-    "Lettere/Lettera Rossa I.md",
-    "Documenti/Documento vicino allo specchio nero.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",
