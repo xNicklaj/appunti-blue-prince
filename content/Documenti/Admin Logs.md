@@ -19,3 +19,7 @@ aliases:
 ![[Pasted image 20260302230810.png|700]]
 ![[Pasted image 20260302230819.png|700]]
 ![[Pasted image 20260302230833.png|700]]
+Sono state aggiunte nuove AdminKey
+![[Pasted image 20260310000834.png]]
+Queste 3 persone s
+![[Pasted image 20260310000932.png]]
