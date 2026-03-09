@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Her Ladyship's Chamber.md",
+                "file": "Libri/Her Ladyship's Diary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Her Ladyship's Chamber"
+              "title": "Her Ladyship's Diary"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Her Ladyship's Chamber.md",
+                "file": "Libri/Her Ladyship's Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Her Ladyship's Chamber"
+              "title": "Riferimenti a Her Ladyship's Diary"
             }
           },
           {
@@ -174,10 +174,20 @@
   },
   "active": "5c42599a9a888152",
   "lastOpenFiles": [
+    "Libri/assets/Pasted image 20260309223333.png",
+    "Libri/assets/Pasted image 20260309223242.png",
+    "Libri/assets/Pasted image 20260309223236.png",
+    "Libri/assets/Pasted image 20260309223230.png",
+    "Libri/assets/Pasted image 20260309223224.png",
+    "Libri/assets/Pasted image 20260309223219.png",
+    "Libri/assets/Pasted image 20260309223211.png",
+    "Libri/assets/Pasted image 20260309223203.png",
+    "Libri/assets/Pasted image 20260309223152.png",
+    "Stanze/Her Ladyship's Chamber.md",
+    "Libri/Her Ladyship's Diary.md",
+    "Stanze/assets/Pasted image 20260309223054.png",
     "Stanze/assets/Pasted image 20260309222652.png",
     "Fotografie/Fotografia di 'Lady Ashlynn'.md",
-    "Stanze/Her Ladyship's Chamber.md",
-    "Fotografie/assets/Pasted image 20260309222051.png",
     "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
     "Fotografie/Ritratto 'Baronessa Auravei da anziana'.md",
     "Fotografie/Fotografie della Camera Oscura..md",
@@ -191,25 +201,15 @@
     "Fotografie/Fotografia 'Clara e Simon'.md",
     "Fotografie/Fotografia 'Boudoir natalizio'.md",
     "Documenti/Does it never end.md",
-    "Documenti/assets/Pasted image 20260309221842.png",
     "Lettere/Lettera Rossa I.md",
-    "Lettere/assets/Pasted image 20260309221559.png",
-    "Lettere/assets/Pasted image 20260309221554.png",
-    "Lettere/assets/Pasted image 20260309221549.png",
-    "Lettere/assets/Pasted image 20260309221544.png",
-    "Lettere/assets/Pasted image 20260309221539.png",
     "Documenti/Documento vicino allo specchio nero.md",
-    "Documenti/assets/Pasted image 20260309221455.png",
     "Immagini/Castello di Orinda.md",
-    "Immagini/assets/Pasted image 20260309221213.png",
     "Libri/Drafting Strategy Vol. 4.md",
-    "Libri/assets/Pasted image 20260309221117.png",
     "Libri/Drafting Strategy Vol. 1.md",
     "Libri/Drafting Strategy Vol. 2.md",
     "Libri/La Storia di Orindia Prima Versione.md",
     "index.md",
     "Timeline.md",
-    "Documenti/Messaggio segreto della libreria.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",

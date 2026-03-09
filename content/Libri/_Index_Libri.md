@@ -6,6 +6,7 @@
  [[Libri/Drafting Strategy Vol. 2|Drafting Strategy Vol. 2]]
  [[Libri/Drafting Strategy Vol. 3|Drafting Strategy Vol. 3]]
  [[Libri/Drafting Strategy Vol. 4|Drafting Strategy Vol. 4]]
+ [[Libri/Her Ladyship's Diary|Her Ladyship's Diary]]
  [[Libri/La Storia di Orindia Prima Versione|La Storia di Orindia Prima Versione]]
  [[Libri/La storia di Orindia|La storia di Orindia]]
  [[Libri/Quaderno del custode|Quaderno del custode]]
