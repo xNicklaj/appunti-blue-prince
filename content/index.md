@@ -5,7 +5,7 @@ aliases:
 ---
 ## To do
 - [ ] Far sciogliere giaccio nella [[Stanza frigorifera]]
-- [ ] Sbloccare la combinazione a 4 cifre nell'[[Underpass]], dietro la porta rossa;
+- [x] Sbloccare la combinazione a 4 cifre nell'[[Underpass]], dietro la porta rossa;
 - [ ] Trovare tutte le [[Classroom]];
 - [x] Consegnare una lettera alla mail room tramite gli esperimenti del [[Laboratorio|Laboratory]];
 - [x] Provare a rientrare nella [[Stanza 46]]?
