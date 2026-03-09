@@ -34,6 +34,7 @@ aliases:
 - [ ] Magnifying glass in drafting studio
 - [ ] Capire foglio X Y Z
 - [ ] Risolvere A New Clue
+- [ ] Swansongcss?
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |

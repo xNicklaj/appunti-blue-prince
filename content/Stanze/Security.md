@@ -14,5 +14,7 @@ Contiene un cavallo
 - [[Nota per il personale]]
 - [[Nota sui post-it colorati]]
 - [[Chiave del deposito 149]]
+
+![[Pasted image 20260309235739.png]]
 ## Stanza
 ![[Pasted image 20260303094331.png]]
