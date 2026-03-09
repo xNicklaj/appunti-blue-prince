@@ -32,6 +32,7 @@ aliases:
 - [ ] Segreto che Alberto non ha detto perché è stronzo;
 - [ ] Trovare insieme Tomba e Her Ladyship Chamber e usare la chiave del diario di Clara Epsen
 - [ ] Magnifying glass in drafting studio
+- [ ] Capire foglio X Y Z
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |

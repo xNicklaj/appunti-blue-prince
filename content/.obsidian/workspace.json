@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Passaporto Falso di Mary.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Passaporto Falso di Mary"
+              "title": "index"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Passaporto Falso di Mary.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Passaporto Falso di Mary"
+              "title": "Riferimenti a index"
             }
           },
           {
@@ -174,10 +174,10 @@
   },
   "active": "5c42599a9a888152",
   "lastOpenFiles": [
+    "Documenti/Passaporto Falso di Mary.md",
     "Documenti/assets/Pasted image 20260309224728.png",
     "Documenti/assets/Pasted image 20260309224723.png",
     "Libri/Her Ladyship's Diary.md",
-    "Documenti/Passaporto Falso di Mary.md",
     "Libri/assets/Pasted image 20260309223333.png",
     "Libri/assets/Pasted image 20260309223242.png",
     "Libri/assets/Pasted image 20260309223236.png",
@@ -186,7 +186,6 @@
     "Libri/assets/Pasted image 20260309223219.png",
     "Libri/assets/Pasted image 20260309223211.png",
     "Libri/assets/Pasted image 20260309223203.png",
-    "Libri/assets/Pasted image 20260309223152.png",
     "Stanze/Her Ladyship's Chamber.md",
     "Fotografie/Fotografia di 'Lady Ashlynn'.md",
     "Fotografie/Ritratto 'Baronessa Auravei da giovane'.md",
