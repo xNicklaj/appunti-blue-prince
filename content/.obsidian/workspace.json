@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lettere/Lettera Rossa I.md",
-                "mode": "source",
+                "file": "Libri/La Storia di Orindia Prima Versione.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lettera Rossa I"
+              "title": "La Storia di Orindia Prima Versione"
+            }
+          },
+          {
+            "id": "677c55b5bbdc5c4f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Fotografie/assets/Pasted image 20260213132103.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260213132103"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettere/Lettera Rossa I.md",
+                "file": "Fotografie/assets/Pasted image 20260213132103.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Lettera Rossa I"
+              "title": "Backlinks for Pasted image 20260213132103"
             }
           },
           {
@@ -160,43 +173,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c42599a9a888152",
+  "active": "677c55b5bbdc5c4f",
   "lastOpenFiles": [
-    "Lettere/assets/Pasted image 20260309221559.png",
-    "Lettere/assets/Pasted image 20260309221554.png",
-    "Lettere/assets/Pasted image 20260309221549.png",
-    "Lettere/assets/Pasted image 20260309221544.png",
-    "Lettere/assets/Pasted image 20260309221539.png",
-    "Documenti/Documento vicino allo specchio nero.md",
-    "Lettere/Lettera Rossa I.md",
-    "Documenti/assets/Pasted image 20260309221455.png",
-    "Immagini/Castello di Orinda.md",
-    "Immagini/assets/Pasted image 20260309221213.png",
-    "Libri/Drafting Strategy Vol. 4.md",
+    "Immagini/Albero genealogico.md",
+    "Libri/La Storia di Orindia Prima Versione.md",
     "Libri/assets/Pasted image 20260309221117.png",
     "Libri/assets/Pasted image 20260309221111.png",
     "Libri/assets/Pasted image 20260309221105.png",
     "Libri/assets/Pasted image 20260309221100.png",
-    "Libri/Drafting Strategy Vol. 1.md",
+    "Libri/assets/Pasted image 20260309221052.png",
+    "Libri/assets/Pasted image 20260309221047.png",
+    "Libri/assets/Pasted image 20260309221037.png",
+    "Libri/assets/Pasted image 20260309221034.png",
+    "Libri/Drafting Strategy Vol. 4.md",
     "Libri/Drafting Strategy Vol. 2.md",
-    "Libri/La Storia di Orindia Prima Versione.md",
+    "Lettere/assets/Pasted image 20260309221559.png",
+    "Lettere/assets/Pasted image 20260309221554.png",
+    "Lettere/Lettera Rossa I.md",
+    "Immagini/Castello di Orinda.md",
+    "Documenti/Documento vicino allo specchio nero.md",
     "index.md",
     "Timeline.md",
     "Documenti/Messaggio segreto della libreria.md",
     "Documenti/Nota nel Freezer.md",
     "Puzzle/Muri rompibili.md",
+    "Libri/Drafting Strategies Vol. 2.md",
     "Fotografie/Fotografie della Camera Oscura..md",
     "Documenti/Giornale 'A new clue'.md",
     "Lettere/Lettera Rossa VIII.md",
