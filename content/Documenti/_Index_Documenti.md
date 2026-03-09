@@ -13,6 +13,7 @@
  [[Documenti/Documento miniera della porta rossa|Documento miniera della porta rossa]]
  [[Documenti/Documento miniera nella tomba|Documento miniera nella tomba]]
  [[Documenti/Documento vicino allo specchio nero|Documento vicino allo specchio nero]]
+ [[Documenti/Does it never end|Does it never end]]
  [[Documenti/Foreman's Log 3|Foreman's Log 3]]
  [[Documenti/Foreman's Log 228|Foreman's Log 228]]
  [[Documenti/Giornale 'A new clue'|Giornale 'A new clue']]
