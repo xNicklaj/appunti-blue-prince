@@ -25,12 +25,14 @@
             "id": "677c55b5bbdc5c4f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Fotografie/assets/Pasted image 20260213132103.png"
+                "file": "Libri/A new clue.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260213132103"
+              "icon": "lucide-file",
+              "title": "A new clue"
             }
           }
         ],
@@ -137,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fotografie/assets/Pasted image 20260213132103.png",
+                "file": "Libri/A new clue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20260213132103"
+              "title": "Backlinks for A new clue"
             }
           },
           {
@@ -187,6 +189,7 @@
   },
   "active": "677c55b5bbdc5c4f",
   "lastOpenFiles": [
+    "Fotografie/assets/Pasted image 20260213132103.png",
     "Immagini/Albero genealogico.md",
     "Libri/La Storia di Orindia Prima Versione.md",
     "Libri/assets/Pasted image 20260309221117.png",
@@ -222,7 +225,6 @@
     "Lettere/Email 'email elettroniche'.md",
     "Lettere/Email 'cambiamenti della villa'.md",
     "Lettere/Email 'accesso al freezer'.md",
-    "Immagini/Ritratto 'Vecchio'.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",

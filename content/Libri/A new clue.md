@@ -10,10 +10,10 @@ aliases:
 ![[Pasted image 20260309231835.png]]
 ![[Pasted image 20260309232006.png]]
 ![[Pasted image 20260309230548.png]]
-He had looked high and low8 in12 all1 of the rooms5,14,  
-He had searched every corner3 in each of the13 tombs,  
-In this particular case4,9, he had6 checked2 every space.  
-If he found11 a7 new clue,10 he'd know what to do.
+He had looked high and $\text{low}^8$ $\text{in}^2$ $\text{all}^1$ of the $\text{rooms}^{5,14}$,  
+He had searched every $\text{corner}^3$ in each of $\text{the}^{13}$ tombs,  
+In this particular $\text{case}^{4,9}$, he $\text{had}^6$ $\text{checked}^2$ every space.  
+If he $\text{found}^{11}$ $\text{a}^7$ new $\text{clue}^{10}$, he'd know what to do.
 ![[Pasted image 20260309230601.png]]
 ![[Pasted image 20260309230705.png]]
 ![[Pasted image 20260309232446.png]]
