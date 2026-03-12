@@ -53,6 +53,7 @@
  [[Stanze/Stanza degli ospiti|Stanza degli ospiti]]
  [[Stanze/Stanza degli specchi|Stanza degli specchi]]
  [[Stanze/Stanza dei Giochi|Stanza dei Giochi]]
+ [[Stanze/Stanza del tesoro|Stanza del tesoro]]
  [[Stanze/Stanza frigorifera|Stanza frigorifera]]
  [[Stanze/Tomba|Tomba]]
  [[Stanze/Torre dell'orologio|Torre dell'orologio]]
