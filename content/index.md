@@ -29,7 +29,7 @@ aliases:
 - [ ] Capire se [[Nota della dispensa]] è un enigma?
 - [x] Capire come superare il [[Cloister]];
 - [x] Spostare barca nell'[[Mappa dell'underground|Underground]];
-- [ ] Segreto che Alberto non ha detto perché è stronzo;
+- [x] Segreto che Alberto non ha detto perché è stronzo;
 - [x] Trovare insieme Tomba e Her Ladyship Chamber e usare la chiave del diario di Clara Epsen
 - [ ] Magnifying glass in drafting studio
 - [x] Capire foglio X Y Z
