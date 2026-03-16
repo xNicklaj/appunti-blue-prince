@@ -35,6 +35,7 @@ aliases:
 - [x] Capire foglio X Y Z
 - [x] Risolvere A New Clue
 - [x] Swansongcss?
+- [ ] Fare 5 esperimenti per le radiazioni
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
