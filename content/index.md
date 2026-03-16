@@ -36,6 +36,7 @@ aliases:
 - [x] Risolvere A New Clue
 - [x] Swansongcss?
 - [ ] Fare 5 esperimenti per le radiazioni
+- [ ] "[[A new clue|Have you seen all the signs?]]" - "[[|No Sign Yet]]"
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
