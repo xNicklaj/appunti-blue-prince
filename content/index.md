@@ -30,11 +30,11 @@ aliases:
 - [x] Capire come superare il [[Cloister]];
 - [x] Spostare barca nell'[[Mappa dell'underground|Underground]];
 - [ ] Segreto che Alberto non ha detto perché è stronzo;
-- [ ] Trovare insieme Tomba e Her Ladyship Chamber e usare la chiave del diario di Clara Epsen
+- [x] Trovare insieme Tomba e Her Ladyship Chamber e usare la chiave del diario di Clara Epsen
 - [ ] Magnifying glass in drafting studio
-- [ ] Capire foglio X Y Z
-- [ ] Risolvere A New Clue
-- [ ] Swansongcss?
+- [x] Capire foglio X Y Z
+- [x] Risolvere A New Clue
+- [x] Swansongcss?
 ## Documenti per puzzle attivi
 
 | Puzzle                | Documento                |
