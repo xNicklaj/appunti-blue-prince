@@ -6,6 +6,7 @@ aliases:
   - Marion Marigold
   - Mary Jones
   - Mary Epsen
+  - Ribbon Jean
 ---
 Moglie di [[Daniel Jones]], madre di [[Simon P. Jones]]. 
 Era l'erede di [[Herbert S. Sinclair|H.S. Sinclair]] prima della sua scomparsa insieme al marito.

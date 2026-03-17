@@ -1,8 +1,11 @@
 ---
 tags:
+  - Documento
   - Libro
 aliases:
 ---
+## Galleria
+
 ![[Pasted image 20260304191350.png]]
 ![[Pasted image 20260304191357.png]]
 ![[Pasted image 20260304191447.png]]
