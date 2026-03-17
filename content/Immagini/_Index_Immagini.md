@@ -13,6 +13,7 @@
  [[Immagini/Leve dell'anticamera|Leve dell'anticamera]]
  [[Immagini/Mappa del mondo|Mappa del mondo]]
  [[Immagini/Mappa dell'underground|Mappa dell'underground]]
+ [[Immagini/Muro 'Castle'|Muro 'Castle']]
  [[Immagini/Planimetria del museo reale della città reale di Fenn|Planimetria del museo reale della città reale di Fenn]]
  [[Immagini/Ritratto 'Vecchio'|Ritratto 'Vecchio']]
  [[Immagini/Train Metro di Orinda Aries|Train Metro di Orinda Aries]]

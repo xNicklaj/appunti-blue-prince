@@ -15,6 +15,7 @@
  [[Documenti/Documento vicino allo specchio nero|Documento vicino allo specchio nero]]
  [[Documenti/Foreman's Log 3|Foreman's Log 3]]
  [[Documenti/Foreman's Log 228|Foreman's Log 228]]
+ [[Documenti/Foreman's Log 229|Foreman's Log 229]]
  [[Documenti/Giornale 'A new clue'|Giornale 'A new clue']]
  [[Documenti/Giornale su Mary Jones|Giornale su Mary Jones]]
  [[Documenti/Lettera dell'ospite|Lettera dell'ospite]]

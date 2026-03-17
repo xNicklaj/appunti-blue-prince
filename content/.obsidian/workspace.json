@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8d6d0bcefd84da4d",
+        "id": "4206c840f5451698",
         "type": "tabs",
         "children": [
           {
-            "id": "5c42599a9a888152",
+            "id": "417dbf33bf352022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Documenti/Biglietto della crepa nel muro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Biglietto della crepa nel muro"
+            }
+          },
+          {
+            "id": "a651d67a301a4491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immagini/Muro 'Castle'.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Muro 'Castle'"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Immagini/Muro 'Castle'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Muro 'Castle'"
             }
           },
           {
@@ -172,24 +187,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c42599a9a888152",
+  "active": "a651d67a301a4491",
   "lastOpenFiles": [
-    "Stanze/Stanza del tesoro.md",
-    "Stanze/assets/Pasted image 20260313002257.png",
-    "Stanze/Libreria.md",
-    "Stanze/assets/Pasted image 20260313002231.png",
-    "Stanze/assets/Pasted image 20260313000349.png",
-    "Lettere/Lettera di Randolph.md",
-    "Lettere/assets/Pasted image 20260313000125.png",
-    "Stanze/Posta.md",
-    "Stanze/assets/Pasted image 20260313000059.png",
-    "Libri/Her Ladyship Sleep Diary.md",
-    "Libri/assets/Pasted image 20260312230823.png",
-    "Libri/assets/Pasted image 20260312230807.png",
-    "Libri/assets/Pasted image 20260312230757.png",
-    "Libri/assets/Pasted image 20260312230825.png",
-    "Libri/assets/Pasted image 20260312230818.png",
+    "Documenti/Biglietto della crepa nel muro.md",
+    "Documenti/Biglietto 'The Great Hall'.md",
     "index.md",
+    "Stanze/Stanza del tesoro.md",
+    "Immagini/Castello di Orinda.md",
+    "Immagini/Muro 'Castle'.md",
+    "Immagini/assets/Pasted image 20260317090658.png",
+    "Libri/Drafting Strategy Vol. 5.md",
+    "Libri/assets/Pasted image 20260317090624.png",
+    "Libri/assets/image_2026-03-16_23-21-24.png",
+    "Libri/assets/Pasted image 20260317090539.png",
+    "Libri/assets/Pasted image 20260317090530.png",
+    "Libri/assets/Pasted image 20260317090524.png",
+    "Libri/assets/Pasted image 20260317090513.png",
+    "Libri/assets/Pasted image 20260317090423.png",
+    "Libri/assets/Pasted image 20260317090417.png",
+    "Libri/assets/Pasted image 20260317090352.png",
+    "Documenti/Foreman's Log 229.md",
+    "Documenti/Foreman's Log 3.md",
+    "Stanze/Libreria.md",
+    "Lettere/Lettera di Randolph.md",
+    "Stanze/Posta.md",
+    "Libri/Her Ladyship Sleep Diary.md",
     "Libri/A new clue.md",
     "Stanze/Security.md",
     "Stanze/Sgabuzzino.md",
@@ -203,12 +225,6 @@
     "Stanze/Stanza dei Giochi.md",
     "Stanze/Stanza frigorifera.md",
     "Stanze/Tomba.md",
-    "Stanze/Torre dell'orologio.md",
-    "Stanze/Trading Post.md",
-    "Stanze/Ufficio.md",
-    "Documenti/Admin Logs.md",
-    "Documenti/Nota nel Freezer.md",
-    "Timeline.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",
