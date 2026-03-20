@@ -13,3 +13,4 @@ Contiene diversi memo ogni volta che ci vai.
 ![[Pasted image 20260313002257.png|400]]
 ![[Pasted image 20260317085134.png|400]]
 ![[Pasted image 20260320115524.png|400]]
+![[Pasted image 20260320123849.png|400]]

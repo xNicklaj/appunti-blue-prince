@@ -20,6 +20,7 @@
  [[Documenti/Giornale su Mary Jones|Giornale su Mary Jones]]
  [[Documenti/Lettera dell'ospite|Lettera dell'ospite]]
  [[Documenti/Lettera di terminazione|Lettera di terminazione]]
+ [[Documenti/Lettera dietro il falso muro|Lettera dietro il falso muro]]
  [[Documenti/Lettera incompleta|Lettera incompleta]]
  [[Documenti/Mappa con X|Mappa con X]]
  [[Documenti/Messaggio segreto della libreria|Messaggio segreto della libreria]]
