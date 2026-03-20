@@ -12,6 +12,7 @@
  [[Immagini/Lavagna dello studio|Lavagna dello studio]]
  [[Immagini/Leve dell'anticamera|Leve dell'anticamera]]
  [[Immagini/Mappa del mondo|Mappa del mondo]]
+ [[Immagini/Mappa dell'underground con messaggio|Mappa dell'underground con messaggio]]
  [[Immagini/Mappa dell'underground|Mappa dell'underground]]
  [[Immagini/Muro 'Castle'|Muro 'Castle']]
  [[Immagini/Planimetria del museo reale della città reale di Fenn|Planimetria del museo reale della città reale di Fenn]]

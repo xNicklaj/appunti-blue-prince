@@ -15,6 +15,7 @@
  [[Interagibili/_Index_Interagibili|_Index_Interagibili]]
  [[Luoghi/_Index_Luoghi|_Index_Luoghi]]
  [[Mappa Visiva.canvas|Mappa Visiva.canvas]]
+ [[Note della posta|Note della posta]]
  [[Oggetti/_Index_Oggetti|_Index_Oggetti]]
  [[Templates/_Index_Templates|_Index_Templates]]
  [[Timeline|Timeline]]

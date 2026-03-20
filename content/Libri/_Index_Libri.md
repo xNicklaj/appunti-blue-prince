@@ -7,6 +7,7 @@
  [[Libri/Drafting Strategy Vol. 3|Drafting Strategy Vol. 3]]
  [[Libri/Drafting Strategy Vol. 4|Drafting Strategy Vol. 4]]
  [[Libri/Drafting Strategy Vol. 5|Drafting Strategy Vol. 5]]
+ [[Libri/Gardener's Logbook|Gardener's Logbook]]
  [[Libri/Her Ladyship Sleep Diary|Her Ladyship Sleep Diary]]
  [[Libri/La Storia di Orindia Prima Versione|La Storia di Orindia Prima Versione]]
  [[Libri/La storia di Orindia|La storia di Orindia]]
