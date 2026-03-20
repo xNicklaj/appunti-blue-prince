@@ -11,6 +11,7 @@
  [[Lettere/Email 'stay put'|Email 'stay put']]
  [[Lettere/Email 'ulteriore richiesta'|Email 'ulteriore richiesta']]
  [[Lettere/Lettera 'Giro del mondo' - Corarica|Lettera 'Giro del mondo' - Corarica]]
+ [[Lettere/Lettera 'Giro del mondo' - Eraja|Lettera 'Giro del mondo' - Eraja]]
  [[Lettere/Lettera 'Giro del mondo' - Fenn Aries|Lettera 'Giro del mondo' - Fenn Aries]]
  [[Lettere/Lettera 'Giro del mondo' - Orinda Aries|Lettera 'Giro del mondo' - Orinda Aries]]
  [[Lettere/Lettera da Daniel Jones|Lettera da Daniel Jones]]

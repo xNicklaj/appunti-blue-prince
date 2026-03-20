@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documenti/Nota sulle chiavi del sanctum.md",
+                "file": "Stanze/Stanza del tesoro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota sulle chiavi del sanctum"
+              "title": "Stanza del tesoro"
             }
           }
         ],
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "treas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Ricerca"
+              "title": "Search"
             }
           },
           {
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Nota sulle chiavi del sanctum.md",
+                "file": "Stanze/Stanza del tesoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nota sulle chiavi del sanctum"
+              "title": "Backlinks for Stanza del tesoro"
             }
           },
           {
@@ -189,6 +189,16 @@
   },
   "active": "13675781e68fa34d",
   "lastOpenFiles": [
+    "Lettere/Lettera 'Giro del mondo' - Eraja.md",
+    "Lettere/assets/Pasted image 20260320120337.png",
+    "Lettere/assets/Pasted image 20260320120325.png",
+    "Lettere/assets/Pasted image 20260320120318.png",
+    "Lettere/Lettera 'Giro del mondo' - Corarica.md",
+    "Lettere/Lettera 'Giro del mondo' - Orinda Aries.md",
+    "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
+    "Stanze/Stanza del tesoro.md",
+    "Stanze/assets/Pasted image 20260320115524.png",
+    "Documenti/Nota sulle chiavi del sanctum.md",
     "Libri/The Curse of Black Bridge.md",
     "Libri/Swim Bird.md",
     "Libri/Quaderno del custode.md",
@@ -200,7 +210,6 @@
     "Libri/A new clue.md",
     "Documenti/Note di Revane.md",
     "Documenti/Nota sulle leve dell'anticamera.md",
-    "Documenti/Nota sulle chiavi del sanctum.md",
     "Documenti/Nota sul foundation elevator.md",
     "Documenti/Nota sui post-it colorati.md",
     "Documenti/Nota su Kirk Darren.md",
@@ -209,22 +218,12 @@
     "Documenti/Nota per il corriere.md",
     "Documenti/Nota per Christoph.md",
     "Documenti/Nota nel Freezer.md",
-    "Documenti/Nota in binario.md",
-    "Documenti/Nota di ricatto.md",
-    "Documenti/Nota di stampa per la Camera Oscura.md",
-    "Documenti/Nota di avviso per Christoph.md",
-    "Documenti/Nota dello shelter.md",
-    "Documenti/Nota della dispensa.md",
     "Immagini/assets/Pasted image 20260317090658.png",
     "Libri/assets/Pasted image 20260317090624.png",
     "Libri/assets/image_2026-03-16_23-21-24.png",
     "Libri/assets/Pasted image 20260317090539.png",
     "Libri/assets/Pasted image 20260317090530.png",
     "Libri/assets/Pasted image 20260317090524.png",
-    "Libri/assets/Pasted image 20260317090513.png",
-    "Libri/assets/Pasted image 20260317090423.png",
-    "Libri/assets/Pasted image 20260317090417.png",
-    "Libri/assets/Pasted image 20260317090352.png",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",
