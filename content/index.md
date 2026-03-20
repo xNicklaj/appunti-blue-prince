@@ -18,9 +18,9 @@ aliases:
 - [ ] Esaminare tutte le scritte con la lente di ingrandimento;
 - [x] Accendere candele nella torch room in[[Mappa dell'underground|Underground]];
 - [ ] Aprire tutte le casse nella [[Riserva]]
-- [ ] Capire come utilizzare il martello potenziato;
+- [x] Capire come utilizzare il martello potenziato;
 - [x] Capire come abbassare la ruota dentata nell'[[Mappa dell'underground|Underground]] passando per il [[Basement]]
-- [ ] Capire quella parete strana al fondo del [[Basement]];
+- [x] Capire quella parete strana al fondo del [[Basement]];
 - [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
 - [ ] Aprire e capire le safe restanti: ([[Studio|Study]], [[Drafting Studio]], e...?);
 - [ ] Capire se effettivamente c'è altro nel [[Secret Garden]]?
@@ -36,8 +36,8 @@ aliases:
 - [x] Risolvere A New Clue
 - [x] Swansongcss?
 - [ ] Fare 5 esperimenti per le radiazioni
-- [ ] "[[A new clue|Have you seen all the signs?]]" - "[[Nota con giornale|No Sign Yet]]"
+- [x] "[[A new clue|Have you seen all the signs?]]" - "[[Nota con giornale|No Sign Yet]]"
 - [ ] Prendere "Blessing of the Monk" > stanza da 4 in the grounds come in [[Her Ladyship Sleep Diary]]
 - [ ] Trovare chiave del vault
 - [ ] Trovare chiave della throneroom
-- [ ] Sbloccare porta "Eraja"
+- [x] Sbloccare porta "Eraja"
