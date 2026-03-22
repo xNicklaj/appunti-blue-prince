@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Stanza del tesoro.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stanza del tesoro"
+              "title": "index"
+            }
+          },
+          {
+            "id": "9d47e1c8fcdaaea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documenti/Nota sulle chiavi del sanctum.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nota sulle chiavi del sanctum"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Stanza del tesoro.md",
+                "file": "Documenti/Nota sulle chiavi del sanctum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +191,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stanza del tesoro"
+              "title": "Backlinks for Nota sulle chiavi del sanctum"
             }
           },
           {
@@ -215,15 +229,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c92ed14745dc7cb7",
+  "active": "9d47e1c8fcdaaea3",
   "lastOpenFiles": [
+    "index.md",
+    "Stanze/Stanza del tesoro.md",
     "Stanze/assets/Pasted image 20260320142917.png",
     "Stanze/assets/Pasted image 20260320131718.png",
     "Documenti/Lettera dietro il falso muro.md",
     "Documenti/assets/Pasted image 20260320124155.png",
-    "Stanze/Stanza del tesoro.md",
     "Stanze/assets/Pasted image 20260320123849.png",
-    "index.md",
     "Note della posta.md",
     "assets/Pasted image 20260320122446.png",
     "assets/Pasted image 20260320122441.png",
@@ -232,7 +246,6 @@
     "assets/Pasted image 20260320122426.png",
     "Stanze/Posta.md",
     "Stanze/assets/Pasted image 20260320122338.png",
-    "Stanze/assets/Pasted image 20260320122334.png",
     "Persone/Denny Revane.md",
     "Libri/Gardener's Logbook.md",
     "Immagini/Mappa dell'underground con messaggio.md",

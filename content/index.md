@@ -37,7 +37,7 @@ aliases:
 - [x] Swansongcss?
 - [ ] Fare 5 esperimenti per le radiazioni
 - [x] "[[A new clue|Have you seen all the signs?]]" - "[[Nota con giornale|No Sign Yet]]"
-- [ ] Prendere "Blessing of the Monk" > stanza da 4 in the grounds come in [[Her Ladyship Sleep Diary]]
+- [x] Prendere "Blessing of the Monk" > stanza da 4 in the grounds come in [[Her Ladyship Sleep Diary]]
 - [ ] Trovare chiave del vault
 - [ ] Trovare chiave della throneroom
 - [x] Sbloccare porta "Eraja"
