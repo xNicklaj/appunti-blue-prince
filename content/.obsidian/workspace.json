@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lettere/Lettera Rossa V.md",
+                "file": "Stanze/Stanza del tesoro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lettera Rossa V"
+              "title": "Stanza del tesoro"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettere/Lettera Rossa V.md",
+                "file": "Stanze/Stanza del tesoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lettera Rossa V"
+              "title": "Backlinks for Stanza del tesoro"
             }
           },
           {
@@ -174,11 +174,13 @@
   },
   "active": "e9e40cee004b47aa",
   "lastOpenFiles": [
+    "Stanze/assets/Pasted image 20260323220609.png",
+    "Stanze/assets/Pasted image 20260323220549.png",
+    "Lettere/Lettera Rossa V.md",
     "Lettere/assets/Pasted image 20260323112533.png",
     "Lettere/assets/Pasted image 20260323112526.png",
     "Lettere/assets/Pasted image 20260323112521.png",
     "Lettere/Lettera Rossa II.md",
-    "Lettere/Lettera Rossa V.md",
     "Lettere/assets/Pasted image 20260323112454.png",
     "Lettere/assets/Pasted image 20260323112443.png",
     "Lettere/assets/Pasted image 20260323112438.png",
@@ -187,8 +189,6 @@
     "Documenti/assets/Pasted image 20260323112404.png",
     "Documenti/assets/Pasted image 20260323112356.png",
     "Documenti/assets/Pasted image 20260323112346.png",
-    "Documenti/assets/Pasted image 20260323112336.png",
-    "Documenti/assets/Pasted image 20260323112328.png",
     "Lettere/Lettera 'Giro del mondo' - Nuance.md",
     "Lettere/Lettera 'Giro del mondo' - Arch Aries.md",
     "Note della posta.md",
