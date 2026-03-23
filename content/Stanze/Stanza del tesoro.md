@@ -20,4 +20,5 @@ Contiene diversi memo ogni volta che ci vai.
 | Cassa                                     | Statement                                 |
 | ----------------------------------------- | ----------------------------------------- |
 | ![[Pasted image 20260323005013.png\|800]] | ![[Pasted image 20260323005031.png\|500]] |
-| ![[Pasted image 20260323012508.png\|800]] | ![[Pasted image 20260323012522.png\|500]]      |
+| ![[Pasted image 20260323012508.png\|800]] | ![[Pasted image 20260323012522.png\|500]] |
+| ![[Pasted image 20260323102405.png\|800]] | ![[Pasted image 20260323102456.png\|500]]      |

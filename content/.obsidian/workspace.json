@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note della posta.md",
-                "mode": "preview",
+                "file": "Stanze/Stanza del tesoro.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note della posta"
+              "title": "Stanza del tesoro"
             }
           }
         ],
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note della posta.md",
+                "file": "Stanze/Stanza del tesoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Note della posta"
+              "title": "Backlinks for Stanza del tesoro"
             }
           },
           {
@@ -245,6 +245,9 @@
   },
   "active": "62a111e1c04d893e",
   "lastOpenFiles": [
+    "Stanze/assets/Pasted image 20260323102456.png",
+    "Stanze/assets/Pasted image 20260323102405.png",
+    "Note della posta.md",
     "Immagini/Albero genealogico.md",
     "Documenti/Foreman's Log 3.md",
     "Lettere/Lettera 'Giro del mondo' - Orinda Aries.md",
@@ -258,7 +261,6 @@
     "Stanze/assets/Pasted image 20260323005031.png",
     "Stanze/assets/Pasted image 20260323005013.png",
     "Documenti/Nota sulle chiavi del sanctum.md",
-    "Note della posta.md",
     "assets/Pasted image 20260323002954.png",
     "Documenti/Poesia 'Rosa dei venti'.md",
     "Stanze/Torre dell'orologio.md",
@@ -268,7 +270,6 @@
     "Documenti/Lettera dietro il falso muro.md",
     "Documenti/assets/Pasted image 20260320124155.png",
     "Stanze/assets/Pasted image 20260320123849.png",
-    "assets/Pasted image 20260320122446.png",
     "Stanze/Posta.md",
     "Persone/Denny Revane.md",
     "Libri/Gardener's Logbook.md",
@@ -280,7 +281,6 @@
     "Libri/La storia di Orindia.md",
     "Libri/Her Ladyship Sleep Diary.md",
     "Libri/Drafting Strategy Vol. 1.md",
-    "Libri/A new clue.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",
