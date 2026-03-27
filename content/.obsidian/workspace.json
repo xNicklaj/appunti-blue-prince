@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Stanza del tesoro"
             }
-          },
-          {
-            "id": "d763a144459baa5f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d763a144459baa5f",
+  "active": "e9e40cee004b47aa",
   "lastOpenFiles": [
+    "Stanze/assets/Pasted image 20260327212311.png",
+    "Stanze/assets/Pasted image 20260327212258.png",
     "Stanze/assets/Pasted image 20260323220609.png",
     "Stanze/assets/Pasted image 20260323220549.png",
     "Lettere/Lettera Rossa V.md",
@@ -200,8 +189,6 @@
     "Stanze/Stanza del tesoro.md",
     "Documenti/Mt. Holly Estate Deed.md",
     "Documenti/assets/Pasted image 20260323112404.png",
-    "Documenti/assets/Pasted image 20260323112356.png",
-    "Documenti/assets/Pasted image 20260323112346.png",
     "Lettere/Lettera 'Giro del mondo' - Nuance.md",
     "Lettere/Lettera 'Giro del mondo' - Arch Aries.md",
     "Note della posta.md",
