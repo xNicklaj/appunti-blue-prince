@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Stanza del tesoro"
             }
+          },
+          {
+            "id": "d763a144459baa5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9e40cee004b47aa",
+  "active": "d763a144459baa5f",
   "lastOpenFiles": [
     "Stanze/assets/Pasted image 20260323220609.png",
     "Stanze/assets/Pasted image 20260323220549.png",
