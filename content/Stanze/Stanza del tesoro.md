@@ -25,4 +25,5 @@ Contiene diversi memo ogni volta che ci vai.
 | ![[Pasted image 20260323220549.png\|800]] | ![[Pasted image 20260323220609.png\|500]] |
 | ![[Pasted image 20260327212258.png\|800]] | ![[Pasted image 20260327212311.png\|525]] |
 | ![[Pasted image 20260327221125.png\|800]] | ![[Pasted image 20260327221134.png\|525]] |
-| ![[Pasted image 20260328180413.png\|800]] | ![[Pasted image 20260328180423.png\|525]]      |
+| ![[Pasted image 20260328180413.png\|800]] | ![[Pasted image 20260328180423.png\|525]] |
+| ![[Pasted image 20260328184414.png\|800]] | ![[Pasted image 20260328184429.png\|525]]      |
