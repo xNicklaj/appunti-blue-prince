@@ -26,6 +26,7 @@
  [[Lettere/Lettera Rossa II|Lettera Rossa II]]
  [[Lettere/Lettera Rossa IV|Lettera Rossa IV]]
  [[Lettere/Lettera Rossa V|Lettera Rossa V]]
+ [[Lettere/Lettera Rossa VI|Lettera Rossa VI]]
  [[Lettere/Lettera Rossa VII|Lettera Rossa VII]]
  [[Lettere/Lettera Rossa VIII|Lettera Rossa VIII]]
  [[Lettere/Lettere di Mary Epsen|Lettere di Mary Epsen]]
