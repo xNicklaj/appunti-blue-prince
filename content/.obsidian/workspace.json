@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lettere/Lettera Rossa VI.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lettera Rossa VI"
+              "title": "index"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettere/Lettera Rossa VI.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lettera Rossa VI"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -174,19 +174,22 @@
   },
   "active": "e9e40cee004b47aa",
   "lastOpenFiles": [
+    "Immagini/Mappa dell'underground.md",
+    "Immagini/Mappa dell'underground con messaggio.md",
+    "index.md",
+    "Immagini/Leve dell'anticamera.md",
+    "Lettere/Lettera Rossa VI.md",
     "Lettere/assets/Pasted image 20260328222414.png",
     "Lettere/assets/Pasted image 20260328222359.png",
     "Lettere/assets/Pasted image 20260328222345.png",
     "Lettere/assets/Pasted image 20260328222337.png",
     "Stanze/Stanza del tesoro.md",
-    "Lettere/Lettera Rossa VI.md",
     "Stanze/assets/Pasted image 20260328212954.png",
     "Stanze/assets/Pasted image 20260328212943.png",
     "Stanze/assets/Pasted image 20260328210022.png",
     "Stanze/assets/Pasted image 20260328210001.png",
     "Stanze/assets/Pasted image 20260328203106.png",
     "Stanze/assets/Pasted image 20260328203054.png",
-    "Stanze/assets/Pasted image 20260328184429.png",
     "Lettere/Lettera Rossa V.md",
     "Lettere/Lettera Rossa II.md",
     "Documenti/Mt. Holly Estate Deed.md",
@@ -203,13 +206,10 @@
     "Documenti/Nota sulle chiavi del sanctum.md",
     "Documenti/Poesia 'Rosa dei venti'.md",
     "Stanze/Torre dell'orologio.md",
-    "index.md",
     "Documenti/Lettera dietro il falso muro.md",
     "Stanze/Posta.md",
     "Persone/Denny Revane.md",
     "Libri/Gardener's Logbook.md",
-    "Immagini/Mappa dell'underground con messaggio.md",
-    "Libri/The Curse of Black Bridge.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",

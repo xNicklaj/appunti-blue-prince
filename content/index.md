@@ -6,7 +6,7 @@ aliases:
 ## To do
 - [ ] Far sciogliere giaccio nella [[Stanza frigorifera]]
 - [x] Sbloccare la combinazione a 4 cifre nell'[[Underpass]], dietro la porta rossa;
-- [ ] Trovare tutte le [[Classroom]];
+- [x] Trovare tutte le [[Classroom]];
 - [x] Consegnare una lettera alla mail room tramite gli esperimenti del [[Laboratorio|Laboratory]];
 - [x] Provare a rientrare nella [[Stanza 46]]?
 - [x] Capire come aprire le porte dietro alla leva nel [[Sanctum]];
@@ -23,15 +23,15 @@ aliases:
 - [x] Capire quella parete strana al fondo del [[Basement]];
 - [ ] Comprare tutti gli oggetti dal [[Mt. Holly Shop]];
 - [ ] Aprire e capire le safe restanti: ([[Studio|Study]], [[Drafting Studio]], e...?);
-- [ ] Capire se effettivamente c'è altro nel [[Secret Garden]]?
+- [x] Capire se effettivamente c'è altro nel [[Secret Garden]]?
 - [ ] Capire se lo [[Shrine]] fa altro?
 - [x] Capire cosa fa il [[Trading Post]];
-- [ ] Capire se [[Nota della dispensa]] è un enigma?
+- [x] Capire se [[Nota della dispensa]] è un enigma?
 - [x] Capire come superare il [[Cloister]];
 - [x] Spostare barca nell'[[Mappa dell'underground|Underground]];
 - [x] Segreto che Alberto non ha detto perché è stronzo;
 - [x] Trovare insieme Tomba e Her Ladyship Chamber e usare la chiave del diario di Clara Epsen
-- [ ] Magnifying glass in drafting studio
+- [x] Magnifying glass in drafting studio
 - [x] Capire foglio X Y Z
 - [x] Risolvere A New Clue
 - [x] Swansongcss?
@@ -39,5 +39,5 @@ aliases:
 - [x] "[[A new clue|Have you seen all the signs?]]" - "[[Nota con giornale|No Sign Yet]]"
 - [x] Prendere "Blessing of the Monk" > stanza da 4 in the grounds come in [[Her Ladyship Sleep Diary]]
 - [ ] Trovare chiave del vault
-- [ ] Trovare chiave della throneroom
+- [x] Trovare chiave della throneroom
 - [x] Sbloccare porta "Eraja"
