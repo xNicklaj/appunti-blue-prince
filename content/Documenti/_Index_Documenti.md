@@ -7,6 +7,7 @@
  [[Documenti/Biglietto Where is room 46|Biglietto Where is room 46]]
  [[Documenti/Calendario del drafting study|Calendario del drafting study]]
  [[Documenti/Certificato di nascita|Certificato di nascita]]
+ [[Documenti/Documento 'Numeric Cores'|Documento 'Numeric Cores']]
  [[Documenti/Documento della classe|Documento della classe]]
  [[Documenti/Documento della miniera di gemme|Documento della miniera di gemme]]
  [[Documenti/Documento di commissione per i quadri|Documento di commissione per i quadri]]
