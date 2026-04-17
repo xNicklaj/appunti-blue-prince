@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Puzzle/Matematica dei colori.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Matematica dei colori"
             }
           }
         ]
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Puzzle/Matematica dei colori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Matematica dei colori"
             }
           },
           {
@@ -174,9 +174,9 @@
   },
   "active": "e9e40cee004b47aa",
   "lastOpenFiles": [
+    "index.md",
     "Immagini/Mappa dell'underground.md",
     "Immagini/Mappa dell'underground con messaggio.md",
-    "index.md",
     "Immagini/Leve dell'anticamera.md",
     "Lettere/Lettera Rossa VI.md",
     "Lettere/assets/Pasted image 20260328222414.png",
