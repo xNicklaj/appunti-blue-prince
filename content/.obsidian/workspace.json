@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanze/Cappella.md",
+                "file": "Libri/A new clue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cappella"
+              "title": "A new clue"
             }
           },
           {
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stanze/Cappella.md",
+                "file": "Libri/A new clue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cappella"
+              "title": "Backlinks for A new clue"
             }
           },
           {
@@ -259,6 +259,7 @@
   },
   "active": "592914e8cbede88f",
   "lastOpenFiles": [
+    "Stanze/Cappella.md",
     "Stanze/Stanza del tesoro.md",
     "Stanze/assets/Pasted image 20260417133845.png",
     "Stanze/assets/Pasted image 20260417133832.png",
@@ -273,7 +274,6 @@
     "Libri/Drafting Strategy Vol. 1.md",
     "Immagini/Mappa dell'underground con messaggio.md",
     "Documenti/Documento 'Numeric Cores'.md",
-    "Stanze/Cappella.md",
     "Documenti/assets/Pasted image 20260417123701.png",
     "Documenti/assets/Pasted image 20260417123654.png",
     "Documenti/assets/Pasted image 20260417123618.png",
