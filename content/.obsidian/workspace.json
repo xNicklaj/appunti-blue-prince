@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puzzle/Puzzle 'Six or zero'.md",
+                "file": "Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Puzzle 'Six or zero'"
+              "title": "Timeline"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Puzzle/Puzzle 'Six or zero'.md",
+                "file": "Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Puzzle 'Six or zero'"
+              "title": "Backlinks for Timeline"
             }
           },
           {
@@ -231,6 +231,8 @@
   },
   "active": "fb16ca2c582d7afd",
   "lastOpenFiles": [
+    "Note della posta.md",
+    "Puzzle/Puzzle 'Six or zero'.md",
     "Libri/Drafting Strategy Vol. 5.md",
     "Libri/Drafting Strategy Vol. 4.md",
     "Libri/Drafting Strategy Vol. 3.md",
@@ -261,12 +263,10 @@
     "Documenti/Mt. Holly Estate Deed.md",
     "Lettere/Lettera 'Giro del mondo' - Nuance.md",
     "Lettere/Lettera 'Giro del mondo' - Arch Aries.md",
-    "Note della posta.md",
     "Documenti/Foreman's Log 3.md",
     "Lettere/Lettera 'Giro del mondo' - Orinda Aries.md",
     "Lettere/Lettera 'Giro del mondo' - Fenn Aries.md",
     "Lettere/Lettera 'Giro del mondo' - Eraja.md",
-    "Lettere/Lettera 'Giro del mondo' - Corarica.md",
     "Mappa Visiva.canvas",
     "Senza nome.base",
     "Senza nome.canvas",
