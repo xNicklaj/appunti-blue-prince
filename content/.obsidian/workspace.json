@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libri/A new clue.md",
+                "file": "Immagini/Albero genealogico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A new clue"
+              "title": "Backlinks for Albero genealogico"
             }
           },
           {
@@ -257,9 +257,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "592914e8cbede88f",
+  "active": "700a19b379cf11e3",
   "lastOpenFiles": [
     "Stanze/Cappella.md",
+    "Libri/A new clue.md",
     "Stanze/Stanza del tesoro.md",
     "Stanze/assets/Pasted image 20260417133845.png",
     "Stanze/assets/Pasted image 20260417133832.png",
